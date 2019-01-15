@@ -1,5 +1,5 @@
 Flow report for Top
-Thu Jun 16 13:07:56 2016
+Mon Jan 14 20:43:31 2019
 Quartus II 64-Bit Version 13.0.1 Build 232 06/12/2013 Service Pack 1 SJ Web Edition
 
 
@@ -40,20 +40,20 @@ applicable agreement for further details.
 +--------------------------------------------------------------------------------------+
 ; Flow Summary                                                                         ;
 +------------------------------------+-------------------------------------------------+
-; Flow Status                        ; Successful - Thu Jun 16 13:07:56 2016           ;
+; Flow Status                        ; Successful - Mon Jan 14 20:43:31 2019           ;
 ; Quartus II 64-Bit Version          ; 13.0.1 Build 232 06/12/2013 SP 1 SJ Web Edition ;
 ; Revision Name                      ; Top                                             ;
-; Top-level Entity Name              ; processador                                     ;
+; Top-level Entity Name              ; bancoRegistradores                              ;
 ; Family                             ; Cyclone II                                      ;
 ; Device                             ; EP2C70F896C6                                    ;
 ; Timing Models                      ; Final                                           ;
-; Total logic elements               ; 14 / 68,416 ( < 1 % )                           ;
-;     Total combinational functions  ; 13 / 68,416 ( < 1 % )                           ;
-;     Dedicated logic registers      ; 7 / 68,416 ( < 1 % )                            ;
-; Total registers                    ; 7                                               ;
-; Total pins                         ; 91 / 622 ( 15 % )                               ;
+; Total logic elements               ; 129 / 68,416 ( < 1 % )                          ;
+;     Total combinational functions  ; 100 / 68,416 ( < 1 % )                          ;
+;     Dedicated logic registers      ; 80 / 68,416 ( < 1 % )                           ;
+; Total registers                    ; 80                                              ;
+; Total pins                         ; 36 / 622 ( 6 % )                                ;
 ; Total virtual pins                 ; 0                                               ;
-; Total memory bits                  ; 32 / 1,152,000 ( < 1 % )                        ;
+; Total memory bits                  ; 0 / 1,152,000 ( 0 % )                           ;
 ; Embedded Multiplier 9-bit elements ; 0 / 300 ( 0 % )                                 ;
 ; Total PLLs                         ; 0 / 4 ( 0 % )                                   ;
 +------------------------------------+-------------------------------------------------+
@@ -64,29 +64,32 @@ applicable agreement for further details.
 +-------------------+---------------------+
 ; Option            ; Setting             ;
 +-------------------+---------------------+
-; Start date & time ; 06/16/2016 13:07:31 ;
+; Start date & time ; 01/14/2019 20:39:40 ;
 ; Main task         ; Compilation         ;
 ; Revision Name     ; Top                 ;
 +-------------------+---------------------+
 
 
-+---------------------------------------------------------------------------------------------------------------------+
-; Flow Non-Default Global Settings                                                                                    ;
-+-------------------------------------+--------------------------------+---------------+-------------+----------------+
-; Assignment Name                     ; Value                          ; Default Value ; Entity Name ; Section Id     ;
-+-------------------------------------+--------------------------------+---------------+-------------+----------------+
-; COMPILER_SIGNATURE_ID               ; 29351199170059.146609325125768 ; --            ; --          ; --             ;
-; EDA_GENERATE_FUNCTIONAL_NETLIST     ; On                             ; --            ; --          ; eda_simulation ;
-; EDA_OUTPUT_DATA_FORMAT              ; Verilog Hdl                    ; --            ; --          ; eda_simulation ;
-; EDA_SIMULATION_TOOL                 ; ModelSim-Altera (Verilog)      ; <None>        ; --          ; --             ;
-; MAX_CORE_JUNCTION_TEMP              ; 85                             ; --            ; --          ; --             ;
-; MIN_CORE_JUNCTION_TEMP              ; 0                              ; --            ; --          ; --             ;
-; PARTITION_COLOR                     ; 16764057                       ; --            ; processador ; --             ;
-; PARTITION_FITTER_PRESERVATION_LEVEL ; PLACEMENT_AND_ROUTING          ; --            ; processador ; --             ;
-; PARTITION_NETLIST_TYPE              ; SOURCE                         ; --            ; processador ; --             ;
-; PROJECT_OUTPUT_DIRECTORY            ; output_files                   ; --            ; --          ; --             ;
-; TOP_LEVEL_ENTITY                    ; processador                    ; Top           ; --          ; --             ;
-+-------------------------------------+--------------------------------+---------------+-------------+----------------+
++-----------------------------------------------------------------------------------------------------------------------------------+
+; Flow Non-Default Global Settings                                                                                                  ;
++-------------------------------------+---------------------------------------+---------------+--------------------+----------------+
+; Assignment Name                     ; Value                                 ; Default Value ; Entity Name        ; Section Id     ;
++-------------------------------------+---------------------------------------+---------------+--------------------+----------------+
+; COMPILER_SIGNATURE_ID               ; 105996050855504.154750918000160       ; --            ; --                 ; --             ;
+; EDA_GENERATE_FUNCTIONAL_NETLIST     ; Off                                   ; --            ; --                 ; eda_simulation ;
+; EDA_OUTPUT_DATA_FORMAT              ; Verilog Hdl                           ; --            ; --                 ; eda_simulation ;
+; EDA_SIMULATION_TOOL                 ; ModelSim-Altera (Verilog)             ; <None>        ; --                 ; --             ;
+; EDA_TIME_SCALE                      ; 1 ps                                  ; --            ; --                 ; eda_simulation ;
+; MAX_CORE_JUNCTION_TEMP              ; 85                                    ; --            ; --                 ; --             ;
+; MIN_CORE_JUNCTION_TEMP              ; 0                                     ; --            ; --                 ; --             ;
+; PARTITION_COLOR                     ; 16764057                              ; --            ; bancoRegistradores ; --             ;
+; PARTITION_FITTER_PRESERVATION_LEVEL ; PLACEMENT_AND_ROUTING                 ; --            ; bancoRegistradores ; --             ;
+; PARTITION_NETLIST_TYPE              ; SOURCE                                ; --            ; bancoRegistradores ; --             ;
+; POWER_BOARD_THERMAL_MODEL           ; None (CONSERVATIVE)                   ; --            ; --                 ; --             ;
+; POWER_PRESET_COOLING_SOLUTION       ; 23 MM HEAT SINK WITH 200 LFPM AIRFLOW ; --            ; --                 ; --             ;
+; PROJECT_OUTPUT_DIRECTORY            ; output_files                          ; --            ; --                 ; --             ;
+; TOP_LEVEL_ENTITY                    ; bancoRegistradores                    ; Top           ; --                 ; --             ;
++-------------------------------------+---------------------------------------+---------------+--------------------+----------------+
 
 
 +-------------------------------------------------------------------------------------------------------------------------------+
@@ -94,12 +97,14 @@ applicable agreement for further details.
 +---------------------------+--------------+-------------------------+---------------------+------------------------------------+
 ; Module Name               ; Elapsed Time ; Average Processors Used ; Peak Virtual Memory ; Total CPU Time (on all processors) ;
 +---------------------------+--------------+-------------------------+---------------------+------------------------------------+
-; Analysis & Synthesis      ; 00:00:02     ; 1.0                     ; 481 MB              ; 00:00:02                           ;
-; Fitter                    ; 00:00:11     ; 1.3                     ; 899 MB              ; 00:00:14                           ;
-; Assembler                 ; 00:00:05     ; 1.0                     ; 461 MB              ; 00:00:04                           ;
-; TimeQuest Timing Analyzer ; 00:00:02     ; 1.0                     ; 514 MB              ; 00:00:02                           ;
-; EDA Netlist Writer        ; 00:00:00     ; 1.0                     ; 408 MB              ; 00:00:01                           ;
-; Total                     ; 00:00:20     ; --                      ; --                  ; 00:00:23                           ;
+; Analysis & Synthesis      ; 00:00:02     ; 1.0                     ; 432 MB              ; 00:00:01                           ;
+; Fitter                    ; 00:00:10     ; 1.0                     ; 763 MB              ; 00:00:10                           ;
+; Assembler                 ; 00:00:03     ; 1.0                     ; 430 MB              ; 00:00:03                           ;
+; TimeQuest Timing Analyzer ; 00:00:01     ; 1.0                     ; 408 MB              ; 00:00:01                           ;
+; EDA Netlist Writer        ; 00:00:00     ; 1.0                     ; 386 MB              ; 00:00:00                           ;
+; EDA Netlist Writer        ; 00:00:01     ; 1.0                     ; 382 MB              ; 00:00:00                           ;
+; EDA Netlist Writer        ; 00:00:01     ; 1.0                     ; 399 MB              ; 00:00:01                           ;
+; Total                     ; 00:00:18     ; --                      ; --                  ; 00:00:16                           ;
 +---------------------------+--------------+-------------------------+---------------------+------------------------------------+
 
 
@@ -108,11 +113,13 @@ applicable agreement for further details.
 +---------------------------+------------------+-----------+------------+----------------+
 ; Module Name               ; Machine Hostname ; OS Name   ; OS Version ; Processor type ;
 +---------------------------+------------------+-----------+------------+----------------+
-; Analysis & Synthesis      ; Dell_W8          ; Windows 7 ; 6.2        ; x86_64         ;
-; Fitter                    ; Dell_W8          ; Windows 7 ; 6.2        ; x86_64         ;
-; Assembler                 ; Dell_W8          ; Windows 7 ; 6.2        ; x86_64         ;
-; TimeQuest Timing Analyzer ; Dell_W8          ; Windows 7 ; 6.2        ; x86_64         ;
-; EDA Netlist Writer        ; Dell_W8          ; Windows 7 ; 6.2        ; x86_64         ;
+; Analysis & Synthesis      ; LAB-DEINFO       ; Windows 7 ; 6.1        ; x86_64         ;
+; Fitter                    ; LAB-DEINFO       ; Windows 7 ; 6.1        ; x86_64         ;
+; Assembler                 ; LAB-DEINFO       ; Windows 7 ; 6.1        ; x86_64         ;
+; TimeQuest Timing Analyzer ; LAB-DEINFO       ; Windows 7 ; 6.1        ; x86_64         ;
+; EDA Netlist Writer        ; LAB-DEINFO       ; Windows 7 ; 6.1        ; x86_64         ;
+; EDA Netlist Writer        ; LAB-DEINFO       ; Windows 7 ; 6.1        ; x86_64         ;
+; EDA Netlist Writer        ; LAB-DEINFO       ; Windows 7 ; 6.1        ; x86_64         ;
 +---------------------------+------------------+-----------+------------+----------------+
 
 
@@ -124,6 +131,8 @@ quartus_fit --read_settings_files=off --write_settings_files=off Nano -c Top
 quartus_asm --read_settings_files=off --write_settings_files=off Nano -c Top
 quartus_sta Nano -c Top
 quartus_eda --read_settings_files=off --write_settings_files=off Nano -c Top
+quartus_eda --gen_testbench --check_outputs=on --tool=modelsim_oem --format=verilog Nano -c Top --vector_source="C:/Users/Aluno/Downloads/Projeto Nano/bancoregistradores.vwf" --testbench_file=./simulation/qsim/Nano.vt
+quartus_eda --functional=off --timescale=1ps --simulation=on --tool=modelsim_oem --format=verilog Nano -c Top
 
 
 

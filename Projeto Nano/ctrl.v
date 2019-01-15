@@ -82,11 +82,26 @@ module ctrl ( 	estado,
 								  CmdULA <= cmdADD; 
 								  Wr <= 1'b1;
 							   end
-					  opAND:;
-					  opOR :;
-					  opSUB:;
-					  opNEG:;
-					  opNOT:;
+					  opAND:begin 
+									CmdULA <= cmdAND;
+									Wr <= 1'b1;
+								end
+					  opOR :begin 
+									CmdULA <= cmdOR;
+									Wr <= 1'b1;
+								end
+					  opSUB:begin 
+									CmdULA <= cmdSUB;
+									Wr <= 1'b1;
+								end
+					  opNEG:begin 
+									CmdULA <= cmdNEG;
+									Wr <= 1'b1;
+								end
+					  opNOT:begin 
+									CmdULA <= cmdNOT;
+									Wr <= 1'b1;
+								end
 					  opCPY:;
 					  opLRG: begin
 					            SelRegWr <= 1'b1;
