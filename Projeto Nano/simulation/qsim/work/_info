@@ -4,218 +4,218 @@ K3
 cModel Technology
 Z0 dC:\Users\Abner\Documents\Rural\2016-1\Circuitos_Digitais\Projetos da Disciplina\Nano\simulation\qsim
 vbancoRegistradores_vlg_check_tst
-!i10b 1
-!s100 jK[;I1TY=DVfAg1LbL51S2
-I;kDMbk@_KI`j>FeE[4igF1
-Vg4gT]hoQ2Yz<Z[89VFgEl3
-Z1 dC:\Users\Aluno\Downloads\Projeto Nano\simulation\qsim
-Z2 w1547509410
-Z3 8Nano.vt
-Z4 FNano.vt
+Z1 I;kDMbk@_KI`j>FeE[4igF1
+Z2 Vg4gT]hoQ2Yz<Z[89VFgEl3
+Z3 dC:\Users\Aluno\Downloads\Projeto Nano\simulation\qsim
+Z4 w1547509410
+Z5 8Nano.vt
+Z6 FNano.vt
 L0 69
-Z5 OV;L;10.1d;51
+Z7 OV;L;10.1d;51
 r1
-!s85 0
 31
-Z6 !s108 1547509411.923000
-Z7 !s107 Nano.vt|
-Z8 !s90 -work|work|Nano.vt|
+Z8 !s108 1547509411.923000
+Z9 !s107 Nano.vt|
+Z10 !s90 -work|work|Nano.vt|
+Z11 o-work work -O0
+Z12 nbanco@registradores_vlg_check_tst
+Z13 !s100 jK[;I1TY=DVfAg1LbL51S2
+!i10b 1
+!s85 0
 !s101 -O0
-Z9 o-work work -O0
-nbanco@registradores_vlg_check_tst
 vbancoRegistradores_vlg_sample_tst
-!i10b 1
-!s100 k_Q6^JoSPic@f?^Hn;7m_2
-IMzGLii]TM>=^SleBQeO:R1
-VXleMUh_3dYUlnIhLSl<U90
-R1
-R2
+Z14 IMzGLii]TM>=^SleBQeO:R1
+Z15 VXleMUh_3dYUlnIhLSl<U90
 R3
 R4
+R5
+R6
 L0 29
-R5
-r1
-!s85 0
-31
-R6
 R7
+r1
+31
 R8
-!s101 -O0
 R9
-nbanco@registradores_vlg_sample_tst
-vbancoRegistradores_vlg_vec_tst
+R10
+R11
+Z16 nbanco@registradores_vlg_sample_tst
+Z17 !s100 k_Q6^JoSPic@f?^Hn;7m_2
 !i10b 1
-!s100 ]Xi1kc?6B1<k9m8kcX1?R3
-IJRGRjL=neF7c82Fh?Goz10
-VZFSA0CF^eY3kG13k`LX@^2
-R1
-R2
+!s85 0
+!s101 -O0
+vbancoRegistradores_vlg_vec_tst
+Z18 IJRGRjL=neF7c82Fh?Goz10
+Z19 VZFSA0CF^eY3kG13k`LX@^2
 R3
 R4
-L0 441
 R5
-r1
-!s85 0
-31
 R6
+Z20 L0 441
 R7
-R8
-!s101 -O0
-R9
-nbanco@registradores_vlg_vec_tst
-vprocessador
-Z10 !s100 Ll:?VfWKWX;h4;2>zf1Mj1
-Z11 InTRNc7oQi5Cng1Jo0L?_Q2
-Z12 VMJeA[9kLcfk6R[HURBaR:1
-R1
-Z13 w1547508361
-Z14 8Top.vo
-Z15 FTop.vo
-L0 31
-R5
 r1
 31
-Z16 !s90 -work|work|Top.vo|
+R8
 R9
+R10
+R11
+Z21 nbanco@registradores_vlg_vec_tst
+Z22 !s100 ]Xi1kc?6B1<k9m8kcX1?R3
 !i10b 1
 !s85 0
-Z17 !s108 1547509411.743000
-Z18 !s107 Top.vo|
+!s101 -O0
+vprocessador
+Z23 !s100 Ll:?VfWKWX;h4;2>zf1Mj1
+Z24 InTRNc7oQi5Cng1Jo0L?_Q2
+Z25 VMJeA[9kLcfk6R[HURBaR:1
+Z26 dC:\Users\Pipi\Documents\Circuitos digitais\projetoNano-master\Projeto Nano\simulation\qsim
+Z27 w1547512849
+Z28 8Top.vo
+Z29 FTop.vo
+L0 31
+R7
+r1
+31
+Z30 !s90 -work|work|Top.vo|
+R11
+!i10b 1
+!s85 0
+Z31 !s108 1547763716.054000
+Z32 !s107 Top.vo|
 !s101 -O0
 vprocessador_vlg_check_tst
-Z19 IE^>UEiQkiXEPFNz[WF4c40
-Z20 V3HBBHbUaAToK2LJmkl87A0
-Z21 dC:\Users\Abner\Documents\Rural\2016-1\Circuitos_Digitais\Projetos da Disciplina\Nano - Copia\simulation\qsim
-Z22 w1466091476
-R3
-R4
+!i10b 1
+Z33 !s100 6:[bMPJoNn7:]gUZLJc>H0
+Z34 I0O3nGhdzAo0IK;GM93CE[3
+Z35 V3HBBHbUaAToK2LJmkl87A0
+R26
+Z36 w1547763714
+R5
+R6
 L0 61
-R5
+R7
 r1
-31
-Z23 !s108 1466091481.631000
-Z24 !s107 Nano.vt|
-R8
-R9
-Z25 !s100 RaVk^W3bjiO0hl6HjiElJ3
-!i10b 1
 !s85 0
+31
+Z37 !s108 1547763716.350000
+Z38 !s107 Nano.vt|
+R10
 !s101 -O0
+R11
 vprocessador_vlg_sample_tst
-Z26 IKbZK5GaF6Lj=^<MZ]4mKV1
-Z27 VJ6hfJ[]8hZ8_P^6I_MJ4H1
-R21
-R22
-R3
-R4
-L0 29
-R5
-r1
-31
-R23
-R24
-R8
-R9
-Z28 !s100 U`1N_9cOC77:33_izkDfa1
 !i10b 1
+Z39 !s100 U`1N_9cOC77:33_izkDfa1
+Z40 IKbZK5GaF6Lj=^<MZ]4mKV1
+Z41 VJ6hfJ[]8hZ8_P^6I_MJ4H1
+R26
+R36
+R5
+R6
+L0 29
+R7
+r1
 !s85 0
+31
+R37
+R38
+R10
 !s101 -O0
+R11
 vprocessador_vlg_vec_tst
-Z29 ICnQ:6FRFFgZkG5?4ggYA93
-Z30 VTHSaPDKg4Wj>2_O^anzBd2
-R1
-Z31 w1547509104
-R3
-R4
-L0 29
-R5
-r1
-31
-R8
-R9
-Z32 !s100 MeTBEV]5V;F0B4nA74TfT3
-Z33 !s108 1547509107.830000
-R24
 !i10b 1
-!s85 0
-!s101 -O0
-vprocessadorSch
-Z34 !s100 ;fObd[2YH63?5Y>3DHgK80
-Z35 I2:Y;SgIJZGSQ39V>O[>1C0
-Z36 V@YoMR0UAeK=?ZDg[khjQC0
-Z37 dC:\Users\Abner\Documents\Rural\2016-1\Circuitos_Digitais\Projetos da Disciplina\Nano\simulation\qsim
-Z38 w1466037991
-R14
-R15
-L0 31
+Z42 !s100 1WXLNzBNG[Y7?<hJS]cUT1
+Z43 I97M7PkI7Ym^fHmYHZ:QdF2
+Z44 VTHSaPDKg4Wj>2_O^anzBd2
+R26
+R36
 R5
+R6
+Z45 L0 1778
+R7
+r1
+!s85 0
+31
+R37
+R38
+R10
+!s101 -O0
+R11
+vprocessadorSch
+Z46 !s100 ;fObd[2YH63?5Y>3DHgK80
+Z47 I2:Y;SgIJZGSQ39V>O[>1C0
+Z48 V@YoMR0UAeK=?ZDg[khjQC0
+Z49 dC:\Users\Abner\Documents\Rural\2016-1\Circuitos_Digitais\Projetos da Disciplina\Nano\simulation\qsim
+Z50 w1466037991
+R28
+R29
+L0 31
+R7
 r1
 31
-R16
-R9
-Z39 nprocessador@sch
-Z40 !s108 1466037994.481000
-R18
+R30
+R11
+Z51 nprocessador@sch
+Z52 !s108 1466037994.481000
+R32
 !i10b 1
 !s85 0
 !s101 -O0
 vprocessadorSch_vlg_check_tst
-Z41 !s100 leM0gIEN?JME8gOaFnLB73
-Z42 I5mU8c_zkE`b8`]TAHTP5B3
-Z43 VLUEW[k;:IjFCdCjhg:dVi2
-R37
-Z44 w1466037990
-Z45 8Top.vt
-Z46 FTop.vt
+Z53 !s100 leM0gIEN?JME8gOaFnLB73
+Z54 I5mU8c_zkE`b8`]TAHTP5B3
+Z55 VLUEW[k;:IjFCdCjhg:dVi2
+R49
+Z56 w1466037990
+Z57 8Top.vt
+Z58 FTop.vt
 L0 59
-R5
+R7
 r1
 31
-Z47 !s108 1466037995.007000
-Z48 !s107 Top.vt|
-Z49 !s90 -work|work|Top.vt|
-R9
-Z50 nprocessador@sch_vlg_check_tst
+Z59 !s108 1466037995.007000
+Z60 !s107 Top.vt|
+Z61 !s90 -work|work|Top.vt|
+R11
+Z62 nprocessador@sch_vlg_check_tst
 !i10b 1
 !s85 0
 !s101 -O0
 vprocessadorSch_vlg_sample_tst
-Z51 !s100 ECK1ZXCcg?6]QfVhZOzZa2
-Z52 IRO[9iDYb_hM@`NOeL:TVV1
-Z53 VT=GPLafm:@:RNamkcfmFZ0
-R37
-R44
-R45
-R46
+Z63 !s100 ECK1ZXCcg?6]QfVhZOzZa2
+Z64 IRO[9iDYb_hM@`NOeL:TVV1
+Z65 VT=GPLafm:@:RNamkcfmFZ0
+R49
+R56
+R57
+R58
 L0 29
-R5
+R7
 r1
 31
-R47
-R48
-R49
-R9
-Z54 nprocessador@sch_vlg_sample_tst
+R59
+R60
+R61
+R11
+Z66 nprocessador@sch_vlg_sample_tst
 !i10b 1
 !s85 0
 !s101 -O0
 vprocessadorSch_vlg_vec_tst
-Z55 !s100 aF<T?YF@LA^Z^b08<ok4g2
-Z56 IV;nWodg`Aj^WR`7?j=`1`3
-Z57 Vn7EmJnAd[7SPMWf[cCnVe2
-R37
-R44
-R45
-R46
-Z58 L0 645
-R5
+Z67 !s100 aF<T?YF@LA^Z^b08<ok4g2
+Z68 IV;nWodg`Aj^WR`7?j=`1`3
+Z69 Vn7EmJnAd[7SPMWf[cCnVe2
+R49
+R56
+R57
+R58
+Z70 L0 645
+R7
 r1
 31
-R47
-R48
-R49
-R9
-Z59 nprocessador@sch_vlg_vec_tst
+R59
+R60
+R61
+R11
+Z71 nprocessador@sch_vlg_vec_tst
 !i10b 1
 !s85 0
 !s101 -O0

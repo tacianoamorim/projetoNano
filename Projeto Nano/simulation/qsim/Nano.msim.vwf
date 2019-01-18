@@ -25,7 +25,7 @@ HEADER
 	VERSION = 1;
 	TIME_UNIT = ns;
 	DATA_OFFSET = 0.0;
-	DATA_DURATION = 1000.0;
+	DATA_DURATION = 2000.0;
 	SIMULATION_TIME = 0.0;
 	GRID_PHASE = 0.0;
 	GRID_PERIOD = 0.0;
@@ -4667,6 +4667,206 @@ TRANSITION_LIST("processador_vlg_vec_tst|clk")
 		LEVEL 1 FOR 5.0;
 		LEVEL 0 FOR 5.0;
 		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
 	}
 }
 
@@ -4675,7 +4875,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|pINPUT[7]")
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL X FOR 1000.0;
+		LEVEL 0 FOR 2000.0;
 	}
 }
 
@@ -4684,7 +4884,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|pINPUT[6]")
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL X FOR 1000.0;
+		LEVEL 0 FOR 2000.0;
 	}
 }
 
@@ -4693,7 +4893,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|pINPUT[5]")
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL X FOR 1000.0;
+		LEVEL 0 FOR 2000.0;
 	}
 }
 
@@ -4702,7 +4902,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|pINPUT[4]")
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL X FOR 1000.0;
+		LEVEL 0 FOR 2000.0;
 	}
 }
 
@@ -4711,7 +4911,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|pINPUT[3]")
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL X FOR 1000.0;
+		LEVEL 0 FOR 2000.0;
 	}
 }
 
@@ -4720,7 +4920,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|pINPUT[2]")
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL X FOR 1000.0;
+		LEVEL 0 FOR 2000.0;
 	}
 }
 
@@ -4729,7 +4929,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|pINPUT[1]")
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL X FOR 1000.0;
+		LEVEL 0 FOR 2000.0;
 	}
 }
 
@@ -4738,7 +4938,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|pINPUT[0]")
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL X FOR 1000.0;
+		LEVEL 0 FOR 2000.0;
 	}
 }
 
@@ -4748,9 +4948,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|rst")
 	{
 		REPEAT = 1;
 		LEVEL 0 FOR 20.0;
-		LEVEL 1 FOR 390.0;
-		LEVEL 0 FOR 30.0;
-		LEVEL 1 FOR 560.0;
+		LEVEL 1 FOR 1980.0;
 	}
 }
 
@@ -4773,21 +4971,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|LdOUTPUT")
 		LEVEL 1 FOR 10.0;
 		LEVEL 0 FOR 70.0;
 		LEVEL 1 FOR 10.0;
-		LEVEL 0 FOR 130.0;
-		LEVEL 1 FOR 10.0;
-		LEVEL 0 FOR 30.0;
-		LEVEL 1 FOR 10.0;
-		LEVEL 0 FOR 30.0;
-		LEVEL 1 FOR 10.0;
-		LEVEL 0 FOR 30.0;
-		LEVEL 1 FOR 10.0;
-		LEVEL 0 FOR 30.0;
-		LEVEL 1 FOR 10.0;
-		LEVEL 0 FOR 30.0;
-		LEVEL 1 FOR 10.0;
-		LEVEL 0 FOR 70.0;
-		LEVEL 1 FOR 10.0;
-		LEVEL 0 FOR 245.0;
+		LEVEL 0 FOR 1665.0;
 	}
 }
 
@@ -4798,9 +4982,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|R1[7]")
 		REPEAT = 1;
 		LEVEL 0 FOR 315.0;
 		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 380.0;
-		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 225.0;
+		LEVEL 0 FOR 1645.0;
 	}
 }
 
@@ -4809,7 +4991,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|R1[6]")
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 0 FOR 1000.0;
+		LEVEL 0 FOR 2000.0;
 	}
 }
 
@@ -4818,7 +5000,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|R1[5]")
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 0 FOR 1000.0;
+		LEVEL 0 FOR 2000.0;
 	}
 }
 
@@ -4829,9 +5011,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|R1[4]")
 		REPEAT = 1;
 		LEVEL 0 FOR 315.0;
 		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 380.0;
-		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 225.0;
+		LEVEL 0 FOR 1645.0;
 	}
 }
 
@@ -4842,9 +5022,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|R1[3]")
 		REPEAT = 1;
 		LEVEL 0 FOR 315.0;
 		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 380.0;
-		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 225.0;
+		LEVEL 0 FOR 1645.0;
 	}
 }
 
@@ -4855,9 +5033,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|R1[2]")
 		REPEAT = 1;
 		LEVEL 0 FOR 155.0;
 		LEVEL 1 FOR 120.0;
-		LEVEL 0 FOR 300.0;
-		LEVEL 1 FOR 120.0;
-		LEVEL 0 FOR 305.0;
+		LEVEL 0 FOR 1725.0;
 	}
 }
 
@@ -4870,11 +5046,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|R1[1]")
 		LEVEL 1 FOR 80.0;
 		LEVEL 0 FOR 80.0;
 		LEVEL 1 FOR 80.0;
-		LEVEL 0 FOR 180.0;
-		LEVEL 1 FOR 80.0;
-		LEVEL 0 FOR 80.0;
-		LEVEL 1 FOR 80.0;
-		LEVEL 0 FOR 265.0;
+		LEVEL 0 FOR 1685.0;
 	}
 }
 
@@ -4890,13 +5062,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|R1[0]")
 		LEVEL 0 FOR 40.0;
 		LEVEL 1 FOR 40.0;
 		LEVEL 0 FOR 120.0;
-		LEVEL 1 FOR 140.0;
-		LEVEL 0 FOR 40.0;
-		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 40.0;
-		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 120.0;
-		LEVEL 1 FOR 225.0;
+		LEVEL 1 FOR 1645.0;
 	}
 }
 
@@ -4905,7 +5071,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|R2[7]")
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 0 FOR 1000.0;
+		LEVEL 0 FOR 2000.0;
 	}
 }
 
@@ -4914,7 +5080,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|R2[6]")
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 0 FOR 1000.0;
+		LEVEL 0 FOR 2000.0;
 	}
 }
 
@@ -4923,7 +5089,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|R2[5]")
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 0 FOR 1000.0;
+		LEVEL 0 FOR 2000.0;
 	}
 }
 
@@ -4932,7 +5098,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|R2[4]")
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 0 FOR 1000.0;
+		LEVEL 0 FOR 2000.0;
 	}
 }
 
@@ -4941,7 +5107,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|R2[3]")
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 0 FOR 1000.0;
+		LEVEL 0 FOR 2000.0;
 	}
 }
 
@@ -4950,7 +5116,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|R2[2]")
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 0 FOR 1000.0;
+		LEVEL 0 FOR 2000.0;
 	}
 }
 
@@ -4961,9 +5127,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|R2[1]")
 		REPEAT = 1;
 		LEVEL 0 FOR 275.0;
 		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 380.0;
-		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 265.0;
+		LEVEL 0 FOR 1685.0;
 	}
 }
 
@@ -4973,7 +5137,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|R2[0]")
 	{
 		REPEAT = 1;
 		LEVEL 0 FOR 25.0;
-		LEVEL 1 FOR 975.0;
+		LEVEL 1 FOR 1975.0;
 	}
 }
 
@@ -4984,9 +5148,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|ResultULA[7]")
 		REPEAT = 1;
 		LEVEL 0 FOR 315.0;
 		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 380.0;
-		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 225.0;
+		LEVEL 0 FOR 1645.0;
 	}
 }
 
@@ -4995,7 +5157,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|ResultULA[6]")
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 0 FOR 1000.0;
+		LEVEL 0 FOR 2000.0;
 	}
 }
 
@@ -5004,7 +5166,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|ResultULA[5]")
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 0 FOR 1000.0;
+		LEVEL 0 FOR 2000.0;
 	}
 }
 
@@ -5015,9 +5177,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|ResultULA[4]")
 		REPEAT = 1;
 		LEVEL 0 FOR 315.0;
 		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 380.0;
-		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 225.0;
+		LEVEL 0 FOR 1645.0;
 	}
 }
 
@@ -5028,9 +5188,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|ResultULA[3]")
 		REPEAT = 1;
 		LEVEL 0 FOR 315.0;
 		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 380.0;
-		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 225.0;
+		LEVEL 0 FOR 1645.0;
 	}
 }
 
@@ -5041,9 +5199,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|ResultULA[2]")
 		REPEAT = 1;
 		LEVEL 0 FOR 155.0;
 		LEVEL 1 FOR 140.0;
-		LEVEL 0 FOR 280.0;
-		LEVEL 1 FOR 140.0;
-		LEVEL 0 FOR 285.0;
+		LEVEL 0 FOR 1705.0;
 	}
 }
 
@@ -5058,13 +5214,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|ResultULA[1]")
 		LEVEL 1 FOR 40.0;
 		LEVEL 0 FOR 20.0;
 		LEVEL 1 FOR 20.0;
-		LEVEL 0 FOR 180.0;
-		LEVEL 1 FOR 80.0;
-		LEVEL 0 FOR 80.0;
-		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 20.0;
-		LEVEL 1 FOR 20.0;
-		LEVEL 0 FOR 265.0;
+		LEVEL 0 FOR 1685.0;
 	}
 }
 
@@ -5082,15 +5232,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|ResultULA[0]")
 		LEVEL 0 FOR 40.0;
 		LEVEL 1 FOR 20.0;
 		LEVEL 0 FOR 60.0;
-		LEVEL 1 FOR 140.0;
-		LEVEL 0 FOR 40.0;
-		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 40.0;
-		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 40.0;
-		LEVEL 1 FOR 20.0;
-		LEVEL 0 FOR 60.0;
-		LEVEL 1 FOR 225.0;
+		LEVEL 1 FOR 1645.0;
 	}
 }
 
@@ -5099,7 +5241,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|SelDesv")
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 0 FOR 1000.0;
+		LEVEL 0 FOR 2000.0;
 	}
 }
 
@@ -5108,7 +5250,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|SelJMP")
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 0 FOR 1000.0;
+		LEVEL 0 FOR 2000.0;
 	}
 }
 
@@ -5119,9 +5261,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|Wr")
 		REPEAT = 1;
 		LEVEL 0 FOR 275.0;
 		LEVEL 1 FOR 20.0;
-		LEVEL 0 FOR 400.0;
-		LEVEL 1 FOR 20.0;
-		LEVEL 0 FOR 285.0;
+		LEVEL 0 FOR 1705.0;
 	}
 }
 
@@ -5132,9 +5272,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|addR1[2]")
 		REPEAT = 1;
 		LEVEL 0 FOR 185.0;
 		LEVEL 1 FOR 80.0;
-		LEVEL 0 FOR 340.0;
-		LEVEL 1 FOR 80.0;
-		LEVEL 0 FOR 315.0;
+		LEVEL 0 FOR 1735.0;
 	}
 }
 
@@ -5147,11 +5285,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|addR1[1]")
 		LEVEL 1 FOR 80.0;
 		LEVEL 0 FOR 120.0;
 		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 180.0;
-		LEVEL 1 FOR 80.0;
-		LEVEL 0 FOR 120.0;
-		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 235.0;
+		LEVEL 0 FOR 1655.0;
 	}
 }
 
@@ -5166,13 +5300,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|addR1[0]")
 		LEVEL 1 FOR 40.0;
 		LEVEL 0 FOR 40.0;
 		LEVEL 1 FOR 120.0;
-		LEVEL 0 FOR 140.0;
-		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 40.0;
-		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 40.0;
-		LEVEL 1 FOR 120.0;
-		LEVEL 0 FOR 235.0;
+		LEVEL 0 FOR 1655.0;
 	}
 }
 
@@ -5181,7 +5309,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|addR2[2]")
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 0 FOR 1000.0;
+		LEVEL 0 FOR 2000.0;
 	}
 }
 
@@ -5192,9 +5320,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|addR2[1]")
 		REPEAT = 1;
 		LEVEL 0 FOR 265.0;
 		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 380.0;
-		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 275.0;
+		LEVEL 0 FOR 1695.0;
 	}
 }
 
@@ -5203,7 +5329,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|addR2[0]")
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 0 FOR 1000.0;
+		LEVEL 0 FOR 2000.0;
 	}
 }
 
@@ -5212,7 +5338,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|addRegWr[2]")
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 0 FOR 1000.0;
+		LEVEL 0 FOR 2000.0;
 	}
 }
 
@@ -5223,9 +5349,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|addRegWr[1]")
 		REPEAT = 1;
 		LEVEL 0 FOR 265.0;
 		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 380.0;
-		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 275.0;
+		LEVEL 0 FOR 1695.0;
 	}
 }
 
@@ -5236,9 +5360,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|addRegWr[0]")
 		REPEAT = 1;
 		LEVEL 0 FOR 265.0;
 		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 380.0;
-		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 275.0;
+		LEVEL 0 FOR 1695.0;
 	}
 }
 
@@ -5251,11 +5373,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|dadoMemoria[15]")
 		LEVEL 1 FOR 250.0;
 		LEVEL 0 FOR 40.0;
 		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 80.0;
-		LEVEL 1 FOR 260.0;
-		LEVEL 0 FOR 40.0;
-		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 235.0;
+		LEVEL 0 FOR 1655.0;
 	}
 }
 
@@ -5268,11 +5386,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|dadoMemoria[14]")
 		LEVEL 1 FOR 250.0;
 		LEVEL 0 FOR 40.0;
 		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 80.0;
-		LEVEL 1 FOR 260.0;
-		LEVEL 0 FOR 40.0;
-		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 235.0;
+		LEVEL 0 FOR 1655.0;
 	}
 }
 
@@ -5285,11 +5399,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|dadoMemoria[13]")
 		LEVEL 1 FOR 250.0;
 		LEVEL 0 FOR 40.0;
 		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 80.0;
-		LEVEL 1 FOR 260.0;
-		LEVEL 0 FOR 40.0;
-		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 235.0;
+		LEVEL 0 FOR 1655.0;
 	}
 }
 
@@ -5300,9 +5410,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|dadoMemoria[12]")
 		REPEAT = 1;
 		LEVEL 0 FOR 15.0;
 		LEVEL 1 FOR 330.0;
-		LEVEL 0 FOR 80.0;
-		LEVEL 1 FOR 340.0;
-		LEVEL 0 FOR 235.0;
+		LEVEL 0 FOR 1655.0;
 	}
 }
 
@@ -5313,9 +5421,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|dadoMemoria[11]")
 		REPEAT = 1;
 		LEVEL 0 FOR 185.0;
 		LEVEL 1 FOR 80.0;
-		LEVEL 0 FOR 340.0;
-		LEVEL 1 FOR 80.0;
-		LEVEL 0 FOR 315.0;
+		LEVEL 0 FOR 1735.0;
 	}
 }
 
@@ -5328,11 +5434,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|dadoMemoria[10]")
 		LEVEL 1 FOR 80.0;
 		LEVEL 0 FOR 120.0;
 		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 180.0;
-		LEVEL 1 FOR 80.0;
-		LEVEL 0 FOR 120.0;
-		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 235.0;
+		LEVEL 0 FOR 1655.0;
 	}
 }
 
@@ -5347,13 +5449,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|dadoMemoria[9]")
 		LEVEL 1 FOR 40.0;
 		LEVEL 0 FOR 40.0;
 		LEVEL 1 FOR 120.0;
-		LEVEL 0 FOR 140.0;
-		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 40.0;
-		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 40.0;
-		LEVEL 1 FOR 120.0;
-		LEVEL 0 FOR 235.0;
+		LEVEL 0 FOR 1655.0;
 	}
 }
 
@@ -5362,7 +5458,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|dadoMemoria[8]")
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 0 FOR 1000.0;
+		LEVEL 0 FOR 2000.0;
 	}
 }
 
@@ -5373,9 +5469,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|dadoMemoria[7]")
 		REPEAT = 1;
 		LEVEL 0 FOR 265.0;
 		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 380.0;
-		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 275.0;
+		LEVEL 0 FOR 1695.0;
 	}
 }
 
@@ -5384,7 +5478,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|dadoMemoria[6]")
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 0 FOR 1000.0;
+		LEVEL 0 FOR 2000.0;
 	}
 }
 
@@ -5393,7 +5487,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|dadoMemoria[5]")
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 0 FOR 1000.0;
+		LEVEL 0 FOR 2000.0;
 	}
 }
 
@@ -5404,9 +5498,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|dadoMemoria[4]")
 		REPEAT = 1;
 		LEVEL 0 FOR 265.0;
 		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 380.0;
-		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 275.0;
+		LEVEL 0 FOR 1695.0;
 	}
 }
 
@@ -5417,9 +5509,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|dadoMemoria[3]")
 		REPEAT = 1;
 		LEVEL 0 FOR 265.0;
 		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 380.0;
-		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 275.0;
+		LEVEL 0 FOR 1695.0;
 	}
 }
 
@@ -5428,7 +5518,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|dadoMemoria[2]")
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 0 FOR 1000.0;
+		LEVEL 0 FOR 2000.0;
 	}
 }
 
@@ -5437,7 +5527,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|dadoMemoria[1]")
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 0 FOR 1000.0;
+		LEVEL 0 FOR 2000.0;
 	}
 }
 
@@ -5446,7 +5536,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|dadoMemoria[0]")
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 0 FOR 1000.0;
+		LEVEL 0 FOR 2000.0;
 	}
 }
 
@@ -5457,9 +5547,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|dadoWr[7]")
 		REPEAT = 1;
 		LEVEL 0 FOR 265.0;
 		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 380.0;
-		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 275.0;
+		LEVEL 0 FOR 1695.0;
 	}
 }
 
@@ -5468,7 +5556,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|dadoWr[6]")
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 0 FOR 1000.0;
+		LEVEL 0 FOR 2000.0;
 	}
 }
 
@@ -5477,7 +5565,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|dadoWr[5]")
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 0 FOR 1000.0;
+		LEVEL 0 FOR 2000.0;
 	}
 }
 
@@ -5488,9 +5576,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|dadoWr[4]")
 		REPEAT = 1;
 		LEVEL 0 FOR 265.0;
 		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 380.0;
-		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 275.0;
+		LEVEL 0 FOR 1695.0;
 	}
 }
 
@@ -5501,9 +5587,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|dadoWr[3]")
 		REPEAT = 1;
 		LEVEL 0 FOR 265.0;
 		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 380.0;
-		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 275.0;
+		LEVEL 0 FOR 1695.0;
 	}
 }
 
@@ -5512,7 +5596,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|dadoWr[2]")
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 0 FOR 1000.0;
+		LEVEL 0 FOR 2000.0;
 	}
 }
 
@@ -5521,7 +5605,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|dadoWr[1]")
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 0 FOR 1000.0;
+		LEVEL 0 FOR 2000.0;
 	}
 }
 
@@ -5530,7 +5614,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|dadoWr[0]")
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 0 FOR 1000.0;
+		LEVEL 0 FOR 2000.0;
 	}
 }
 
@@ -5539,7 +5623,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|enderecoMemoria[7]")
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 0 FOR 1000.0;
+		LEVEL 0 FOR 2000.0;
 	}
 }
 
@@ -5548,7 +5632,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|enderecoMemoria[6]")
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 0 FOR 1000.0;
+		LEVEL 0 FOR 2000.0;
 	}
 }
 
@@ -5557,7 +5641,8 @@ TRANSITION_LIST("processador_vlg_vec_tst|enderecoMemoria[5]")
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 0 FOR 1000.0;
+		LEVEL 0 FOR 1285.0;
+		LEVEL 1 FOR 715.0;
 	}
 }
 
@@ -5566,7 +5651,10 @@ TRANSITION_LIST("processador_vlg_vec_tst|enderecoMemoria[4]")
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 0 FOR 1000.0;
+		LEVEL 0 FOR 645.0;
+		LEVEL 1 FOR 640.0;
+		LEVEL 0 FOR 640.0;
+		LEVEL 1 FOR 75.0;
 	}
 }
 
@@ -5576,9 +5664,12 @@ TRANSITION_LIST("processador_vlg_vec_tst|enderecoMemoria[3]")
 	{
 		REPEAT = 1;
 		LEVEL 0 FOR 325.0;
-		LEVEL 1 FOR 85.0;
-		LEVEL 0 FOR 335.0;
-		LEVEL 1 FOR 255.0;
+		LEVEL 1 FOR 320.0;
+		LEVEL 0 FOR 320.0;
+		LEVEL 1 FOR 320.0;
+		LEVEL 0 FOR 320.0;
+		LEVEL 1 FOR 320.0;
+		LEVEL 0 FOR 75.0;
 	}
 }
 
@@ -5589,10 +5680,17 @@ TRANSITION_LIST("processador_vlg_vec_tst|enderecoMemoria[2]")
 		REPEAT = 1;
 		LEVEL 0 FOR 165.0;
 		LEVEL 1 FOR 160.0;
-		LEVEL 0 FOR 260.0;
+		LEVEL 0 FOR 160.0;
 		LEVEL 1 FOR 160.0;
 		LEVEL 0 FOR 160.0;
-		LEVEL 1 FOR 95.0;
+		LEVEL 1 FOR 160.0;
+		LEVEL 0 FOR 160.0;
+		LEVEL 1 FOR 160.0;
+		LEVEL 0 FOR 160.0;
+		LEVEL 1 FOR 160.0;
+		LEVEL 0 FOR 160.0;
+		LEVEL 1 FOR 160.0;
+		LEVEL 0 FOR 75.0;
 	}
 }
 
@@ -5606,15 +5704,26 @@ TRANSITION_LIST("processador_vlg_vec_tst|enderecoMemoria[1]")
 		LEVEL 0 FOR 80.0;
 		LEVEL 1 FOR 80.0;
 		LEVEL 0 FOR 80.0;
-		LEVEL 1 FOR 5.0;
-		LEVEL 0 FOR 95.0;
 		LEVEL 1 FOR 80.0;
 		LEVEL 0 FOR 80.0;
 		LEVEL 1 FOR 80.0;
 		LEVEL 0 FOR 80.0;
 		LEVEL 1 FOR 80.0;
 		LEVEL 0 FOR 80.0;
-		LEVEL 1 FOR 15.0;
+		LEVEL 1 FOR 80.0;
+		LEVEL 0 FOR 80.0;
+		LEVEL 1 FOR 80.0;
+		LEVEL 0 FOR 80.0;
+		LEVEL 1 FOR 80.0;
+		LEVEL 0 FOR 80.0;
+		LEVEL 1 FOR 80.0;
+		LEVEL 0 FOR 80.0;
+		LEVEL 1 FOR 80.0;
+		LEVEL 0 FOR 80.0;
+		LEVEL 1 FOR 80.0;
+		LEVEL 0 FOR 80.0;
+		LEVEL 1 FOR 80.0;
+		LEVEL 0 FOR 75.0;
 	}
 }
 
@@ -5633,7 +5742,17 @@ TRANSITION_LIST("processador_vlg_vec_tst|enderecoMemoria[0]")
 		LEVEL 1 FOR 40.0;
 		LEVEL 0 FOR 40.0;
 		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 60.0;
+		LEVEL 0 FOR 40.0;
+		LEVEL 1 FOR 40.0;
+		LEVEL 0 FOR 40.0;
+		LEVEL 1 FOR 40.0;
+		LEVEL 0 FOR 40.0;
+		LEVEL 1 FOR 40.0;
+		LEVEL 0 FOR 40.0;
+		LEVEL 1 FOR 40.0;
+		LEVEL 0 FOR 40.0;
+		LEVEL 1 FOR 40.0;
+		LEVEL 0 FOR 40.0;
 		LEVEL 1 FOR 40.0;
 		LEVEL 0 FOR 40.0;
 		LEVEL 1 FOR 40.0;
@@ -5647,7 +5766,22 @@ TRANSITION_LIST("processador_vlg_vec_tst|enderecoMemoria[0]")
 		LEVEL 1 FOR 40.0;
 		LEVEL 0 FOR 40.0;
 		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 15.0;
+		LEVEL 0 FOR 40.0;
+		LEVEL 1 FOR 40.0;
+		LEVEL 0 FOR 40.0;
+		LEVEL 1 FOR 40.0;
+		LEVEL 0 FOR 40.0;
+		LEVEL 1 FOR 40.0;
+		LEVEL 0 FOR 40.0;
+		LEVEL 1 FOR 40.0;
+		LEVEL 0 FOR 40.0;
+		LEVEL 1 FOR 40.0;
+		LEVEL 0 FOR 40.0;
+		LEVEL 1 FOR 40.0;
+		LEVEL 0 FOR 40.0;
+		LEVEL 1 FOR 40.0;
+		LEVEL 0 FOR 40.0;
+		LEVEL 1 FOR 35.0;
 	}
 }
 
@@ -5656,7 +5790,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|estado[2]")
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 0 FOR 1000.0;
+		LEVEL 0 FOR 2000.0;
 	}
 }
 
@@ -5685,7 +5819,31 @@ TRANSITION_LIST("processador_vlg_vec_tst|estado[1]")
 		LEVEL 1 FOR 20.0;
 		LEVEL 0 FOR 20.0;
 		LEVEL 1 FOR 20.0;
-		LEVEL 0 FOR 40.0;
+		LEVEL 0 FOR 20.0;
+		LEVEL 1 FOR 20.0;
+		LEVEL 0 FOR 20.0;
+		LEVEL 1 FOR 20.0;
+		LEVEL 0 FOR 20.0;
+		LEVEL 1 FOR 20.0;
+		LEVEL 0 FOR 20.0;
+		LEVEL 1 FOR 20.0;
+		LEVEL 0 FOR 20.0;
+		LEVEL 1 FOR 20.0;
+		LEVEL 0 FOR 20.0;
+		LEVEL 1 FOR 20.0;
+		LEVEL 0 FOR 20.0;
+		LEVEL 1 FOR 20.0;
+		LEVEL 0 FOR 20.0;
+		LEVEL 1 FOR 20.0;
+		LEVEL 0 FOR 20.0;
+		LEVEL 1 FOR 20.0;
+		LEVEL 0 FOR 20.0;
+		LEVEL 1 FOR 20.0;
+		LEVEL 0 FOR 20.0;
+		LEVEL 1 FOR 20.0;
+		LEVEL 0 FOR 20.0;
+		LEVEL 1 FOR 20.0;
+		LEVEL 0 FOR 20.0;
 		LEVEL 1 FOR 20.0;
 		LEVEL 0 FOR 20.0;
 		LEVEL 1 FOR 20.0;
@@ -5713,7 +5871,34 @@ TRANSITION_LIST("processador_vlg_vec_tst|estado[1]")
 		LEVEL 1 FOR 20.0;
 		LEVEL 0 FOR 20.0;
 		LEVEL 1 FOR 20.0;
-		LEVEL 0 FOR 15.0;
+		LEVEL 0 FOR 20.0;
+		LEVEL 1 FOR 20.0;
+		LEVEL 0 FOR 20.0;
+		LEVEL 1 FOR 20.0;
+		LEVEL 0 FOR 20.0;
+		LEVEL 1 FOR 20.0;
+		LEVEL 0 FOR 20.0;
+		LEVEL 1 FOR 20.0;
+		LEVEL 0 FOR 20.0;
+		LEVEL 1 FOR 20.0;
+		LEVEL 0 FOR 20.0;
+		LEVEL 1 FOR 20.0;
+		LEVEL 0 FOR 20.0;
+		LEVEL 1 FOR 20.0;
+		LEVEL 0 FOR 20.0;
+		LEVEL 1 FOR 20.0;
+		LEVEL 0 FOR 20.0;
+		LEVEL 1 FOR 20.0;
+		LEVEL 0 FOR 20.0;
+		LEVEL 1 FOR 20.0;
+		LEVEL 0 FOR 20.0;
+		LEVEL 1 FOR 20.0;
+		LEVEL 0 FOR 20.0;
+		LEVEL 1 FOR 20.0;
+		LEVEL 0 FOR 20.0;
+		LEVEL 1 FOR 20.0;
+		LEVEL 0 FOR 20.0;
+		LEVEL 1 FOR 15.0;
 	}
 }
 
@@ -5761,8 +5946,110 @@ TRANSITION_LIST("processador_vlg_vec_tst|estado[0]")
 		LEVEL 1 FOR 10.0;
 		LEVEL 0 FOR 10.0;
 		LEVEL 1 FOR 10.0;
-		LEVEL 0 FOR 5.0;
-		LEVEL 1 FOR 35.0;
+		LEVEL 0 FOR 10.0;
+		LEVEL 1 FOR 10.0;
+		LEVEL 0 FOR 10.0;
+		LEVEL 1 FOR 10.0;
+		LEVEL 0 FOR 10.0;
+		LEVEL 1 FOR 10.0;
+		LEVEL 0 FOR 10.0;
+		LEVEL 1 FOR 10.0;
+		LEVEL 0 FOR 10.0;
+		LEVEL 1 FOR 10.0;
+		LEVEL 0 FOR 10.0;
+		LEVEL 1 FOR 10.0;
+		LEVEL 0 FOR 10.0;
+		LEVEL 1 FOR 10.0;
+		LEVEL 0 FOR 10.0;
+		LEVEL 1 FOR 10.0;
+		LEVEL 0 FOR 10.0;
+		LEVEL 1 FOR 10.0;
+		LEVEL 0 FOR 10.0;
+		LEVEL 1 FOR 10.0;
+		LEVEL 0 FOR 10.0;
+		LEVEL 1 FOR 10.0;
+		LEVEL 0 FOR 10.0;
+		LEVEL 1 FOR 10.0;
+		LEVEL 0 FOR 10.0;
+		LEVEL 1 FOR 10.0;
+		LEVEL 0 FOR 10.0;
+		LEVEL 1 FOR 10.0;
+		LEVEL 0 FOR 10.0;
+		LEVEL 1 FOR 10.0;
+		LEVEL 0 FOR 10.0;
+		LEVEL 1 FOR 10.0;
+		LEVEL 0 FOR 10.0;
+		LEVEL 1 FOR 10.0;
+		LEVEL 0 FOR 10.0;
+		LEVEL 1 FOR 10.0;
+		LEVEL 0 FOR 10.0;
+		LEVEL 1 FOR 10.0;
+		LEVEL 0 FOR 10.0;
+		LEVEL 1 FOR 10.0;
+		LEVEL 0 FOR 10.0;
+		LEVEL 1 FOR 10.0;
+		LEVEL 0 FOR 10.0;
+		LEVEL 1 FOR 10.0;
+		LEVEL 0 FOR 10.0;
+		LEVEL 1 FOR 10.0;
+		LEVEL 0 FOR 10.0;
+		LEVEL 1 FOR 10.0;
+		LEVEL 0 FOR 10.0;
+		LEVEL 1 FOR 10.0;
+		LEVEL 0 FOR 10.0;
+		LEVEL 1 FOR 10.0;
+		LEVEL 0 FOR 10.0;
+		LEVEL 1 FOR 10.0;
+		LEVEL 0 FOR 10.0;
+		LEVEL 1 FOR 10.0;
+		LEVEL 0 FOR 10.0;
+		LEVEL 1 FOR 10.0;
+		LEVEL 0 FOR 10.0;
+		LEVEL 1 FOR 10.0;
+		LEVEL 0 FOR 10.0;
+		LEVEL 1 FOR 10.0;
+		LEVEL 0 FOR 10.0;
+		LEVEL 1 FOR 10.0;
+		LEVEL 0 FOR 10.0;
+		LEVEL 1 FOR 10.0;
+		LEVEL 0 FOR 10.0;
+		LEVEL 1 FOR 10.0;
+		LEVEL 0 FOR 10.0;
+		LEVEL 1 FOR 10.0;
+		LEVEL 0 FOR 10.0;
+		LEVEL 1 FOR 10.0;
+		LEVEL 0 FOR 10.0;
+		LEVEL 1 FOR 10.0;
+		LEVEL 0 FOR 10.0;
+		LEVEL 1 FOR 10.0;
+		LEVEL 0 FOR 10.0;
+		LEVEL 1 FOR 10.0;
+		LEVEL 0 FOR 10.0;
+		LEVEL 1 FOR 10.0;
+		LEVEL 0 FOR 10.0;
+		LEVEL 1 FOR 10.0;
+		LEVEL 0 FOR 10.0;
+		LEVEL 1 FOR 10.0;
+		LEVEL 0 FOR 10.0;
+		LEVEL 1 FOR 10.0;
+		LEVEL 0 FOR 10.0;
+		LEVEL 1 FOR 10.0;
+		LEVEL 0 FOR 10.0;
+		LEVEL 1 FOR 10.0;
+		LEVEL 0 FOR 10.0;
+		LEVEL 1 FOR 10.0;
+		LEVEL 0 FOR 10.0;
+		LEVEL 1 FOR 10.0;
+		LEVEL 0 FOR 10.0;
+		LEVEL 1 FOR 10.0;
+		LEVEL 0 FOR 10.0;
+		LEVEL 1 FOR 10.0;
+		LEVEL 0 FOR 10.0;
+		LEVEL 1 FOR 10.0;
+		LEVEL 0 FOR 10.0;
+		LEVEL 1 FOR 10.0;
+		LEVEL 0 FOR 10.0;
+		LEVEL 1 FOR 10.0;
 		LEVEL 0 FOR 10.0;
 		LEVEL 1 FOR 10.0;
 		LEVEL 0 FOR 10.0;
@@ -5828,9 +6115,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|pOUTPUT[7]")
 	{
 		REPEAT = 1;
 		LEVEL 0 FOR 325.0;
-		LEVEL 1 FOR 85.0;
-		LEVEL 0 FOR 335.0;
-		LEVEL 1 FOR 255.0;
+		LEVEL 1 FOR 1675.0;
 	}
 }
 
@@ -5839,7 +6124,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|pOUTPUT[6]")
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 0 FOR 1000.0;
+		LEVEL 0 FOR 2000.0;
 	}
 }
 
@@ -5848,7 +6133,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|pOUTPUT[5]")
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 0 FOR 1000.0;
+		LEVEL 0 FOR 2000.0;
 	}
 }
 
@@ -5858,9 +6143,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|pOUTPUT[4]")
 	{
 		REPEAT = 1;
 		LEVEL 0 FOR 325.0;
-		LEVEL 1 FOR 85.0;
-		LEVEL 0 FOR 335.0;
-		LEVEL 1 FOR 255.0;
+		LEVEL 1 FOR 1675.0;
 	}
 }
 
@@ -5870,9 +6153,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|pOUTPUT[3]")
 	{
 		REPEAT = 1;
 		LEVEL 0 FOR 325.0;
-		LEVEL 1 FOR 85.0;
-		LEVEL 0 FOR 335.0;
-		LEVEL 1 FOR 255.0;
+		LEVEL 1 FOR 1675.0;
 	}
 }
 
@@ -5883,9 +6164,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|pOUTPUT[2]")
 		REPEAT = 1;
 		LEVEL 0 FOR 165.0;
 		LEVEL 1 FOR 160.0;
-		LEVEL 0 FOR 260.0;
-		LEVEL 1 FOR 160.0;
-		LEVEL 0 FOR 255.0;
+		LEVEL 0 FOR 1675.0;
 	}
 }
 
@@ -5898,11 +6177,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|pOUTPUT[1]")
 		LEVEL 1 FOR 80.0;
 		LEVEL 0 FOR 80.0;
 		LEVEL 1 FOR 80.0;
-		LEVEL 0 FOR 180.0;
-		LEVEL 1 FOR 80.0;
-		LEVEL 0 FOR 80.0;
-		LEVEL 1 FOR 80.0;
-		LEVEL 0 FOR 255.0;
+		LEVEL 0 FOR 1675.0;
 	}
 }
 
@@ -5917,13 +6192,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|pOUTPUT[0]")
 		LEVEL 1 FOR 40.0;
 		LEVEL 0 FOR 40.0;
 		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 220.0;
-		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 40.0;
-		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 40.0;
-		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 335.0;
+		LEVEL 0 FOR 1755.0;
 	}
 }
 
@@ -5932,7 +6201,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|selDtWr")
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 0 FOR 1000.0;
+		LEVEL 0 FOR 2000.0;
 	}
 }
 
@@ -6141,6 +6410,206 @@ TRANSITION_LIST("processador_vlg_vec_tst|sampler")
 		LEVEL 0 FOR 5.0;
 		LEVEL 1 FOR 5.0;
 		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
 	}
 }
 
@@ -6149,7 +6618,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|gnd")
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 0 FOR 1000.0;
+		LEVEL 0 FOR 2000.0;
 	}
 }
 
@@ -6158,7 +6627,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|vcc")
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 1 FOR 1000.0;
+		LEVEL 1 FOR 2000.0;
 	}
 }
 
@@ -6167,7 +6636,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|unknown")
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL X FOR 1000.0;
+		LEVEL X FOR 2000.0;
 	}
 }
 
@@ -6176,7 +6645,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|devclrn")
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 1 FOR 1000.0;
+		LEVEL 1 FOR 2000.0;
 	}
 }
 
@@ -6185,7 +6654,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|devpor")
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 1 FOR 1000.0;
+		LEVEL 1 FOR 2000.0;
 	}
 }
 
@@ -6194,7 +6663,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|devoe")
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 1 FOR 1000.0;
+		LEVEL 1 FOR 2000.0;
 	}
 }
 
@@ -6222,8 +6691,6 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|ctrl|LdPC~regout")
 		LEVEL 0 FOR 30.0;
 		LEVEL 1 FOR 10.0;
 		LEVEL 0 FOR 30.0;
-		LEVEL 1 FOR 5.0;
-		LEVEL 0 FOR 55.0;
 		LEVEL 1 FOR 10.0;
 		LEVEL 0 FOR 30.0;
 		LEVEL 1 FOR 10.0;
@@ -6251,7 +6718,59 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|ctrl|LdPC~regout")
 		LEVEL 1 FOR 10.0;
 		LEVEL 0 FOR 30.0;
 		LEVEL 1 FOR 10.0;
-		LEVEL 0 FOR 5.0;
+		LEVEL 0 FOR 30.0;
+		LEVEL 1 FOR 10.0;
+		LEVEL 0 FOR 30.0;
+		LEVEL 1 FOR 10.0;
+		LEVEL 0 FOR 30.0;
+		LEVEL 1 FOR 10.0;
+		LEVEL 0 FOR 30.0;
+		LEVEL 1 FOR 10.0;
+		LEVEL 0 FOR 30.0;
+		LEVEL 1 FOR 10.0;
+		LEVEL 0 FOR 30.0;
+		LEVEL 1 FOR 10.0;
+		LEVEL 0 FOR 30.0;
+		LEVEL 1 FOR 10.0;
+		LEVEL 0 FOR 30.0;
+		LEVEL 1 FOR 10.0;
+		LEVEL 0 FOR 30.0;
+		LEVEL 1 FOR 10.0;
+		LEVEL 0 FOR 30.0;
+		LEVEL 1 FOR 10.0;
+		LEVEL 0 FOR 30.0;
+		LEVEL 1 FOR 10.0;
+		LEVEL 0 FOR 30.0;
+		LEVEL 1 FOR 10.0;
+		LEVEL 0 FOR 30.0;
+		LEVEL 1 FOR 10.0;
+		LEVEL 0 FOR 30.0;
+		LEVEL 1 FOR 10.0;
+		LEVEL 0 FOR 30.0;
+		LEVEL 1 FOR 10.0;
+		LEVEL 0 FOR 30.0;
+		LEVEL 1 FOR 10.0;
+		LEVEL 0 FOR 30.0;
+		LEVEL 1 FOR 10.0;
+		LEVEL 0 FOR 30.0;
+		LEVEL 1 FOR 10.0;
+		LEVEL 0 FOR 30.0;
+		LEVEL 1 FOR 10.0;
+		LEVEL 0 FOR 30.0;
+		LEVEL 1 FOR 10.0;
+		LEVEL 0 FOR 30.0;
+		LEVEL 1 FOR 10.0;
+		LEVEL 0 FOR 30.0;
+		LEVEL 1 FOR 10.0;
+		LEVEL 0 FOR 30.0;
+		LEVEL 1 FOR 10.0;
+		LEVEL 0 FOR 30.0;
+		LEVEL 1 FOR 10.0;
+		LEVEL 0 FOR 30.0;
+		LEVEL 1 FOR 10.0;
+		LEVEL 0 FOR 30.0;
+		LEVEL 1 FOR 10.0;
+		LEVEL 0 FOR 25.0;
 	}
 }
 
@@ -6260,7 +6779,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|Add0~1_combout")
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 0 FOR 1000.0;
+		LEVEL 0 FOR 2000.0;
 	}
 }
 
@@ -6269,7 +6788,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|Add0~3_combout")
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 0 FOR 1000.0;
+		LEVEL 0 FOR 2000.0;
 	}
 }
 
@@ -6288,15 +6807,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|ctrl|Mux5~1_combout")
 		LEVEL 1 FOR 30.0;
 		LEVEL 0 FOR 40.0;
 		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 150.0;
-		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 40.0;
-		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 40.0;
-		LEVEL 1 FOR 30.0;
-		LEVEL 0 FOR 40.0;
-		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 235.0;
+		LEVEL 0 FOR 1655.0;
 	}
 }
 
@@ -6307,9 +6818,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|ctrl|Wr~0_combout")
 		REPEAT = 1;
 		LEVEL 0 FOR 265.0;
 		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 380.0;
-		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 275.0;
+		LEVEL 0 FOR 1695.0;
 	}
 }
 
@@ -6318,7 +6827,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|bancoRegistradores|registradores[7][
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 0 FOR 1000.0;
+		LEVEL 0 FOR 2000.0;
 	}
 }
 
@@ -6327,7 +6836,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|bancoRegistradores|registradores[0][
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 0 FOR 1000.0;
+		LEVEL 0 FOR 2000.0;
 	}
 }
 
@@ -6336,7 +6845,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|bancoRegistradores|registradores[3][
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 0 FOR 1000.0;
+		LEVEL 0 FOR 2000.0;
 	}
 }
 
@@ -6345,7 +6854,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|bancoRegistradores|registradores[5][
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 0 FOR 1000.0;
+		LEVEL 0 FOR 2000.0;
 	}
 }
 
@@ -6356,9 +6865,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|bancoRegistradores|Mux14~0_combout")
 		REPEAT = 1;
 		LEVEL 0 FOR 265.0;
 		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 380.0;
-		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 275.0;
+		LEVEL 0 FOR 1695.0;
 	}
 }
 
@@ -6369,9 +6876,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|bancoRegistradores|Mux14~1_combout")
 		REPEAT = 1;
 		LEVEL 0 FOR 265.0;
 		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 380.0;
-		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 275.0;
+		LEVEL 0 FOR 1695.0;
 	}
 }
 
@@ -6380,7 +6885,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|bancoRegistradores|registradores[6][
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 0 FOR 1000.0;
+		LEVEL 0 FOR 2000.0;
 	}
 }
 
@@ -6389,7 +6894,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|bancoRegistradores|registradores[0][
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 0 FOR 1000.0;
+		LEVEL 0 FOR 2000.0;
 	}
 }
 
@@ -6399,9 +6904,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|bancoRegistradores|registradores[3][
 	{
 		REPEAT = 1;
 		LEVEL 0 FOR 285.0;
-		LEVEL 1 FOR 125.0;
-		LEVEL 0 FOR 295.0;
-		LEVEL 1 FOR 295.0;
+		LEVEL 1 FOR 1715.0;
 	}
 }
 
@@ -6410,7 +6913,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|bancoRegistradores|registradores[0][
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 0 FOR 1000.0;
+		LEVEL 0 FOR 2000.0;
 	}
 }
 
@@ -6419,7 +6922,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|bancoRegistradores|registradores[5][
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 0 FOR 1000.0;
+		LEVEL 0 FOR 2000.0;
 	}
 }
 
@@ -6428,7 +6931,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|bancoRegistradores|registradores[4][
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 0 FOR 1000.0;
+		LEVEL 0 FOR 2000.0;
 	}
 }
 
@@ -6437,7 +6940,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|bancoRegistradores|registradores[0][
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 0 FOR 1000.0;
+		LEVEL 0 FOR 2000.0;
 	}
 }
 
@@ -6446,7 +6949,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|bancoRegistradores|Mux10~2_combout")
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 0 FOR 1000.0;
+		LEVEL 0 FOR 2000.0;
 	}
 }
 
@@ -6459,11 +6962,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|bancoRegistradores|Mux2~0_combout")
 		LEVEL 1 FOR 40.0;
 		LEVEL 0 FOR 120.0;
 		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 220.0;
-		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 120.0;
-		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 235.0;
+		LEVEL 0 FOR 1655.0;
 	}
 }
 
@@ -6472,7 +6971,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|bancoRegistradores|Mux2~1_combout")
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 0 FOR 1000.0;
+		LEVEL 0 FOR 2000.0;
 	}
 }
 
@@ -6481,7 +6980,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|bancoRegistradores|registradores[6][
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 0 FOR 1000.0;
+		LEVEL 0 FOR 2000.0;
 	}
 }
 
@@ -6490,7 +6989,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|bancoRegistradores|Mux8~0_combout")
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 0 FOR 1000.0;
+		LEVEL 0 FOR 2000.0;
 	}
 }
 
@@ -6499,7 +6998,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|ctrl|LdOUTPUT~0_combout")
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 0 FOR 1000.0;
+		LEVEL 0 FOR 2000.0;
 	}
 }
 
@@ -6508,7 +7007,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|bancoRegistradores|registradores[0][
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 1 FOR 1000.0;
+		LEVEL 1 FOR 2000.0;
 	}
 }
 
@@ -6517,7 +7016,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|bancoRegistradores|registradores[5][
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 1 FOR 1000.0;
+		LEVEL 1 FOR 2000.0;
 	}
 }
 
@@ -6526,7 +7025,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|bancoRegistradores|registradores[6][
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 1 FOR 1000.0;
+		LEVEL 1 FOR 2000.0;
 	}
 }
 
@@ -6535,7 +7034,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|bancoRegistradores|registradores[3][
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 1 FOR 1000.0;
+		LEVEL 1 FOR 2000.0;
 	}
 }
 
@@ -6563,8 +7062,6 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|ctrl|LdPC~clkctrl_outclk")
 		LEVEL 0 FOR 30.0;
 		LEVEL 1 FOR 10.0;
 		LEVEL 0 FOR 30.0;
-		LEVEL 1 FOR 5.0;
-		LEVEL 0 FOR 55.0;
 		LEVEL 1 FOR 10.0;
 		LEVEL 0 FOR 30.0;
 		LEVEL 1 FOR 10.0;
@@ -6592,7 +7089,59 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|ctrl|LdPC~clkctrl_outclk")
 		LEVEL 1 FOR 10.0;
 		LEVEL 0 FOR 30.0;
 		LEVEL 1 FOR 10.0;
-		LEVEL 0 FOR 5.0;
+		LEVEL 0 FOR 30.0;
+		LEVEL 1 FOR 10.0;
+		LEVEL 0 FOR 30.0;
+		LEVEL 1 FOR 10.0;
+		LEVEL 0 FOR 30.0;
+		LEVEL 1 FOR 10.0;
+		LEVEL 0 FOR 30.0;
+		LEVEL 1 FOR 10.0;
+		LEVEL 0 FOR 30.0;
+		LEVEL 1 FOR 10.0;
+		LEVEL 0 FOR 30.0;
+		LEVEL 1 FOR 10.0;
+		LEVEL 0 FOR 30.0;
+		LEVEL 1 FOR 10.0;
+		LEVEL 0 FOR 30.0;
+		LEVEL 1 FOR 10.0;
+		LEVEL 0 FOR 30.0;
+		LEVEL 1 FOR 10.0;
+		LEVEL 0 FOR 30.0;
+		LEVEL 1 FOR 10.0;
+		LEVEL 0 FOR 30.0;
+		LEVEL 1 FOR 10.0;
+		LEVEL 0 FOR 30.0;
+		LEVEL 1 FOR 10.0;
+		LEVEL 0 FOR 30.0;
+		LEVEL 1 FOR 10.0;
+		LEVEL 0 FOR 30.0;
+		LEVEL 1 FOR 10.0;
+		LEVEL 0 FOR 30.0;
+		LEVEL 1 FOR 10.0;
+		LEVEL 0 FOR 30.0;
+		LEVEL 1 FOR 10.0;
+		LEVEL 0 FOR 30.0;
+		LEVEL 1 FOR 10.0;
+		LEVEL 0 FOR 30.0;
+		LEVEL 1 FOR 10.0;
+		LEVEL 0 FOR 30.0;
+		LEVEL 1 FOR 10.0;
+		LEVEL 0 FOR 30.0;
+		LEVEL 1 FOR 10.0;
+		LEVEL 0 FOR 30.0;
+		LEVEL 1 FOR 10.0;
+		LEVEL 0 FOR 30.0;
+		LEVEL 1 FOR 10.0;
+		LEVEL 0 FOR 30.0;
+		LEVEL 1 FOR 10.0;
+		LEVEL 0 FOR 30.0;
+		LEVEL 1 FOR 10.0;
+		LEVEL 0 FOR 30.0;
+		LEVEL 1 FOR 10.0;
+		LEVEL 0 FOR 30.0;
+		LEVEL 1 FOR 10.0;
+		LEVEL 0 FOR 25.0;
 	}
 }
 
@@ -6601,7 +7150,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|bancoRegistradores|registradores[3][
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 0 FOR 1000.0;
+		LEVEL 0 FOR 2000.0;
 	}
 }
 
@@ -6610,7 +7159,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|bancoRegistradores|registradores[0][
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 0 FOR 1000.0;
+		LEVEL 0 FOR 2000.0;
 	}
 }
 
@@ -6621,9 +7170,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|bancoRegistradores|registradores[5][
 		REPEAT = 1;
 		LEVEL 0 FOR 265.0;
 		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 380.0;
-		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 275.0;
+		LEVEL 0 FOR 1695.0;
 	}
 }
 
@@ -6634,9 +7181,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|bancoRegistradores|registradores[6][
 		REPEAT = 1;
 		LEVEL 0 FOR 265.0;
 		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 380.0;
-		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 275.0;
+		LEVEL 0 FOR 1695.0;
 	}
 }
 
@@ -6665,7 +7210,31 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|ctrl|LdPC~feeder_combout")
 		LEVEL 1 FOR 20.0;
 		LEVEL 0 FOR 20.0;
 		LEVEL 1 FOR 20.0;
-		LEVEL 0 FOR 40.0;
+		LEVEL 0 FOR 20.0;
+		LEVEL 1 FOR 20.0;
+		LEVEL 0 FOR 20.0;
+		LEVEL 1 FOR 20.0;
+		LEVEL 0 FOR 20.0;
+		LEVEL 1 FOR 20.0;
+		LEVEL 0 FOR 20.0;
+		LEVEL 1 FOR 20.0;
+		LEVEL 0 FOR 20.0;
+		LEVEL 1 FOR 20.0;
+		LEVEL 0 FOR 20.0;
+		LEVEL 1 FOR 20.0;
+		LEVEL 0 FOR 20.0;
+		LEVEL 1 FOR 20.0;
+		LEVEL 0 FOR 20.0;
+		LEVEL 1 FOR 20.0;
+		LEVEL 0 FOR 20.0;
+		LEVEL 1 FOR 20.0;
+		LEVEL 0 FOR 20.0;
+		LEVEL 1 FOR 20.0;
+		LEVEL 0 FOR 20.0;
+		LEVEL 1 FOR 20.0;
+		LEVEL 0 FOR 20.0;
+		LEVEL 1 FOR 20.0;
+		LEVEL 0 FOR 20.0;
 		LEVEL 1 FOR 20.0;
 		LEVEL 0 FOR 20.0;
 		LEVEL 1 FOR 20.0;
@@ -6693,7 +7262,34 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|ctrl|LdPC~feeder_combout")
 		LEVEL 1 FOR 20.0;
 		LEVEL 0 FOR 20.0;
 		LEVEL 1 FOR 20.0;
-		LEVEL 0 FOR 15.0;
+		LEVEL 0 FOR 20.0;
+		LEVEL 1 FOR 20.0;
+		LEVEL 0 FOR 20.0;
+		LEVEL 1 FOR 20.0;
+		LEVEL 0 FOR 20.0;
+		LEVEL 1 FOR 20.0;
+		LEVEL 0 FOR 20.0;
+		LEVEL 1 FOR 20.0;
+		LEVEL 0 FOR 20.0;
+		LEVEL 1 FOR 20.0;
+		LEVEL 0 FOR 20.0;
+		LEVEL 1 FOR 20.0;
+		LEVEL 0 FOR 20.0;
+		LEVEL 1 FOR 20.0;
+		LEVEL 0 FOR 20.0;
+		LEVEL 1 FOR 20.0;
+		LEVEL 0 FOR 20.0;
+		LEVEL 1 FOR 20.0;
+		LEVEL 0 FOR 20.0;
+		LEVEL 1 FOR 20.0;
+		LEVEL 0 FOR 20.0;
+		LEVEL 1 FOR 20.0;
+		LEVEL 0 FOR 20.0;
+		LEVEL 1 FOR 20.0;
+		LEVEL 0 FOR 20.0;
+		LEVEL 1 FOR 20.0;
+		LEVEL 0 FOR 20.0;
+		LEVEL 1 FOR 15.0;
 	}
 }
 
@@ -6702,6 +7298,206 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|clk~combout")
 	NODE
 	{
 		REPEAT = 1;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
 		LEVEL 0 FOR 5.0;
 		LEVEL 1 FOR 5.0;
 		LEVEL 0 FOR 5.0;
@@ -7110,6 +7906,206 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|clk~clkctrl_outclk")
 		LEVEL 1 FOR 5.0;
 		LEVEL 0 FOR 5.0;
 		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
+		LEVEL 0 FOR 5.0;
+		LEVEL 1 FOR 5.0;
 	}
 }
 
@@ -7157,8 +8153,110 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|ctrl|estado[0]~0_combout")
 		LEVEL 1 FOR 10.0;
 		LEVEL 0 FOR 10.0;
 		LEVEL 1 FOR 10.0;
-		LEVEL 0 FOR 5.0;
-		LEVEL 1 FOR 35.0;
+		LEVEL 0 FOR 10.0;
+		LEVEL 1 FOR 10.0;
+		LEVEL 0 FOR 10.0;
+		LEVEL 1 FOR 10.0;
+		LEVEL 0 FOR 10.0;
+		LEVEL 1 FOR 10.0;
+		LEVEL 0 FOR 10.0;
+		LEVEL 1 FOR 10.0;
+		LEVEL 0 FOR 10.0;
+		LEVEL 1 FOR 10.0;
+		LEVEL 0 FOR 10.0;
+		LEVEL 1 FOR 10.0;
+		LEVEL 0 FOR 10.0;
+		LEVEL 1 FOR 10.0;
+		LEVEL 0 FOR 10.0;
+		LEVEL 1 FOR 10.0;
+		LEVEL 0 FOR 10.0;
+		LEVEL 1 FOR 10.0;
+		LEVEL 0 FOR 10.0;
+		LEVEL 1 FOR 10.0;
+		LEVEL 0 FOR 10.0;
+		LEVEL 1 FOR 10.0;
+		LEVEL 0 FOR 10.0;
+		LEVEL 1 FOR 10.0;
+		LEVEL 0 FOR 10.0;
+		LEVEL 1 FOR 10.0;
+		LEVEL 0 FOR 10.0;
+		LEVEL 1 FOR 10.0;
+		LEVEL 0 FOR 10.0;
+		LEVEL 1 FOR 10.0;
+		LEVEL 0 FOR 10.0;
+		LEVEL 1 FOR 10.0;
+		LEVEL 0 FOR 10.0;
+		LEVEL 1 FOR 10.0;
+		LEVEL 0 FOR 10.0;
+		LEVEL 1 FOR 10.0;
+		LEVEL 0 FOR 10.0;
+		LEVEL 1 FOR 10.0;
+		LEVEL 0 FOR 10.0;
+		LEVEL 1 FOR 10.0;
+		LEVEL 0 FOR 10.0;
+		LEVEL 1 FOR 10.0;
+		LEVEL 0 FOR 10.0;
+		LEVEL 1 FOR 10.0;
+		LEVEL 0 FOR 10.0;
+		LEVEL 1 FOR 10.0;
+		LEVEL 0 FOR 10.0;
+		LEVEL 1 FOR 10.0;
+		LEVEL 0 FOR 10.0;
+		LEVEL 1 FOR 10.0;
+		LEVEL 0 FOR 10.0;
+		LEVEL 1 FOR 10.0;
+		LEVEL 0 FOR 10.0;
+		LEVEL 1 FOR 10.0;
+		LEVEL 0 FOR 10.0;
+		LEVEL 1 FOR 10.0;
+		LEVEL 0 FOR 10.0;
+		LEVEL 1 FOR 10.0;
+		LEVEL 0 FOR 10.0;
+		LEVEL 1 FOR 10.0;
+		LEVEL 0 FOR 10.0;
+		LEVEL 1 FOR 10.0;
+		LEVEL 0 FOR 10.0;
+		LEVEL 1 FOR 10.0;
+		LEVEL 0 FOR 10.0;
+		LEVEL 1 FOR 10.0;
+		LEVEL 0 FOR 10.0;
+		LEVEL 1 FOR 10.0;
+		LEVEL 0 FOR 10.0;
+		LEVEL 1 FOR 10.0;
+		LEVEL 0 FOR 10.0;
+		LEVEL 1 FOR 10.0;
+		LEVEL 0 FOR 10.0;
+		LEVEL 1 FOR 10.0;
+		LEVEL 0 FOR 10.0;
+		LEVEL 1 FOR 10.0;
+		LEVEL 0 FOR 10.0;
+		LEVEL 1 FOR 10.0;
+		LEVEL 0 FOR 10.0;
+		LEVEL 1 FOR 10.0;
+		LEVEL 0 FOR 10.0;
+		LEVEL 1 FOR 10.0;
+		LEVEL 0 FOR 10.0;
+		LEVEL 1 FOR 10.0;
+		LEVEL 0 FOR 10.0;
+		LEVEL 1 FOR 10.0;
+		LEVEL 0 FOR 10.0;
+		LEVEL 1 FOR 10.0;
+		LEVEL 0 FOR 10.0;
+		LEVEL 1 FOR 10.0;
+		LEVEL 0 FOR 10.0;
+		LEVEL 1 FOR 10.0;
+		LEVEL 0 FOR 10.0;
+		LEVEL 1 FOR 10.0;
+		LEVEL 0 FOR 10.0;
+		LEVEL 1 FOR 10.0;
+		LEVEL 0 FOR 10.0;
+		LEVEL 1 FOR 10.0;
+		LEVEL 0 FOR 10.0;
+		LEVEL 1 FOR 10.0;
+		LEVEL 0 FOR 10.0;
+		LEVEL 1 FOR 10.0;
+		LEVEL 0 FOR 10.0;
+		LEVEL 1 FOR 10.0;
 		LEVEL 0 FOR 10.0;
 		LEVEL 1 FOR 10.0;
 		LEVEL 0 FOR 10.0;
@@ -7224,9 +8322,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|rst~combout")
 	{
 		REPEAT = 1;
 		LEVEL 0 FOR 20.0;
-		LEVEL 1 FOR 390.0;
-		LEVEL 0 FOR 30.0;
-		LEVEL 1 FOR 560.0;
+		LEVEL 1 FOR 1980.0;
 	}
 }
 
@@ -7236,9 +8332,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|rst~clkctrl_outclk")
 	{
 		REPEAT = 1;
 		LEVEL 0 FOR 20.0;
-		LEVEL 1 FOR 390.0;
-		LEVEL 0 FOR 30.0;
-		LEVEL 1 FOR 560.0;
+		LEVEL 1 FOR 1980.0;
 	}
 }
 
@@ -7266,8 +8360,6 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|ctrl|Mux4~1_combout")
 		LEVEL 0 FOR 20.0;
 		LEVEL 1 FOR 20.0;
 		LEVEL 0 FOR 20.0;
-		LEVEL 1 FOR 15.0;
-		LEVEL 0 FOR 45.0;
 		LEVEL 1 FOR 20.0;
 		LEVEL 0 FOR 20.0;
 		LEVEL 1 FOR 20.0;
@@ -7295,16 +8387,6 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|ctrl|Mux4~1_combout")
 		LEVEL 1 FOR 20.0;
 		LEVEL 0 FOR 20.0;
 		LEVEL 1 FOR 20.0;
-		LEVEL 0 FOR 5.0;
-	}
-}
-
-TRANSITION_LIST("processador_vlg_vec_tst|i1|ctrl|Mux4~1_wirecell_combout")
-{
-	NODE
-	{
-		REPEAT = 1;
-		LEVEL 1 FOR 35.0;
 		LEVEL 0 FOR 20.0;
 		LEVEL 1 FOR 20.0;
 		LEVEL 0 FOR 20.0;
@@ -7323,8 +8405,14 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|ctrl|Mux4~1_wirecell_combout")
 		LEVEL 1 FOR 20.0;
 		LEVEL 0 FOR 20.0;
 		LEVEL 1 FOR 20.0;
-		LEVEL 0 FOR 15.0;
-		LEVEL 1 FOR 45.0;
+		LEVEL 0 FOR 20.0;
+		LEVEL 1 FOR 20.0;
+		LEVEL 0 FOR 20.0;
+		LEVEL 1 FOR 20.0;
+		LEVEL 0 FOR 20.0;
+		LEVEL 1 FOR 20.0;
+		LEVEL 0 FOR 20.0;
+		LEVEL 1 FOR 20.0;
 		LEVEL 0 FOR 20.0;
 		LEVEL 1 FOR 20.0;
 		LEVEL 0 FOR 20.0;
@@ -7356,12 +8444,120 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|ctrl|Mux4~1_wirecell_combout")
 	}
 }
 
+TRANSITION_LIST("processador_vlg_vec_tst|i1|ctrl|Mux4~1_wirecell_combout")
+{
+	NODE
+	{
+		REPEAT = 1;
+		LEVEL 1 FOR 35.0;
+		LEVEL 0 FOR 20.0;
+		LEVEL 1 FOR 20.0;
+		LEVEL 0 FOR 20.0;
+		LEVEL 1 FOR 20.0;
+		LEVEL 0 FOR 20.0;
+		LEVEL 1 FOR 20.0;
+		LEVEL 0 FOR 20.0;
+		LEVEL 1 FOR 20.0;
+		LEVEL 0 FOR 20.0;
+		LEVEL 1 FOR 20.0;
+		LEVEL 0 FOR 20.0;
+		LEVEL 1 FOR 20.0;
+		LEVEL 0 FOR 20.0;
+		LEVEL 1 FOR 20.0;
+		LEVEL 0 FOR 20.0;
+		LEVEL 1 FOR 20.0;
+		LEVEL 0 FOR 20.0;
+		LEVEL 1 FOR 20.0;
+		LEVEL 0 FOR 20.0;
+		LEVEL 1 FOR 20.0;
+		LEVEL 0 FOR 20.0;
+		LEVEL 1 FOR 20.0;
+		LEVEL 0 FOR 20.0;
+		LEVEL 1 FOR 20.0;
+		LEVEL 0 FOR 20.0;
+		LEVEL 1 FOR 20.0;
+		LEVEL 0 FOR 20.0;
+		LEVEL 1 FOR 20.0;
+		LEVEL 0 FOR 20.0;
+		LEVEL 1 FOR 20.0;
+		LEVEL 0 FOR 20.0;
+		LEVEL 1 FOR 20.0;
+		LEVEL 0 FOR 20.0;
+		LEVEL 1 FOR 20.0;
+		LEVEL 0 FOR 20.0;
+		LEVEL 1 FOR 20.0;
+		LEVEL 0 FOR 20.0;
+		LEVEL 1 FOR 20.0;
+		LEVEL 0 FOR 20.0;
+		LEVEL 1 FOR 20.0;
+		LEVEL 0 FOR 20.0;
+		LEVEL 1 FOR 20.0;
+		LEVEL 0 FOR 20.0;
+		LEVEL 1 FOR 20.0;
+		LEVEL 0 FOR 20.0;
+		LEVEL 1 FOR 20.0;
+		LEVEL 0 FOR 20.0;
+		LEVEL 1 FOR 20.0;
+		LEVEL 0 FOR 20.0;
+		LEVEL 1 FOR 20.0;
+		LEVEL 0 FOR 20.0;
+		LEVEL 1 FOR 20.0;
+		LEVEL 0 FOR 20.0;
+		LEVEL 1 FOR 20.0;
+		LEVEL 0 FOR 20.0;
+		LEVEL 1 FOR 20.0;
+		LEVEL 0 FOR 20.0;
+		LEVEL 1 FOR 20.0;
+		LEVEL 0 FOR 20.0;
+		LEVEL 1 FOR 20.0;
+		LEVEL 0 FOR 20.0;
+		LEVEL 1 FOR 20.0;
+		LEVEL 0 FOR 20.0;
+		LEVEL 1 FOR 20.0;
+		LEVEL 0 FOR 20.0;
+		LEVEL 1 FOR 20.0;
+		LEVEL 0 FOR 20.0;
+		LEVEL 1 FOR 20.0;
+		LEVEL 0 FOR 20.0;
+		LEVEL 1 FOR 20.0;
+		LEVEL 0 FOR 20.0;
+		LEVEL 1 FOR 20.0;
+		LEVEL 0 FOR 20.0;
+		LEVEL 1 FOR 20.0;
+		LEVEL 0 FOR 20.0;
+		LEVEL 1 FOR 20.0;
+		LEVEL 0 FOR 20.0;
+		LEVEL 1 FOR 20.0;
+		LEVEL 0 FOR 20.0;
+		LEVEL 1 FOR 20.0;
+		LEVEL 0 FOR 20.0;
+		LEVEL 1 FOR 20.0;
+		LEVEL 0 FOR 20.0;
+		LEVEL 1 FOR 20.0;
+		LEVEL 0 FOR 20.0;
+		LEVEL 1 FOR 20.0;
+		LEVEL 0 FOR 20.0;
+		LEVEL 1 FOR 20.0;
+		LEVEL 0 FOR 20.0;
+		LEVEL 1 FOR 20.0;
+		LEVEL 0 FOR 20.0;
+		LEVEL 1 FOR 20.0;
+		LEVEL 0 FOR 20.0;
+		LEVEL 1 FOR 20.0;
+		LEVEL 0 FOR 20.0;
+		LEVEL 1 FOR 20.0;
+		LEVEL 0 FOR 20.0;
+		LEVEL 1 FOR 20.0;
+		LEVEL 0 FOR 5.0;
+	}
+}
+
 TRANSITION_LIST("processador_vlg_vec_tst|i1|regPC|dadoOut[0]~9_cout")
 {
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 0 FOR 1000.0;
+		LEVEL 0 FOR 2000.0;
 	}
 }
 
@@ -7380,7 +8576,17 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|regPC|dadoOut[0]~11")
 		LEVEL 0 FOR 40.0;
 		LEVEL 1 FOR 40.0;
 		LEVEL 0 FOR 40.0;
-		LEVEL 1 FOR 60.0;
+		LEVEL 1 FOR 40.0;
+		LEVEL 0 FOR 40.0;
+		LEVEL 1 FOR 40.0;
+		LEVEL 0 FOR 40.0;
+		LEVEL 1 FOR 40.0;
+		LEVEL 0 FOR 40.0;
+		LEVEL 1 FOR 40.0;
+		LEVEL 0 FOR 40.0;
+		LEVEL 1 FOR 40.0;
+		LEVEL 0 FOR 40.0;
+		LEVEL 1 FOR 40.0;
 		LEVEL 0 FOR 40.0;
 		LEVEL 1 FOR 40.0;
 		LEVEL 0 FOR 40.0;
@@ -7394,7 +8600,22 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|regPC|dadoOut[0]~11")
 		LEVEL 0 FOR 40.0;
 		LEVEL 1 FOR 40.0;
 		LEVEL 0 FOR 40.0;
-		LEVEL 1 FOR 15.0;
+		LEVEL 1 FOR 40.0;
+		LEVEL 0 FOR 40.0;
+		LEVEL 1 FOR 40.0;
+		LEVEL 0 FOR 40.0;
+		LEVEL 1 FOR 40.0;
+		LEVEL 0 FOR 40.0;
+		LEVEL 1 FOR 40.0;
+		LEVEL 0 FOR 40.0;
+		LEVEL 1 FOR 40.0;
+		LEVEL 0 FOR 40.0;
+		LEVEL 1 FOR 40.0;
+		LEVEL 0 FOR 40.0;
+		LEVEL 1 FOR 40.0;
+		LEVEL 0 FOR 40.0;
+		LEVEL 1 FOR 40.0;
+		LEVEL 0 FOR 35.0;
 	}
 }
 
@@ -7408,15 +8629,27 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|regPC|dadoOut[1]~12_combout")
 		LEVEL 0 FOR 80.0;
 		LEVEL 1 FOR 80.0;
 		LEVEL 0 FOR 80.0;
-		LEVEL 1 FOR 45.0;
-		LEVEL 0 FOR 55.0;
 		LEVEL 1 FOR 80.0;
 		LEVEL 0 FOR 80.0;
 		LEVEL 1 FOR 80.0;
 		LEVEL 0 FOR 80.0;
 		LEVEL 1 FOR 80.0;
 		LEVEL 0 FOR 80.0;
-		LEVEL 1 FOR 55.0;
+		LEVEL 1 FOR 80.0;
+		LEVEL 0 FOR 80.0;
+		LEVEL 1 FOR 80.0;
+		LEVEL 0 FOR 80.0;
+		LEVEL 1 FOR 80.0;
+		LEVEL 0 FOR 80.0;
+		LEVEL 1 FOR 80.0;
+		LEVEL 0 FOR 80.0;
+		LEVEL 1 FOR 80.0;
+		LEVEL 0 FOR 80.0;
+		LEVEL 1 FOR 80.0;
+		LEVEL 0 FOR 80.0;
+		LEVEL 1 FOR 80.0;
+		LEVEL 0 FOR 80.0;
+		LEVEL 1 FOR 35.0;
 	}
 }
 
@@ -7429,13 +8662,27 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|regPC|dadoOut[1]~13")
 		LEVEL 1 FOR 40.0;
 		LEVEL 0 FOR 120.0;
 		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 220.0;
+		LEVEL 0 FOR 120.0;
+		LEVEL 1 FOR 40.0;
+		LEVEL 0 FOR 120.0;
 		LEVEL 1 FOR 40.0;
 		LEVEL 0 FOR 120.0;
 		LEVEL 1 FOR 40.0;
 		LEVEL 0 FOR 120.0;
 		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 95.0;
+		LEVEL 0 FOR 120.0;
+		LEVEL 1 FOR 40.0;
+		LEVEL 0 FOR 120.0;
+		LEVEL 1 FOR 40.0;
+		LEVEL 0 FOR 120.0;
+		LEVEL 1 FOR 40.0;
+		LEVEL 0 FOR 120.0;
+		LEVEL 1 FOR 40.0;
+		LEVEL 0 FOR 120.0;
+		LEVEL 1 FOR 40.0;
+		LEVEL 0 FOR 120.0;
+		LEVEL 1 FOR 40.0;
+		LEVEL 0 FOR 75.0;
 	}
 }
 
@@ -7446,9 +8693,17 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|regPC|dadoOut[2]~15")
 		REPEAT = 1;
 		LEVEL 1 FOR 285.0;
 		LEVEL 0 FOR 40.0;
-		LEVEL 1 FOR 380.0;
+		LEVEL 1 FOR 280.0;
 		LEVEL 0 FOR 40.0;
-		LEVEL 1 FOR 255.0;
+		LEVEL 1 FOR 280.0;
+		LEVEL 0 FOR 40.0;
+		LEVEL 1 FOR 280.0;
+		LEVEL 0 FOR 40.0;
+		LEVEL 1 FOR 280.0;
+		LEVEL 0 FOR 40.0;
+		LEVEL 1 FOR 280.0;
+		LEVEL 0 FOR 40.0;
+		LEVEL 1 FOR 75.0;
 	}
 }
 
@@ -7458,9 +8713,12 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|regPC|dadoOut[3]~16_combout")
 	{
 		REPEAT = 1;
 		LEVEL 0 FOR 285.0;
-		LEVEL 1 FOR 125.0;
-		LEVEL 0 FOR 295.0;
-		LEVEL 1 FOR 295.0;
+		LEVEL 1 FOR 320.0;
+		LEVEL 0 FOR 320.0;
+		LEVEL 1 FOR 320.0;
+		LEVEL 0 FOR 320.0;
+		LEVEL 1 FOR 320.0;
+		LEVEL 0 FOR 115.0;
 	}
 }
 
@@ -7469,7 +8727,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|Add0~7_combout")
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 0 FOR 1000.0;
+		LEVEL 0 FOR 2000.0;
 	}
 }
 
@@ -7478,7 +8736,13 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|regPC|dadoOut[3]~17")
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 0 FOR 1000.0;
+		LEVEL 0 FOR 605.0;
+		LEVEL 1 FOR 40.0;
+		LEVEL 0 FOR 600.0;
+		LEVEL 1 FOR 40.0;
+		LEVEL 0 FOR 600.0;
+		LEVEL 1 FOR 40.0;
+		LEVEL 0 FOR 75.0;
 	}
 }
 
@@ -7487,7 +8751,9 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|regPC|dadoOut[4]~19")
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 1 FOR 1000.0;
+		LEVEL 1 FOR 1245.0;
+		LEVEL 0 FOR 40.0;
+		LEVEL 1 FOR 715.0;
 	}
 }
 
@@ -7496,7 +8762,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|regPC|dadoOut[5]~21")
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 0 FOR 1000.0;
+		LEVEL 0 FOR 2000.0;
 	}
 }
 
@@ -7505,7 +8771,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|regPC|dadoOut[6]~23")
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 1 FOR 1000.0;
+		LEVEL 1 FOR 2000.0;
 	}
 }
 
@@ -7514,7 +8780,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|regPC|dadoOut[7]~24_combout")
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 0 FOR 1000.0;
+		LEVEL 0 FOR 2000.0;
 	}
 }
 
@@ -7523,7 +8789,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|ctrl|Mux4~0_combout")
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 0 FOR 1000.0;
+		LEVEL 0 FOR 2000.0;
 	}
 }
 
@@ -7532,7 +8798,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|ctrl|SelJMP~regout")
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 0 FOR 1000.0;
+		LEVEL 0 FOR 2000.0;
 	}
 }
 
@@ -7541,7 +8807,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|Add0~6_combout")
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 0 FOR 1000.0;
+		LEVEL 0 FOR 2000.0;
 	}
 }
 
@@ -7550,7 +8816,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|regPC|dadoOut[6]~22_combout")
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 0 FOR 1000.0;
+		LEVEL 0 FOR 2000.0;
 	}
 }
 
@@ -7559,7 +8825,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|Add0~5_combout")
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 0 FOR 1000.0;
+		LEVEL 0 FOR 2000.0;
 	}
 }
 
@@ -7568,7 +8834,8 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|regPC|dadoOut[5]~20_combout")
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 0 FOR 1000.0;
+		LEVEL 0 FOR 1245.0;
+		LEVEL 1 FOR 755.0;
 	}
 }
 
@@ -7577,7 +8844,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|Add0~4_combout")
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 0 FOR 1000.0;
+		LEVEL 0 FOR 2000.0;
 	}
 }
 
@@ -7586,7 +8853,10 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|regPC|dadoOut[4]~18_combout")
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 0 FOR 1000.0;
+		LEVEL 0 FOR 605.0;
+		LEVEL 1 FOR 640.0;
+		LEVEL 0 FOR 640.0;
+		LEVEL 1 FOR 115.0;
 	}
 }
 
@@ -7595,7 +8865,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|Add0~2_combout")
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 0 FOR 1000.0;
+		LEVEL 0 FOR 2000.0;
 	}
 }
 
@@ -7606,10 +8876,17 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|regPC|dadoOut[2]~14_combout")
 		REPEAT = 1;
 		LEVEL 0 FOR 125.0;
 		LEVEL 1 FOR 160.0;
-		LEVEL 0 FOR 260.0;
+		LEVEL 0 FOR 160.0;
 		LEVEL 1 FOR 160.0;
 		LEVEL 0 FOR 160.0;
-		LEVEL 1 FOR 135.0;
+		LEVEL 1 FOR 160.0;
+		LEVEL 0 FOR 160.0;
+		LEVEL 1 FOR 160.0;
+		LEVEL 0 FOR 160.0;
+		LEVEL 1 FOR 160.0;
+		LEVEL 0 FOR 160.0;
+		LEVEL 1 FOR 160.0;
+		LEVEL 0 FOR 115.0;
 	}
 }
 
@@ -7632,21 +8909,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|ctrl|Mux5~0_combout")
 		LEVEL 1 FOR 20.0;
 		LEVEL 0 FOR 60.0;
 		LEVEL 1 FOR 20.0;
-		LEVEL 0 FOR 120.0;
-		LEVEL 1 FOR 20.0;
-		LEVEL 0 FOR 20.0;
-		LEVEL 1 FOR 20.0;
-		LEVEL 0 FOR 20.0;
-		LEVEL 1 FOR 20.0;
-		LEVEL 0 FOR 20.0;
-		LEVEL 1 FOR 20.0;
-		LEVEL 0 FOR 20.0;
-		LEVEL 1 FOR 20.0;
-		LEVEL 0 FOR 20.0;
-		LEVEL 1 FOR 20.0;
-		LEVEL 0 FOR 60.0;
-		LEVEL 1 FOR 20.0;
-		LEVEL 0 FOR 255.0;
+		LEVEL 0 FOR 1675.0;
 	}
 }
 
@@ -7661,9 +8924,15 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|ctrl|SelRegWr~1_combout")
 		LEVEL 1 FOR 10.0;
 		LEVEL 0 FOR 30.0;
 		LEVEL 1 FOR 10.0;
-		LEVEL 0 FOR 290.0;
+		LEVEL 0 FOR 30.0;
 		LEVEL 1 FOR 10.0;
-		LEVEL 0 FOR 70.0;
+		LEVEL 0 FOR 30.0;
+		LEVEL 1 FOR 10.0;
+		LEVEL 0 FOR 30.0;
+		LEVEL 1 FOR 10.0;
+		LEVEL 0 FOR 30.0;
+		LEVEL 1 FOR 10.0;
+		LEVEL 0 FOR 30.0;
 		LEVEL 1 FOR 10.0;
 		LEVEL 0 FOR 30.0;
 		LEVEL 1 FOR 10.0;
@@ -7675,7 +8944,67 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|ctrl|SelRegWr~1_combout")
 		LEVEL 1 FOR 10.0;
 		LEVEL 0 FOR 30.0;
 		LEVEL 1 FOR 10.0;
-		LEVEL 0 FOR 25.0;
+		LEVEL 0 FOR 30.0;
+		LEVEL 1 FOR 10.0;
+		LEVEL 0 FOR 30.0;
+		LEVEL 1 FOR 10.0;
+		LEVEL 0 FOR 30.0;
+		LEVEL 1 FOR 10.0;
+		LEVEL 0 FOR 30.0;
+		LEVEL 1 FOR 10.0;
+		LEVEL 0 FOR 30.0;
+		LEVEL 1 FOR 10.0;
+		LEVEL 0 FOR 30.0;
+		LEVEL 1 FOR 10.0;
+		LEVEL 0 FOR 30.0;
+		LEVEL 1 FOR 10.0;
+		LEVEL 0 FOR 30.0;
+		LEVEL 1 FOR 10.0;
+		LEVEL 0 FOR 30.0;
+		LEVEL 1 FOR 10.0;
+		LEVEL 0 FOR 30.0;
+		LEVEL 1 FOR 10.0;
+		LEVEL 0 FOR 30.0;
+		LEVEL 1 FOR 10.0;
+		LEVEL 0 FOR 30.0;
+		LEVEL 1 FOR 10.0;
+		LEVEL 0 FOR 30.0;
+		LEVEL 1 FOR 10.0;
+		LEVEL 0 FOR 30.0;
+		LEVEL 1 FOR 10.0;
+		LEVEL 0 FOR 30.0;
+		LEVEL 1 FOR 10.0;
+		LEVEL 0 FOR 30.0;
+		LEVEL 1 FOR 10.0;
+		LEVEL 0 FOR 30.0;
+		LEVEL 1 FOR 10.0;
+		LEVEL 0 FOR 30.0;
+		LEVEL 1 FOR 10.0;
+		LEVEL 0 FOR 30.0;
+		LEVEL 1 FOR 10.0;
+		LEVEL 0 FOR 30.0;
+		LEVEL 1 FOR 10.0;
+		LEVEL 0 FOR 30.0;
+		LEVEL 1 FOR 10.0;
+		LEVEL 0 FOR 30.0;
+		LEVEL 1 FOR 10.0;
+		LEVEL 0 FOR 30.0;
+		LEVEL 1 FOR 10.0;
+		LEVEL 0 FOR 30.0;
+		LEVEL 1 FOR 10.0;
+		LEVEL 0 FOR 30.0;
+		LEVEL 1 FOR 10.0;
+		LEVEL 0 FOR 30.0;
+		LEVEL 1 FOR 10.0;
+		LEVEL 0 FOR 30.0;
+		LEVEL 1 FOR 10.0;
+		LEVEL 0 FOR 30.0;
+		LEVEL 1 FOR 10.0;
+		LEVEL 0 FOR 30.0;
+		LEVEL 1 FOR 10.0;
+		LEVEL 0 FOR 30.0;
+		LEVEL 1 FOR 10.0;
+		LEVEL 0 FOR 5.0;
 	}
 }
 
@@ -7684,7 +9013,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|ctrl|SelRegWr~0_combout")
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 0 FOR 1000.0;
+		LEVEL 0 FOR 2000.0;
 	}
 }
 
@@ -7693,7 +9022,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|ctrl|SelRegWr~2_combout")
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 0 FOR 1000.0;
+		LEVEL 0 FOR 2000.0;
 	}
 }
 
@@ -7702,7 +9031,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|ctrl|SelRegWr~regout")
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 0 FOR 1000.0;
+		LEVEL 0 FOR 2000.0;
 	}
 }
 
@@ -7711,7 +9040,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|muxDtWr|out[2]~2_combout")
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 0 FOR 1000.0;
+		LEVEL 0 FOR 2000.0;
 	}
 }
 
@@ -7722,9 +9051,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|muxAddRegWr|out[0]~0_combout")
 		REPEAT = 1;
 		LEVEL 0 FOR 265.0;
 		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 380.0;
-		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 275.0;
+		LEVEL 0 FOR 1695.0;
 	}
 }
 
@@ -7735,9 +9062,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|muxAddRegWr|out[1]~1_combout")
 		REPEAT = 1;
 		LEVEL 0 FOR 265.0;
 		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 380.0;
-		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 275.0;
+		LEVEL 0 FOR 1695.0;
 	}
 }
 
@@ -7746,7 +9071,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|muxAddRegWr|out[2]~2_combout")
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 0 FOR 1000.0;
+		LEVEL 0 FOR 2000.0;
 	}
 }
 
@@ -7755,7 +9080,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|bancoRegistradores|Decoder0~4_combou
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 0 FOR 1000.0;
+		LEVEL 0 FOR 2000.0;
 	}
 }
 
@@ -7764,7 +9089,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|bancoRegistradores|registradores[2][
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 0 FOR 1000.0;
+		LEVEL 0 FOR 2000.0;
 	}
 }
 
@@ -7775,9 +9100,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|ctrl|Wr~1_combout")
 		REPEAT = 1;
 		LEVEL 0 FOR 265.0;
 		LEVEL 1 FOR 20.0;
-		LEVEL 0 FOR 400.0;
-		LEVEL 1 FOR 20.0;
-		LEVEL 0 FOR 295.0;
+		LEVEL 0 FOR 1715.0;
 	}
 }
 
@@ -7788,9 +9111,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|ctrl|Wr~regout")
 		REPEAT = 1;
 		LEVEL 0 FOR 275.0;
 		LEVEL 1 FOR 20.0;
-		LEVEL 0 FOR 400.0;
-		LEVEL 1 FOR 20.0;
-		LEVEL 0 FOR 285.0;
+		LEVEL 0 FOR 1705.0;
 	}
 }
 
@@ -7799,7 +9120,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|bancoRegistradores|Decoder0~5_combou
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 0 FOR 1000.0;
+		LEVEL 0 FOR 2000.0;
 	}
 }
 
@@ -7808,7 +9129,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|bancoRegistradores|registradores[1][
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 0 FOR 1000.0;
+		LEVEL 0 FOR 2000.0;
 	}
 }
 
@@ -7821,11 +9142,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|bancoRegistradores|Mux5~2_combout")
 		LEVEL 1 FOR 40.0;
 		LEVEL 0 FOR 120.0;
 		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 220.0;
-		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 120.0;
-		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 235.0;
+		LEVEL 0 FOR 1655.0;
 	}
 }
 
@@ -7836,9 +9153,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|bancoRegistradores|Mux5~3_combout")
 		REPEAT = 1;
 		LEVEL 0 FOR 145.0;
 		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 380.0;
-		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 395.0;
+		LEVEL 0 FOR 1815.0;
 	}
 }
 
@@ -7847,7 +9162,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|bancoRegistradores|registradores[4][
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 1 FOR 1000.0;
+		LEVEL 1 FOR 2000.0;
 	}
 }
 
@@ -7856,7 +9171,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|bancoRegistradores|Decoder0~2_combou
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 0 FOR 1000.0;
+		LEVEL 0 FOR 2000.0;
 	}
 }
 
@@ -7865,7 +9180,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|bancoRegistradores|registradores[4][
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 0 FOR 1000.0;
+		LEVEL 0 FOR 2000.0;
 	}
 }
 
@@ -7878,11 +9193,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|bancoRegistradores|Mux5~0_combout")
 		LEVEL 0 FOR 40.0;
 		LEVEL 1 FOR 120.0;
 		LEVEL 0 FOR 80.0;
-		LEVEL 1 FOR 180.0;
-		LEVEL 0 FOR 40.0;
-		LEVEL 1 FOR 120.0;
-		LEVEL 0 FOR 80.0;
-		LEVEL 1 FOR 275.0;
+		LEVEL 1 FOR 1695.0;
 	}
 }
 
@@ -7891,7 +9202,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|bancoRegistradores|registradores[7][
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 0 FOR 1000.0;
+		LEVEL 0 FOR 2000.0;
 	}
 }
 
@@ -7900,7 +9211,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|bancoRegistradores|Decoder0~3_combou
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 0 FOR 1000.0;
+		LEVEL 0 FOR 2000.0;
 	}
 }
 
@@ -7909,7 +9220,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|bancoRegistradores|registradores[7][
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 0 FOR 1000.0;
+		LEVEL 0 FOR 2000.0;
 	}
 }
 
@@ -7922,11 +9233,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|bancoRegistradores|Mux5~1_combout")
 		LEVEL 0 FOR 40.0;
 		LEVEL 1 FOR 120.0;
 		LEVEL 0 FOR 40.0;
-		LEVEL 1 FOR 220.0;
-		LEVEL 0 FOR 40.0;
-		LEVEL 1 FOR 120.0;
-		LEVEL 0 FOR 40.0;
-		LEVEL 1 FOR 235.0;
+		LEVEL 1 FOR 1655.0;
 	}
 }
 
@@ -7937,9 +9244,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|bancoRegistradores|Mux5~4_combout")
 		REPEAT = 1;
 		LEVEL 0 FOR 145.0;
 		LEVEL 1 FOR 120.0;
-		LEVEL 0 FOR 300.0;
-		LEVEL 1 FOR 120.0;
-		LEVEL 0 FOR 315.0;
+		LEVEL 0 FOR 1735.0;
 	}
 }
 
@@ -7952,11 +9257,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|ctrl|CmdULA[0]~0_combout")
 		LEVEL 0 FOR 250.0;
 		LEVEL 1 FOR 40.0;
 		LEVEL 0 FOR 40.0;
-		LEVEL 1 FOR 80.0;
-		LEVEL 0 FOR 260.0;
-		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 40.0;
-		LEVEL 1 FOR 235.0;
+		LEVEL 1 FOR 1655.0;
 	}
 }
 
@@ -7967,9 +9268,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|ctrl|CmdULA[0]~1_combout")
 		REPEAT = 1;
 		LEVEL 0 FOR 275.0;
 		LEVEL 1 FOR 10.0;
-		LEVEL 0 FOR 410.0;
-		LEVEL 1 FOR 10.0;
-		LEVEL 0 FOR 295.0;
+		LEVEL 0 FOR 1715.0;
 	}
 }
 
@@ -7980,9 +9279,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|ctrl|CmdULA[0]~2_combout")
 		REPEAT = 1;
 		LEVEL 0 FOR 265.0;
 		LEVEL 1 FOR 20.0;
-		LEVEL 0 FOR 400.0;
-		LEVEL 1 FOR 20.0;
-		LEVEL 0 FOR 295.0;
+		LEVEL 0 FOR 1715.0;
 	}
 }
 
@@ -7991,7 +9288,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|bancoRegistradores|Mux13~2_combout")
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 0 FOR 1000.0;
+		LEVEL 0 FOR 2000.0;
 	}
 }
 
@@ -8000,7 +9297,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|bancoRegistradores|Mux13~3_combout")
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 0 FOR 1000.0;
+		LEVEL 0 FOR 2000.0;
 	}
 }
 
@@ -8009,7 +9306,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|bancoRegistradores|Mux13~0_combout")
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 1 FOR 1000.0;
+		LEVEL 1 FOR 2000.0;
 	}
 }
 
@@ -8018,7 +9315,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|bancoRegistradores|registradores[5][
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 1 FOR 1000.0;
+		LEVEL 1 FOR 2000.0;
 	}
 }
 
@@ -8027,7 +9324,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|bancoRegistradores|Decoder0~0_combou
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 0 FOR 1000.0;
+		LEVEL 0 FOR 2000.0;
 	}
 }
 
@@ -8036,7 +9333,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|bancoRegistradores|registradores[5][
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 0 FOR 1000.0;
+		LEVEL 0 FOR 2000.0;
 	}
 }
 
@@ -8045,7 +9342,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|bancoRegistradores|Mux13~1_combout")
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 1 FOR 1000.0;
+		LEVEL 1 FOR 2000.0;
 	}
 }
 
@@ -8054,7 +9351,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|bancoRegistradores|Mux13~4_combout")
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 0 FOR 1000.0;
+		LEVEL 0 FOR 2000.0;
 	}
 }
 
@@ -8063,7 +9360,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|bancoRegistradores|registradores[7][
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 0 FOR 1000.0;
+		LEVEL 0 FOR 2000.0;
 	}
 }
 
@@ -8072,7 +9369,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|bancoRegistradores|registradores[6][
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 1 FOR 1000.0;
+		LEVEL 1 FOR 2000.0;
 	}
 }
 
@@ -8081,7 +9378,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|bancoRegistradores|Decoder0~1_combou
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 0 FOR 1000.0;
+		LEVEL 0 FOR 2000.0;
 	}
 }
 
@@ -8090,7 +9387,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|bancoRegistradores|registradores[6][
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 0 FOR 1000.0;
+		LEVEL 0 FOR 2000.0;
 	}
 }
 
@@ -8099,7 +9396,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|bancoRegistradores|registradores[4][
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 0 FOR 1000.0;
+		LEVEL 0 FOR 2000.0;
 	}
 }
 
@@ -8112,11 +9409,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|bancoRegistradores|Mux6~0_combout")
 		LEVEL 1 FOR 80.0;
 		LEVEL 0 FOR 120.0;
 		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 180.0;
-		LEVEL 1 FOR 80.0;
-		LEVEL 0 FOR 120.0;
-		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 235.0;
+		LEVEL 0 FOR 1655.0;
 	}
 }
 
@@ -8129,11 +9422,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|bancoRegistradores|Mux6~1_combout")
 		LEVEL 1 FOR 80.0;
 		LEVEL 0 FOR 80.0;
 		LEVEL 1 FOR 80.0;
-		LEVEL 0 FOR 180.0;
-		LEVEL 1 FOR 80.0;
-		LEVEL 0 FOR 80.0;
-		LEVEL 1 FOR 80.0;
-		LEVEL 0 FOR 275.0;
+		LEVEL 0 FOR 1695.0;
 	}
 }
 
@@ -8142,7 +9431,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|bancoRegistradores|Decoder0~6_combou
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 0 FOR 1000.0;
+		LEVEL 0 FOR 2000.0;
 	}
 }
 
@@ -8151,7 +9440,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|bancoRegistradores|registradores[0][
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 0 FOR 1000.0;
+		LEVEL 0 FOR 2000.0;
 	}
 }
 
@@ -8166,13 +9455,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|bancoRegistradores|Mux6~2_combout")
 		LEVEL 1 FOR 40.0;
 		LEVEL 0 FOR 40.0;
 		LEVEL 1 FOR 120.0;
-		LEVEL 0 FOR 140.0;
-		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 40.0;
-		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 40.0;
-		LEVEL 1 FOR 120.0;
-		LEVEL 0 FOR 235.0;
+		LEVEL 0 FOR 1655.0;
 	}
 }
 
@@ -8181,7 +9464,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|bancoRegistradores|registradores[3][
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 0 FOR 1000.0;
+		LEVEL 0 FOR 2000.0;
 	}
 }
 
@@ -8192,9 +9475,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|bancoRegistradores|Decoder0~7_combou
 		REPEAT = 1;
 		LEVEL 0 FOR 275.0;
 		LEVEL 1 FOR 20.0;
-		LEVEL 0 FOR 400.0;
-		LEVEL 1 FOR 20.0;
-		LEVEL 0 FOR 285.0;
+		LEVEL 0 FOR 1705.0;
 	}
 }
 
@@ -8203,7 +9484,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|bancoRegistradores|registradores[3][
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 0 FOR 1000.0;
+		LEVEL 0 FOR 2000.0;
 	}
 }
 
@@ -8216,11 +9497,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|bancoRegistradores|Mux6~3_combout")
 		LEVEL 1 FOR 80.0;
 		LEVEL 0 FOR 80.0;
 		LEVEL 1 FOR 80.0;
-		LEVEL 0 FOR 180.0;
-		LEVEL 1 FOR 80.0;
-		LEVEL 0 FOR 80.0;
-		LEVEL 1 FOR 80.0;
-		LEVEL 0 FOR 275.0;
+		LEVEL 0 FOR 1695.0;
 	}
 }
 
@@ -8233,11 +9510,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|bancoRegistradores|Mux6~4_combout")
 		LEVEL 1 FOR 80.0;
 		LEVEL 0 FOR 80.0;
 		LEVEL 1 FOR 80.0;
-		LEVEL 0 FOR 180.0;
-		LEVEL 1 FOR 80.0;
-		LEVEL 0 FOR 80.0;
-		LEVEL 1 FOR 80.0;
-		LEVEL 0 FOR 275.0;
+		LEVEL 0 FOR 1695.0;
 	}
 }
 
@@ -8246,7 +9519,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|muxDtWr|out[0]~0_combout")
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 0 FOR 1000.0;
+		LEVEL 0 FOR 2000.0;
 	}
 }
 
@@ -8255,7 +9528,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|bancoRegistradores|registradores[5][
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 0 FOR 1000.0;
+		LEVEL 0 FOR 2000.0;
 	}
 }
 
@@ -8264,7 +9537,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|bancoRegistradores|registradores[5][
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 0 FOR 1000.0;
+		LEVEL 0 FOR 2000.0;
 	}
 }
 
@@ -8273,7 +9546,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|bancoRegistradores|registradores[4][
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 1 FOR 1000.0;
+		LEVEL 1 FOR 2000.0;
 	}
 }
 
@@ -8282,7 +9555,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|bancoRegistradores|registradores[4][
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 0 FOR 1000.0;
+		LEVEL 0 FOR 2000.0;
 	}
 }
 
@@ -8291,7 +9564,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|bancoRegistradores|Mux15~0_combout")
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 1 FOR 1000.0;
+		LEVEL 1 FOR 2000.0;
 	}
 }
 
@@ -8300,7 +9573,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|bancoRegistradores|Mux15~1_combout")
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 1 FOR 1000.0;
+		LEVEL 1 FOR 2000.0;
 	}
 }
 
@@ -8309,7 +9582,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|bancoRegistradores|registradores[2][
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 1 FOR 1000.0;
+		LEVEL 1 FOR 2000.0;
 	}
 }
 
@@ -8318,7 +9591,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|bancoRegistradores|registradores[2][
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 0 FOR 1000.0;
+		LEVEL 0 FOR 2000.0;
 	}
 }
 
@@ -8327,7 +9600,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|bancoRegistradores|registradores[1][
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 0 FOR 1000.0;
+		LEVEL 0 FOR 2000.0;
 	}
 }
 
@@ -8338,9 +9611,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|bancoRegistradores|Mux15~2_combout")
 		REPEAT = 1;
 		LEVEL 1 FOR 265.0;
 		LEVEL 0 FOR 40.0;
-		LEVEL 1 FOR 380.0;
-		LEVEL 0 FOR 40.0;
-		LEVEL 1 FOR 275.0;
+		LEVEL 1 FOR 1695.0;
 	}
 }
 
@@ -8349,7 +9620,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|bancoRegistradores|Mux15~3_combout")
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 1 FOR 1000.0;
+		LEVEL 1 FOR 2000.0;
 	}
 }
 
@@ -8358,7 +9629,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|bancoRegistradores|Mux15~4_combout")
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 1 FOR 1000.0;
+		LEVEL 1 FOR 2000.0;
 	}
 }
 
@@ -8374,13 +9645,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|ula|Add0~1")
 		LEVEL 0 FOR 40.0;
 		LEVEL 1 FOR 40.0;
 		LEVEL 0 FOR 120.0;
-		LEVEL 1 FOR 140.0;
-		LEVEL 0 FOR 40.0;
-		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 40.0;
-		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 120.0;
-		LEVEL 1 FOR 225.0;
+		LEVEL 1 FOR 1645.0;
 	}
 }
 
@@ -8394,11 +9659,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|ula|Add0~3_combout")
 		LEVEL 0 FOR 80.0;
 		LEVEL 1 FOR 80.0;
 		LEVEL 0 FOR 80.0;
-		LEVEL 1 FOR 180.0;
-		LEVEL 0 FOR 80.0;
-		LEVEL 1 FOR 80.0;
-		LEVEL 0 FOR 80.0;
-		LEVEL 1 FOR 225.0;
+		LEVEL 1 FOR 1645.0;
 	}
 }
 
@@ -8413,13 +9674,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|ula|Add0~5_combout")
 		LEVEL 1 FOR 40.0;
 		LEVEL 0 FOR 20.0;
 		LEVEL 1 FOR 20.0;
-		LEVEL 0 FOR 180.0;
-		LEVEL 1 FOR 80.0;
-		LEVEL 0 FOR 80.0;
-		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 20.0;
-		LEVEL 1 FOR 20.0;
-		LEVEL 0 FOR 265.0;
+		LEVEL 0 FOR 1685.0;
 	}
 }
 
@@ -8428,7 +9683,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|muxDtWr|out[1]~1_combout")
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 0 FOR 1000.0;
+		LEVEL 0 FOR 2000.0;
 	}
 }
 
@@ -8437,7 +9692,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|bancoRegistradores|registradores[2][
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 1 FOR 1000.0;
+		LEVEL 1 FOR 2000.0;
 	}
 }
 
@@ -8446,7 +9701,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|bancoRegistradores|registradores[2][
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 0 FOR 1000.0;
+		LEVEL 0 FOR 2000.0;
 	}
 }
 
@@ -8455,7 +9710,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|bancoRegistradores|registradores[1][
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 1 FOR 1000.0;
+		LEVEL 1 FOR 2000.0;
 	}
 }
 
@@ -8464,7 +9719,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|bancoRegistradores|registradores[1][
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 0 FOR 1000.0;
+		LEVEL 0 FOR 2000.0;
 	}
 }
 
@@ -8473,7 +9728,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|bancoRegistradores|Mux14~2_combout")
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 0 FOR 1000.0;
+		LEVEL 0 FOR 2000.0;
 	}
 }
 
@@ -8484,9 +9739,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|bancoRegistradores|Mux14~3_combout")
 		REPEAT = 1;
 		LEVEL 0 FOR 265.0;
 		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 380.0;
-		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 275.0;
+		LEVEL 0 FOR 1695.0;
 	}
 }
 
@@ -8497,9 +9750,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|bancoRegistradores|Mux14~4_combout")
 		REPEAT = 1;
 		LEVEL 0 FOR 265.0;
 		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 380.0;
-		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 275.0;
+		LEVEL 0 FOR 1695.0;
 	}
 }
 
@@ -8512,11 +9763,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|ula|Add0~4")
 		LEVEL 0 FOR 40.0;
 		LEVEL 1 FOR 120.0;
 		LEVEL 0 FOR 40.0;
-		LEVEL 1 FOR 220.0;
-		LEVEL 0 FOR 40.0;
-		LEVEL 1 FOR 120.0;
-		LEVEL 0 FOR 40.0;
-		LEVEL 1 FOR 265.0;
+		LEVEL 1 FOR 1685.0;
 	}
 }
 
@@ -8527,9 +9774,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|ula|Add0~6_combout")
 		REPEAT = 1;
 		LEVEL 0 FOR 115.0;
 		LEVEL 1 FOR 200.0;
-		LEVEL 0 FOR 220.0;
-		LEVEL 1 FOR 200.0;
-		LEVEL 0 FOR 265.0;
+		LEVEL 0 FOR 1685.0;
 	}
 }
 
@@ -8540,9 +9785,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|ula|Add0~8_combout")
 		REPEAT = 1;
 		LEVEL 0 FOR 155.0;
 		LEVEL 1 FOR 140.0;
-		LEVEL 0 FOR 280.0;
-		LEVEL 1 FOR 140.0;
-		LEVEL 0 FOR 285.0;
+		LEVEL 0 FOR 1705.0;
 	}
 }
 
@@ -8553,9 +9796,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|muxDtWr|out[3]~3_combout")
 		REPEAT = 1;
 		LEVEL 0 FOR 265.0;
 		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 380.0;
-		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 275.0;
+		LEVEL 0 FOR 1695.0;
 	}
 }
 
@@ -8564,7 +9805,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|bancoRegistradores|registradores[5][
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 0 FOR 1000.0;
+		LEVEL 0 FOR 2000.0;
 	}
 }
 
@@ -8575,9 +9816,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|bancoRegistradores|registradores[6][
 		REPEAT = 1;
 		LEVEL 0 FOR 265.0;
 		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 380.0;
-		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 275.0;
+		LEVEL 0 FOR 1695.0;
 	}
 }
 
@@ -8586,7 +9825,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|bancoRegistradores|registradores[6][
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 0 FOR 1000.0;
+		LEVEL 0 FOR 2000.0;
 	}
 }
 
@@ -8595,7 +9834,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|bancoRegistradores|registradores[4][
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 0 FOR 1000.0;
+		LEVEL 0 FOR 2000.0;
 	}
 }
 
@@ -8608,11 +9847,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|bancoRegistradores|Mux4~0_combout")
 		LEVEL 1 FOR 40.0;
 		LEVEL 0 FOR 120.0;
 		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 220.0;
-		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 120.0;
-		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 235.0;
+		LEVEL 0 FOR 1655.0;
 	}
 }
 
@@ -8623,9 +9858,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|bancoRegistradores|registradores[7][
 		REPEAT = 1;
 		LEVEL 1 FOR 265.0;
 		LEVEL 0 FOR 40.0;
-		LEVEL 1 FOR 380.0;
-		LEVEL 0 FOR 40.0;
-		LEVEL 1 FOR 275.0;
+		LEVEL 1 FOR 1695.0;
 	}
 }
 
@@ -8634,7 +9867,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|bancoRegistradores|registradores[7][
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 0 FOR 1000.0;
+		LEVEL 0 FOR 2000.0;
 	}
 }
 
@@ -8647,11 +9880,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|bancoRegistradores|Mux4~1_combout")
 		LEVEL 1 FOR 40.0;
 		LEVEL 0 FOR 120.0;
 		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 220.0;
-		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 120.0;
-		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 235.0;
+		LEVEL 0 FOR 1655.0;
 	}
 }
 
@@ -8662,9 +9891,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|bancoRegistradores|registradores[2][
 		REPEAT = 1;
 		LEVEL 0 FOR 265.0;
 		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 380.0;
-		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 275.0;
+		LEVEL 0 FOR 1695.0;
 	}
 }
 
@@ -8673,7 +9900,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|bancoRegistradores|registradores[2][
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 0 FOR 1000.0;
+		LEVEL 0 FOR 2000.0;
 	}
 }
 
@@ -8684,9 +9911,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|bancoRegistradores|registradores[1][
 		REPEAT = 1;
 		LEVEL 0 FOR 265.0;
 		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 380.0;
-		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 275.0;
+		LEVEL 0 FOR 1695.0;
 	}
 }
 
@@ -8695,7 +9920,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|bancoRegistradores|registradores[1][
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 0 FOR 1000.0;
+		LEVEL 0 FOR 2000.0;
 	}
 }
 
@@ -8708,11 +9933,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|bancoRegistradores|Mux4~2_combout")
 		LEVEL 1 FOR 40.0;
 		LEVEL 0 FOR 120.0;
 		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 220.0;
-		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 120.0;
-		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 235.0;
+		LEVEL 0 FOR 1655.0;
 	}
 }
 
@@ -8723,9 +9944,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|bancoRegistradores|Mux4~3_combout")
 		REPEAT = 1;
 		LEVEL 0 FOR 305.0;
 		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 380.0;
-		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 235.0;
+		LEVEL 0 FOR 1655.0;
 	}
 }
 
@@ -8736,9 +9955,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|bancoRegistradores|Mux4~4_combout")
 		REPEAT = 1;
 		LEVEL 0 FOR 305.0;
 		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 380.0;
-		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 235.0;
+		LEVEL 0 FOR 1655.0;
 	}
 }
 
@@ -8747,7 +9964,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|ula|Add0~7")
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 0 FOR 1000.0;
+		LEVEL 0 FOR 2000.0;
 	}
 }
 
@@ -8758,9 +9975,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|ula|Add0~9_combout")
 		REPEAT = 1;
 		LEVEL 0 FOR 315.0;
 		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 380.0;
-		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 225.0;
+		LEVEL 0 FOR 1645.0;
 	}
 }
 
@@ -8771,9 +9986,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|ula|Add0~11_combout")
 		REPEAT = 1;
 		LEVEL 0 FOR 315.0;
 		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 380.0;
-		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 225.0;
+		LEVEL 0 FOR 1645.0;
 	}
 }
 
@@ -8788,13 +10001,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|ctrl|Mux5~3_combout")
 		LEVEL 1 FOR 40.0;
 		LEVEL 0 FOR 20.0;
 		LEVEL 1 FOR 60.0;
-		LEVEL 0 FOR 140.0;
-		LEVEL 1 FOR 80.0;
-		LEVEL 0 FOR 80.0;
-		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 20.0;
-		LEVEL 1 FOR 60.0;
-		LEVEL 0 FOR 225.0;
+		LEVEL 0 FOR 1645.0;
 	}
 }
 
@@ -8803,7 +10010,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|muxDtWr|out[5]~5_combout")
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 0 FOR 1000.0;
+		LEVEL 0 FOR 2000.0;
 	}
 }
 
@@ -8812,7 +10019,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|bancoRegistradores|registradores[2][
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 0 FOR 1000.0;
+		LEVEL 0 FOR 2000.0;
 	}
 }
 
@@ -8821,7 +10028,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|bancoRegistradores|registradores[2][
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 0 FOR 1000.0;
+		LEVEL 0 FOR 2000.0;
 	}
 }
 
@@ -8830,7 +10037,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|bancoRegistradores|registradores[3][
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 0 FOR 1000.0;
+		LEVEL 0 FOR 2000.0;
 	}
 }
 
@@ -8839,7 +10046,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|bancoRegistradores|registradores[1][
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 0 FOR 1000.0;
+		LEVEL 0 FOR 2000.0;
 	}
 }
 
@@ -8852,11 +10059,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|bancoRegistradores|Mux2~2_combout")
 		LEVEL 1 FOR 40.0;
 		LEVEL 0 FOR 120.0;
 		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 220.0;
-		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 120.0;
-		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 235.0;
+		LEVEL 0 FOR 1655.0;
 	}
 }
 
@@ -8865,7 +10068,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|bancoRegistradores|Mux2~3_combout")
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 0 FOR 1000.0;
+		LEVEL 0 FOR 2000.0;
 	}
 }
 
@@ -8874,7 +10077,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|bancoRegistradores|Mux2~4_combout")
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 0 FOR 1000.0;
+		LEVEL 0 FOR 2000.0;
 	}
 }
 
@@ -8883,7 +10086,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|ula|Add0~10")
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 1 FOR 1000.0;
+		LEVEL 1 FOR 2000.0;
 	}
 }
 
@@ -8894,9 +10097,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|ula|Add0~12_combout")
 		REPEAT = 1;
 		LEVEL 0 FOR 315.0;
 		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 380.0;
-		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 225.0;
+		LEVEL 0 FOR 1645.0;
 	}
 }
 
@@ -8907,9 +10108,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|ula|Add0~14_combout")
 		REPEAT = 1;
 		LEVEL 0 FOR 315.0;
 		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 380.0;
-		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 225.0;
+		LEVEL 0 FOR 1645.0;
 	}
 }
 
@@ -8920,9 +10119,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|muxDtWr|out[4]~4_combout")
 		REPEAT = 1;
 		LEVEL 0 FOR 265.0;
 		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 380.0;
-		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 275.0;
+		LEVEL 0 FOR 1695.0;
 	}
 }
 
@@ -8931,7 +10128,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|bancoRegistradores|registradores[2][
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 0 FOR 1000.0;
+		LEVEL 0 FOR 2000.0;
 	}
 }
 
@@ -8941,9 +10138,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|bancoRegistradores|registradores[3][
 	{
 		REPEAT = 1;
 		LEVEL 0 FOR 285.0;
-		LEVEL 1 FOR 125.0;
-		LEVEL 0 FOR 295.0;
-		LEVEL 1 FOR 295.0;
+		LEVEL 1 FOR 1715.0;
 	}
 }
 
@@ -8952,7 +10147,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|bancoRegistradores|registradores[0][
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 0 FOR 1000.0;
+		LEVEL 0 FOR 2000.0;
 	}
 }
 
@@ -8965,11 +10160,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|bancoRegistradores|Mux3~2_combout")
 		LEVEL 1 FOR 40.0;
 		LEVEL 0 FOR 120.0;
 		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 220.0;
-		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 120.0;
-		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 235.0;
+		LEVEL 0 FOR 1655.0;
 	}
 }
 
@@ -8980,9 +10171,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|bancoRegistradores|Mux3~3_combout")
 		REPEAT = 1;
 		LEVEL 0 FOR 305.0;
 		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 380.0;
-		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 235.0;
+		LEVEL 0 FOR 1655.0;
 	}
 }
 
@@ -8991,7 +10180,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|bancoRegistradores|registradores[7][
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 0 FOR 1000.0;
+		LEVEL 0 FOR 2000.0;
 	}
 }
 
@@ -9000,7 +10189,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|bancoRegistradores|registradores[4][
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 0 FOR 1000.0;
+		LEVEL 0 FOR 2000.0;
 	}
 }
 
@@ -9009,7 +10198,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|bancoRegistradores|registradores[6][
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 0 FOR 1000.0;
+		LEVEL 0 FOR 2000.0;
 	}
 }
 
@@ -9022,11 +10211,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|bancoRegistradores|Mux3~0_combout")
 		LEVEL 1 FOR 40.0;
 		LEVEL 0 FOR 120.0;
 		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 220.0;
-		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 120.0;
-		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 235.0;
+		LEVEL 0 FOR 1655.0;
 	}
 }
 
@@ -9035,7 +10220,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|bancoRegistradores|Mux3~1_combout")
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 0 FOR 1000.0;
+		LEVEL 0 FOR 2000.0;
 	}
 }
 
@@ -9046,9 +10231,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|bancoRegistradores|Mux3~4_combout")
 		REPEAT = 1;
 		LEVEL 0 FOR 305.0;
 		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 380.0;
-		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 235.0;
+		LEVEL 0 FOR 1655.0;
 	}
 }
 
@@ -9057,7 +10240,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|ula|Add0~13")
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 0 FOR 1000.0;
+		LEVEL 0 FOR 2000.0;
 	}
 }
 
@@ -9066,7 +10249,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|ula|Add0~15_combout")
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 0 FOR 1000.0;
+		LEVEL 0 FOR 2000.0;
 	}
 }
 
@@ -9075,7 +10258,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|ula|Add0~17_combout")
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 0 FOR 1000.0;
+		LEVEL 0 FOR 2000.0;
 	}
 }
 
@@ -9086,9 +10269,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|muxDtWr|out[7]~7_combout")
 		REPEAT = 1;
 		LEVEL 0 FOR 265.0;
 		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 380.0;
-		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 275.0;
+		LEVEL 0 FOR 1695.0;
 	}
 }
 
@@ -9097,7 +10278,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|bancoRegistradores|registradores[0][
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 0 FOR 1000.0;
+		LEVEL 0 FOR 2000.0;
 	}
 }
 
@@ -9110,11 +10291,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|bancoRegistradores|Mux0~2_combout")
 		LEVEL 1 FOR 40.0;
 		LEVEL 0 FOR 120.0;
 		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 220.0;
-		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 120.0;
-		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 235.0;
+		LEVEL 0 FOR 1655.0;
 	}
 }
 
@@ -9123,7 +10300,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|bancoRegistradores|registradores[2][
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 0 FOR 1000.0;
+		LEVEL 0 FOR 2000.0;
 	}
 }
 
@@ -9134,9 +10311,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|bancoRegistradores|Mux0~3_combout")
 		REPEAT = 1;
 		LEVEL 0 FOR 305.0;
 		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 380.0;
-		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 235.0;
+		LEVEL 0 FOR 1655.0;
 	}
 }
 
@@ -9147,9 +10322,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|bancoRegistradores|registradores[5][
 		REPEAT = 1;
 		LEVEL 0 FOR 265.0;
 		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 380.0;
-		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 275.0;
+		LEVEL 0 FOR 1695.0;
 	}
 }
 
@@ -9158,7 +10331,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|bancoRegistradores|registradores[5][
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 0 FOR 1000.0;
+		LEVEL 0 FOR 2000.0;
 	}
 }
 
@@ -9169,9 +10342,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|bancoRegistradores|registradores[4][
 		REPEAT = 1;
 		LEVEL 0 FOR 265.0;
 		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 380.0;
-		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 275.0;
+		LEVEL 0 FOR 1695.0;
 	}
 }
 
@@ -9180,7 +10351,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|bancoRegistradores|registradores[4][
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 0 FOR 1000.0;
+		LEVEL 0 FOR 2000.0;
 	}
 }
 
@@ -9193,11 +10364,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|bancoRegistradores|Mux0~0_combout")
 		LEVEL 1 FOR 40.0;
 		LEVEL 0 FOR 120.0;
 		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 220.0;
-		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 120.0;
-		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 235.0;
+		LEVEL 0 FOR 1655.0;
 	}
 }
 
@@ -9206,7 +10373,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|bancoRegistradores|Mux0~1_combout")
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 0 FOR 1000.0;
+		LEVEL 0 FOR 2000.0;
 	}
 }
 
@@ -9217,9 +10384,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|bancoRegistradores|Mux0~4_combout")
 		REPEAT = 1;
 		LEVEL 0 FOR 305.0;
 		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 380.0;
-		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 235.0;
+		LEVEL 0 FOR 1655.0;
 	}
 }
 
@@ -9228,7 +10393,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|bancoRegistradores|registradores[7][
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 0 FOR 1000.0;
+		LEVEL 0 FOR 2000.0;
 	}
 }
 
@@ -9237,7 +10402,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|bancoRegistradores|Mux8~1_combout")
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 0 FOR 1000.0;
+		LEVEL 0 FOR 2000.0;
 	}
 }
 
@@ -9247,9 +10412,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|bancoRegistradores|registradores[3][
 	{
 		REPEAT = 1;
 		LEVEL 0 FOR 285.0;
-		LEVEL 1 FOR 125.0;
-		LEVEL 0 FOR 295.0;
-		LEVEL 1 FOR 295.0;
+		LEVEL 1 FOR 1715.0;
 	}
 }
 
@@ -9258,7 +10421,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|bancoRegistradores|registradores[1][
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 0 FOR 1000.0;
+		LEVEL 0 FOR 2000.0;
 	}
 }
 
@@ -9267,7 +10430,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|bancoRegistradores|Mux8~2_combout")
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 0 FOR 1000.0;
+		LEVEL 0 FOR 2000.0;
 	}
 }
 
@@ -9276,7 +10439,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|bancoRegistradores|Mux8~3_combout")
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 0 FOR 1000.0;
+		LEVEL 0 FOR 2000.0;
 	}
 }
 
@@ -9285,7 +10448,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|bancoRegistradores|Mux8~4_combout")
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 0 FOR 1000.0;
+		LEVEL 0 FOR 2000.0;
 	}
 }
 
@@ -9294,7 +10457,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|bancoRegistradores|registradores[0][
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 0 FOR 1000.0;
+		LEVEL 0 FOR 2000.0;
 	}
 }
 
@@ -9303,7 +10466,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|bancoRegistradores|registradores[1][
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 0 FOR 1000.0;
+		LEVEL 0 FOR 2000.0;
 	}
 }
 
@@ -9316,11 +10479,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|bancoRegistradores|Mux1~2_combout")
 		LEVEL 1 FOR 40.0;
 		LEVEL 0 FOR 120.0;
 		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 220.0;
-		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 120.0;
-		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 235.0;
+		LEVEL 0 FOR 1655.0;
 	}
 }
 
@@ -9329,7 +10488,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|bancoRegistradores|Mux1~3_combout")
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 0 FOR 1000.0;
+		LEVEL 0 FOR 2000.0;
 	}
 }
 
@@ -9338,7 +10497,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|bancoRegistradores|registradores[7][
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 0 FOR 1000.0;
+		LEVEL 0 FOR 2000.0;
 	}
 }
 
@@ -9347,7 +10506,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|bancoRegistradores|registradores[6][
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 0 FOR 1000.0;
+		LEVEL 0 FOR 2000.0;
 	}
 }
 
@@ -9356,7 +10515,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|bancoRegistradores|registradores[6][
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 0 FOR 1000.0;
+		LEVEL 0 FOR 2000.0;
 	}
 }
 
@@ -9369,11 +10528,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|bancoRegistradores|Mux1~0_combout")
 		LEVEL 1 FOR 40.0;
 		LEVEL 0 FOR 120.0;
 		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 220.0;
-		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 120.0;
-		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 235.0;
+		LEVEL 0 FOR 1655.0;
 	}
 }
 
@@ -9382,7 +10537,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|bancoRegistradores|Mux1~1_combout")
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 0 FOR 1000.0;
+		LEVEL 0 FOR 2000.0;
 	}
 }
 
@@ -9391,7 +10546,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|bancoRegistradores|Mux1~4_combout")
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 0 FOR 1000.0;
+		LEVEL 0 FOR 2000.0;
 	}
 }
 
@@ -9400,7 +10555,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|ula|Add0~16")
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 1 FOR 1000.0;
+		LEVEL 1 FOR 2000.0;
 	}
 }
 
@@ -9409,7 +10564,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|ula|Add0~18_combout")
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 0 FOR 1000.0;
+		LEVEL 0 FOR 2000.0;
 	}
 }
 
@@ -9418,7 +10573,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|ula|Add0~20_combout")
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 0 FOR 1000.0;
+		LEVEL 0 FOR 2000.0;
 	}
 }
 
@@ -9427,7 +10582,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|muxDtWr|out[6]~6_combout")
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 0 FOR 1000.0;
+		LEVEL 0 FOR 2000.0;
 	}
 }
 
@@ -9436,7 +10591,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|bancoRegistradores|registradores[2][
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 0 FOR 1000.0;
+		LEVEL 0 FOR 2000.0;
 	}
 }
 
@@ -9445,7 +10600,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|bancoRegistradores|registradores[2][
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 0 FOR 1000.0;
+		LEVEL 0 FOR 2000.0;
 	}
 }
 
@@ -9454,7 +10609,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|bancoRegistradores|registradores[3][
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 0 FOR 1000.0;
+		LEVEL 0 FOR 2000.0;
 	}
 }
 
@@ -9463,7 +10618,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|bancoRegistradores|registradores[3][
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 0 FOR 1000.0;
+		LEVEL 0 FOR 2000.0;
 	}
 }
 
@@ -9472,7 +10627,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|bancoRegistradores|Mux9~2_combout")
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 0 FOR 1000.0;
+		LEVEL 0 FOR 2000.0;
 	}
 }
 
@@ -9481,7 +10636,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|bancoRegistradores|Mux9~3_combout")
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 0 FOR 1000.0;
+		LEVEL 0 FOR 2000.0;
 	}
 }
 
@@ -9490,7 +10645,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|bancoRegistradores|registradores[5][
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 0 FOR 1000.0;
+		LEVEL 0 FOR 2000.0;
 	}
 }
 
@@ -9499,7 +10654,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|bancoRegistradores|registradores[4][
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 0 FOR 1000.0;
+		LEVEL 0 FOR 2000.0;
 	}
 }
 
@@ -9508,7 +10663,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|bancoRegistradores|Mux9~0_combout")
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 0 FOR 1000.0;
+		LEVEL 0 FOR 2000.0;
 	}
 }
 
@@ -9517,7 +10672,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|bancoRegistradores|Mux9~1_combout")
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 0 FOR 1000.0;
+		LEVEL 0 FOR 2000.0;
 	}
 }
 
@@ -9526,7 +10681,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|bancoRegistradores|Mux9~4_combout")
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 0 FOR 1000.0;
+		LEVEL 0 FOR 2000.0;
 	}
 }
 
@@ -9535,7 +10690,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|ula|Add0~19")
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 0 FOR 1000.0;
+		LEVEL 0 FOR 2000.0;
 	}
 }
 
@@ -9546,9 +10701,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|ula|Add0~21_combout")
 		REPEAT = 1;
 		LEVEL 0 FOR 315.0;
 		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 380.0;
-		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 225.0;
+		LEVEL 0 FOR 1645.0;
 	}
 }
 
@@ -9559,9 +10712,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|ula|Add0~23_combout")
 		REPEAT = 1;
 		LEVEL 0 FOR 315.0;
 		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 380.0;
-		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 225.0;
+		LEVEL 0 FOR 1645.0;
 	}
 }
 
@@ -9572,9 +10723,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|ctrl|Mux5~2_combout")
 		REPEAT = 1;
 		LEVEL 1 FOR 315.0;
 		LEVEL 0 FOR 40.0;
-		LEVEL 1 FOR 380.0;
-		LEVEL 0 FOR 40.0;
-		LEVEL 1 FOR 225.0;
+		LEVEL 1 FOR 1645.0;
 	}
 }
 
@@ -9585,7 +10734,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|ctrl|Mux5~4_combout")
 		REPEAT = 1;
 		LEVEL 0 FOR 15.0;
 		LEVEL 1 FOR 10.0;
-		LEVEL 0 FOR 975.0;
+		LEVEL 0 FOR 1975.0;
 	}
 }
 
@@ -9594,7 +10743,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|ctrl|Mux5~5_combout")
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 0 FOR 1000.0;
+		LEVEL 0 FOR 2000.0;
 	}
 }
 
@@ -9603,7 +10752,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|ctrl|SelDesv~regout")
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 0 FOR 1000.0;
+		LEVEL 0 FOR 2000.0;
 	}
 }
 
@@ -9612,7 +10761,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|Add0~0_combout")
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 1 FOR 1000.0;
+		LEVEL 1 FOR 2000.0;
 	}
 }
 
@@ -9631,7 +10780,17 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|regPC|dadoOut[0]~10_combout")
 		LEVEL 0 FOR 40.0;
 		LEVEL 1 FOR 40.0;
 		LEVEL 0 FOR 40.0;
-		LEVEL 1 FOR 60.0;
+		LEVEL 1 FOR 40.0;
+		LEVEL 0 FOR 40.0;
+		LEVEL 1 FOR 40.0;
+		LEVEL 0 FOR 40.0;
+		LEVEL 1 FOR 40.0;
+		LEVEL 0 FOR 40.0;
+		LEVEL 1 FOR 40.0;
+		LEVEL 0 FOR 40.0;
+		LEVEL 1 FOR 40.0;
+		LEVEL 0 FOR 40.0;
+		LEVEL 1 FOR 40.0;
 		LEVEL 0 FOR 40.0;
 		LEVEL 1 FOR 40.0;
 		LEVEL 0 FOR 40.0;
@@ -9645,7 +10804,22 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|regPC|dadoOut[0]~10_combout")
 		LEVEL 0 FOR 40.0;
 		LEVEL 1 FOR 40.0;
 		LEVEL 0 FOR 40.0;
-		LEVEL 1 FOR 15.0;
+		LEVEL 1 FOR 40.0;
+		LEVEL 0 FOR 40.0;
+		LEVEL 1 FOR 40.0;
+		LEVEL 0 FOR 40.0;
+		LEVEL 1 FOR 40.0;
+		LEVEL 0 FOR 40.0;
+		LEVEL 1 FOR 40.0;
+		LEVEL 0 FOR 40.0;
+		LEVEL 1 FOR 40.0;
+		LEVEL 0 FOR 40.0;
+		LEVEL 1 FOR 40.0;
+		LEVEL 0 FOR 40.0;
+		LEVEL 1 FOR 40.0;
+		LEVEL 0 FOR 40.0;
+		LEVEL 1 FOR 40.0;
+		LEVEL 0 FOR 35.0;
 	}
 }
 
@@ -9668,21 +10842,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|ctrl|LdOUTPUT~1_combout")
 		LEVEL 1 FOR 20.0;
 		LEVEL 0 FOR 60.0;
 		LEVEL 1 FOR 20.0;
-		LEVEL 0 FOR 120.0;
-		LEVEL 1 FOR 20.0;
-		LEVEL 0 FOR 20.0;
-		LEVEL 1 FOR 20.0;
-		LEVEL 0 FOR 20.0;
-		LEVEL 1 FOR 20.0;
-		LEVEL 0 FOR 20.0;
-		LEVEL 1 FOR 20.0;
-		LEVEL 0 FOR 20.0;
-		LEVEL 1 FOR 20.0;
-		LEVEL 0 FOR 20.0;
-		LEVEL 1 FOR 20.0;
-		LEVEL 0 FOR 60.0;
-		LEVEL 1 FOR 20.0;
-		LEVEL 0 FOR 245.0;
+		LEVEL 0 FOR 1665.0;
 	}
 }
 
@@ -9705,21 +10865,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|ctrl|LdOUTPUT~2_combout")
 		LEVEL 1 FOR 10.0;
 		LEVEL 0 FOR 70.0;
 		LEVEL 1 FOR 10.0;
-		LEVEL 0 FOR 130.0;
-		LEVEL 1 FOR 10.0;
-		LEVEL 0 FOR 30.0;
-		LEVEL 1 FOR 10.0;
-		LEVEL 0 FOR 30.0;
-		LEVEL 1 FOR 10.0;
-		LEVEL 0 FOR 30.0;
-		LEVEL 1 FOR 10.0;
-		LEVEL 0 FOR 30.0;
-		LEVEL 1 FOR 10.0;
-		LEVEL 0 FOR 30.0;
-		LEVEL 1 FOR 10.0;
-		LEVEL 0 FOR 70.0;
-		LEVEL 1 FOR 10.0;
-		LEVEL 0 FOR 255.0;
+		LEVEL 0 FOR 1675.0;
 	}
 }
 
@@ -9742,21 +10888,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|ctrl|LdOUTPUT~regout")
 		LEVEL 1 FOR 10.0;
 		LEVEL 0 FOR 70.0;
 		LEVEL 1 FOR 10.0;
-		LEVEL 0 FOR 130.0;
-		LEVEL 1 FOR 10.0;
-		LEVEL 0 FOR 30.0;
-		LEVEL 1 FOR 10.0;
-		LEVEL 0 FOR 30.0;
-		LEVEL 1 FOR 10.0;
-		LEVEL 0 FOR 30.0;
-		LEVEL 1 FOR 10.0;
-		LEVEL 0 FOR 30.0;
-		LEVEL 1 FOR 10.0;
-		LEVEL 0 FOR 30.0;
-		LEVEL 1 FOR 10.0;
-		LEVEL 0 FOR 70.0;
-		LEVEL 1 FOR 10.0;
-		LEVEL 0 FOR 245.0;
+		LEVEL 0 FOR 1665.0;
 	}
 }
 
@@ -9779,21 +10911,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|ctrl|LdOUTPUT~clkctrl_outclk")
 		LEVEL 1 FOR 10.0;
 		LEVEL 0 FOR 70.0;
 		LEVEL 1 FOR 10.0;
-		LEVEL 0 FOR 130.0;
-		LEVEL 1 FOR 10.0;
-		LEVEL 0 FOR 30.0;
-		LEVEL 1 FOR 10.0;
-		LEVEL 0 FOR 30.0;
-		LEVEL 1 FOR 10.0;
-		LEVEL 0 FOR 30.0;
-		LEVEL 1 FOR 10.0;
-		LEVEL 0 FOR 30.0;
-		LEVEL 1 FOR 10.0;
-		LEVEL 0 FOR 30.0;
-		LEVEL 1 FOR 10.0;
-		LEVEL 0 FOR 70.0;
-		LEVEL 1 FOR 10.0;
-		LEVEL 0 FOR 245.0;
+		LEVEL 0 FOR 1665.0;
 	}
 }
 
@@ -9802,7 +10920,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|bancoRegistradores|registradores[6][
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 1 FOR 1000.0;
+		LEVEL 1 FOR 2000.0;
 	}
 }
 
@@ -9811,7 +10929,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|bancoRegistradores|registradores[6][
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 0 FOR 1000.0;
+		LEVEL 0 FOR 2000.0;
 	}
 }
 
@@ -9824,11 +10942,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|bancoRegistradores|Mux7~0_combout")
 		LEVEL 0 FOR 40.0;
 		LEVEL 1 FOR 120.0;
 		LEVEL 0 FOR 80.0;
-		LEVEL 1 FOR 180.0;
-		LEVEL 0 FOR 40.0;
-		LEVEL 1 FOR 120.0;
-		LEVEL 0 FOR 80.0;
-		LEVEL 1 FOR 275.0;
+		LEVEL 1 FOR 1695.0;
 	}
 }
 
@@ -9843,13 +10957,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|bancoRegistradores|Mux7~1_combout")
 		LEVEL 0 FOR 40.0;
 		LEVEL 1 FOR 40.0;
 		LEVEL 0 FOR 120.0;
-		LEVEL 1 FOR 140.0;
-		LEVEL 0 FOR 40.0;
-		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 40.0;
-		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 120.0;
-		LEVEL 1 FOR 235.0;
+		LEVEL 1 FOR 1655.0;
 	}
 }
 
@@ -9862,11 +10970,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|bancoRegistradores|Mux7~2_combout")
 		LEVEL 0 FOR 80.0;
 		LEVEL 1 FOR 80.0;
 		LEVEL 0 FOR 80.0;
-		LEVEL 1 FOR 180.0;
-		LEVEL 0 FOR 80.0;
-		LEVEL 1 FOR 80.0;
-		LEVEL 0 FOR 80.0;
-		LEVEL 1 FOR 275.0;
+		LEVEL 1 FOR 1695.0;
 	}
 }
 
@@ -9881,13 +10985,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|bancoRegistradores|Mux7~3_combout")
 		LEVEL 0 FOR 40.0;
 		LEVEL 1 FOR 40.0;
 		LEVEL 0 FOR 120.0;
-		LEVEL 1 FOR 140.0;
-		LEVEL 0 FOR 40.0;
-		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 40.0;
-		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 120.0;
-		LEVEL 1 FOR 235.0;
+		LEVEL 1 FOR 1655.0;
 	}
 }
 
@@ -9902,13 +11000,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|bancoRegistradores|Mux7~4_combout")
 		LEVEL 0 FOR 40.0;
 		LEVEL 1 FOR 40.0;
 		LEVEL 0 FOR 120.0;
-		LEVEL 1 FOR 140.0;
-		LEVEL 0 FOR 40.0;
-		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 40.0;
-		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 120.0;
-		LEVEL 1 FOR 235.0;
+		LEVEL 1 FOR 1655.0;
 	}
 }
 
@@ -9923,13 +11015,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|ula|Add0~0_combout")
 		LEVEL 1 FOR 40.0;
 		LEVEL 0 FOR 40.0;
 		LEVEL 1 FOR 120.0;
-		LEVEL 0 FOR 140.0;
-		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 40.0;
-		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 40.0;
-		LEVEL 1 FOR 120.0;
-		LEVEL 0 FOR 225.0;
+		LEVEL 0 FOR 1645.0;
 	}
 }
 
@@ -9947,15 +11033,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|ula|Add0~2_combout")
 		LEVEL 0 FOR 40.0;
 		LEVEL 1 FOR 20.0;
 		LEVEL 0 FOR 60.0;
-		LEVEL 1 FOR 140.0;
-		LEVEL 0 FOR 40.0;
-		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 40.0;
-		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 40.0;
-		LEVEL 1 FOR 20.0;
-		LEVEL 0 FOR 60.0;
-		LEVEL 1 FOR 225.0;
+		LEVEL 1 FOR 1645.0;
 	}
 }
 
@@ -9964,7 +11042,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|bancoRegistradores|Mux12~0_combout")
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 0 FOR 1000.0;
+		LEVEL 0 FOR 2000.0;
 	}
 }
 
@@ -9973,7 +11051,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|bancoRegistradores|Mux12~1_combout")
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 0 FOR 1000.0;
+		LEVEL 0 FOR 2000.0;
 	}
 }
 
@@ -9984,9 +11062,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|bancoRegistradores|registradores[3][
 		REPEAT = 1;
 		LEVEL 0 FOR 265.0;
 		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 380.0;
-		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 275.0;
+		LEVEL 0 FOR 1695.0;
 	}
 }
 
@@ -9996,9 +11072,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|bancoRegistradores|registradores[3][
 	{
 		REPEAT = 1;
 		LEVEL 0 FOR 285.0;
-		LEVEL 1 FOR 125.0;
-		LEVEL 0 FOR 295.0;
-		LEVEL 1 FOR 295.0;
+		LEVEL 1 FOR 1715.0;
 	}
 }
 
@@ -10007,7 +11081,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|bancoRegistradores|Mux12~2_combout")
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 0 FOR 1000.0;
+		LEVEL 0 FOR 2000.0;
 	}
 }
 
@@ -10016,7 +11090,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|bancoRegistradores|Mux12~3_combout")
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 0 FOR 1000.0;
+		LEVEL 0 FOR 2000.0;
 	}
 }
 
@@ -10025,7 +11099,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|bancoRegistradores|Mux12~4_combout")
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 0 FOR 1000.0;
+		LEVEL 0 FOR 2000.0;
 	}
 }
 
@@ -10034,7 +11108,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|bancoRegistradores|Mux11~0_combout")
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 0 FOR 1000.0;
+		LEVEL 0 FOR 2000.0;
 	}
 }
 
@@ -10043,7 +11117,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|bancoRegistradores|Mux11~1_combout")
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 0 FOR 1000.0;
+		LEVEL 0 FOR 2000.0;
 	}
 }
 
@@ -10052,7 +11126,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|bancoRegistradores|registradores[1][
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 0 FOR 1000.0;
+		LEVEL 0 FOR 2000.0;
 	}
 }
 
@@ -10061,7 +11135,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|bancoRegistradores|Mux11~2_combout")
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 0 FOR 1000.0;
+		LEVEL 0 FOR 2000.0;
 	}
 }
 
@@ -10070,7 +11144,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|bancoRegistradores|Mux11~3_combout")
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 0 FOR 1000.0;
+		LEVEL 0 FOR 2000.0;
 	}
 }
 
@@ -10079,7 +11153,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|bancoRegistradores|Mux11~4_combout")
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 0 FOR 1000.0;
+		LEVEL 0 FOR 2000.0;
 	}
 }
 
@@ -10088,7 +11162,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|bancoRegistradores|registradores[5][
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 0 FOR 1000.0;
+		LEVEL 0 FOR 2000.0;
 	}
 }
 
@@ -10097,7 +11171,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|bancoRegistradores|registradores[7][
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 0 FOR 1000.0;
+		LEVEL 0 FOR 2000.0;
 	}
 }
 
@@ -10106,7 +11180,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|bancoRegistradores|registradores[6][
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 0 FOR 1000.0;
+		LEVEL 0 FOR 2000.0;
 	}
 }
 
@@ -10115,7 +11189,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|bancoRegistradores|Mux10~0_combout")
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 0 FOR 1000.0;
+		LEVEL 0 FOR 2000.0;
 	}
 }
 
@@ -10124,7 +11198,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|bancoRegistradores|Mux10~1_combout")
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 0 FOR 1000.0;
+		LEVEL 0 FOR 2000.0;
 	}
 }
 
@@ -10133,7 +11207,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|bancoRegistradores|Mux10~3_combout")
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 0 FOR 1000.0;
+		LEVEL 0 FOR 2000.0;
 	}
 }
 
@@ -10142,7 +11216,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|bancoRegistradores|Mux10~4_combout")
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 0 FOR 1000.0;
+		LEVEL 0 FOR 2000.0;
 	}
 }
 
@@ -10152,9 +11226,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|regOUTPUT|dadoOut[7]")
 	{
 		REPEAT = 1;
 		LEVEL 0 FOR 325.0;
-		LEVEL 1 FOR 85.0;
-		LEVEL 0 FOR 335.0;
-		LEVEL 1 FOR 255.0;
+		LEVEL 1 FOR 1675.0;
 	}
 }
 
@@ -10163,7 +11235,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|regOUTPUT|dadoOut[6]")
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 0 FOR 1000.0;
+		LEVEL 0 FOR 2000.0;
 	}
 }
 
@@ -10172,7 +11244,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|regOUTPUT|dadoOut[5]")
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 0 FOR 1000.0;
+		LEVEL 0 FOR 2000.0;
 	}
 }
 
@@ -10182,9 +11254,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|regOUTPUT|dadoOut[4]")
 	{
 		REPEAT = 1;
 		LEVEL 0 FOR 325.0;
-		LEVEL 1 FOR 85.0;
-		LEVEL 0 FOR 335.0;
-		LEVEL 1 FOR 255.0;
+		LEVEL 1 FOR 1675.0;
 	}
 }
 
@@ -10194,9 +11264,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|regOUTPUT|dadoOut[3]")
 	{
 		REPEAT = 1;
 		LEVEL 0 FOR 325.0;
-		LEVEL 1 FOR 85.0;
-		LEVEL 0 FOR 335.0;
-		LEVEL 1 FOR 255.0;
+		LEVEL 1 FOR 1675.0;
 	}
 }
 
@@ -10207,9 +11275,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|regOUTPUT|dadoOut[2]")
 		REPEAT = 1;
 		LEVEL 0 FOR 165.0;
 		LEVEL 1 FOR 160.0;
-		LEVEL 0 FOR 260.0;
-		LEVEL 1 FOR 160.0;
-		LEVEL 0 FOR 255.0;
+		LEVEL 0 FOR 1675.0;
 	}
 }
 
@@ -10222,11 +11288,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|regOUTPUT|dadoOut[1]")
 		LEVEL 1 FOR 80.0;
 		LEVEL 0 FOR 80.0;
 		LEVEL 1 FOR 80.0;
-		LEVEL 0 FOR 180.0;
-		LEVEL 1 FOR 80.0;
-		LEVEL 0 FOR 80.0;
-		LEVEL 1 FOR 80.0;
-		LEVEL 0 FOR 255.0;
+		LEVEL 0 FOR 1675.0;
 	}
 }
 
@@ -10241,13 +11303,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|regOUTPUT|dadoOut[0]")
 		LEVEL 1 FOR 40.0;
 		LEVEL 0 FOR 40.0;
 		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 220.0;
-		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 40.0;
-		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 40.0;
-		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 335.0;
+		LEVEL 0 FOR 1755.0;
 	}
 }
 
@@ -10260,11 +11316,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|rom|altsyncram_component|auto_genera
 		LEVEL 1 FOR 250.0;
 		LEVEL 0 FOR 40.0;
 		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 80.0;
-		LEVEL 1 FOR 260.0;
-		LEVEL 0 FOR 40.0;
-		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 235.0;
+		LEVEL 0 FOR 1655.0;
 	}
 }
 
@@ -10277,11 +11329,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|rom|altsyncram_component|auto_genera
 		LEVEL 1 FOR 250.0;
 		LEVEL 0 FOR 40.0;
 		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 80.0;
-		LEVEL 1 FOR 260.0;
-		LEVEL 0 FOR 40.0;
-		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 235.0;
+		LEVEL 0 FOR 1655.0;
 	}
 }
 
@@ -10294,11 +11342,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|rom|altsyncram_component|auto_genera
 		LEVEL 1 FOR 250.0;
 		LEVEL 0 FOR 40.0;
 		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 80.0;
-		LEVEL 1 FOR 260.0;
-		LEVEL 0 FOR 40.0;
-		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 235.0;
+		LEVEL 0 FOR 1655.0;
 	}
 }
 
@@ -10309,9 +11353,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|rom|altsyncram_component|auto_genera
 		REPEAT = 1;
 		LEVEL 0 FOR 15.0;
 		LEVEL 1 FOR 330.0;
-		LEVEL 0 FOR 80.0;
-		LEVEL 1 FOR 340.0;
-		LEVEL 0 FOR 235.0;
+		LEVEL 0 FOR 1655.0;
 	}
 }
 
@@ -10322,9 +11364,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|rom|altsyncram_component|auto_genera
 		REPEAT = 1;
 		LEVEL 0 FOR 185.0;
 		LEVEL 1 FOR 80.0;
-		LEVEL 0 FOR 340.0;
-		LEVEL 1 FOR 80.0;
-		LEVEL 0 FOR 315.0;
+		LEVEL 0 FOR 1735.0;
 	}
 }
 
@@ -10337,11 +11377,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|rom|altsyncram_component|auto_genera
 		LEVEL 1 FOR 80.0;
 		LEVEL 0 FOR 120.0;
 		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 180.0;
-		LEVEL 1 FOR 80.0;
-		LEVEL 0 FOR 120.0;
-		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 235.0;
+		LEVEL 0 FOR 1655.0;
 	}
 }
 
@@ -10356,13 +11392,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|rom|altsyncram_component|auto_genera
 		LEVEL 1 FOR 40.0;
 		LEVEL 0 FOR 40.0;
 		LEVEL 1 FOR 120.0;
-		LEVEL 0 FOR 140.0;
-		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 40.0;
-		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 40.0;
-		LEVEL 1 FOR 120.0;
-		LEVEL 0 FOR 235.0;
+		LEVEL 0 FOR 1655.0;
 	}
 }
 
@@ -10371,7 +11401,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|rom|altsyncram_component|auto_genera
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 0 FOR 1000.0;
+		LEVEL 0 FOR 2000.0;
 	}
 }
 
@@ -10382,9 +11412,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|rom|altsyncram_component|auto_genera
 		REPEAT = 1;
 		LEVEL 0 FOR 265.0;
 		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 380.0;
-		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 275.0;
+		LEVEL 0 FOR 1695.0;
 	}
 }
 
@@ -10393,7 +11421,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|rom|altsyncram_component|auto_genera
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 0 FOR 1000.0;
+		LEVEL 0 FOR 2000.0;
 	}
 }
 
@@ -10402,7 +11430,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|rom|altsyncram_component|auto_genera
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 0 FOR 1000.0;
+		LEVEL 0 FOR 2000.0;
 	}
 }
 
@@ -10413,9 +11441,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|rom|altsyncram_component|auto_genera
 		REPEAT = 1;
 		LEVEL 0 FOR 265.0;
 		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 380.0;
-		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 275.0;
+		LEVEL 0 FOR 1695.0;
 	}
 }
 
@@ -10426,9 +11452,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|rom|altsyncram_component|auto_genera
 		REPEAT = 1;
 		LEVEL 0 FOR 265.0;
 		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 380.0;
-		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 275.0;
+		LEVEL 0 FOR 1695.0;
 	}
 }
 
@@ -10437,7 +11461,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|rom|altsyncram_component|auto_genera
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 0 FOR 1000.0;
+		LEVEL 0 FOR 2000.0;
 	}
 }
 
@@ -10446,7 +11470,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|rom|altsyncram_component|auto_genera
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 0 FOR 1000.0;
+		LEVEL 0 FOR 2000.0;
 	}
 }
 
@@ -10455,7 +11479,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|rom|altsyncram_component|auto_genera
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 0 FOR 1000.0;
+		LEVEL 0 FOR 2000.0;
 	}
 }
 
@@ -10464,7 +11488,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|ctrl|estado[2]")
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL Z FOR 1000.0;
+		LEVEL Z FOR 2000.0;
 	}
 }
 
@@ -10493,7 +11517,31 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|ctrl|estado[1]")
 		LEVEL 1 FOR 20.0;
 		LEVEL 0 FOR 20.0;
 		LEVEL 1 FOR 20.0;
-		LEVEL 0 FOR 40.0;
+		LEVEL 0 FOR 20.0;
+		LEVEL 1 FOR 20.0;
+		LEVEL 0 FOR 20.0;
+		LEVEL 1 FOR 20.0;
+		LEVEL 0 FOR 20.0;
+		LEVEL 1 FOR 20.0;
+		LEVEL 0 FOR 20.0;
+		LEVEL 1 FOR 20.0;
+		LEVEL 0 FOR 20.0;
+		LEVEL 1 FOR 20.0;
+		LEVEL 0 FOR 20.0;
+		LEVEL 1 FOR 20.0;
+		LEVEL 0 FOR 20.0;
+		LEVEL 1 FOR 20.0;
+		LEVEL 0 FOR 20.0;
+		LEVEL 1 FOR 20.0;
+		LEVEL 0 FOR 20.0;
+		LEVEL 1 FOR 20.0;
+		LEVEL 0 FOR 20.0;
+		LEVEL 1 FOR 20.0;
+		LEVEL 0 FOR 20.0;
+		LEVEL 1 FOR 20.0;
+		LEVEL 0 FOR 20.0;
+		LEVEL 1 FOR 20.0;
+		LEVEL 0 FOR 20.0;
 		LEVEL 1 FOR 20.0;
 		LEVEL 0 FOR 20.0;
 		LEVEL 1 FOR 20.0;
@@ -10521,7 +11569,34 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|ctrl|estado[1]")
 		LEVEL 1 FOR 20.0;
 		LEVEL 0 FOR 20.0;
 		LEVEL 1 FOR 20.0;
-		LEVEL 0 FOR 15.0;
+		LEVEL 0 FOR 20.0;
+		LEVEL 1 FOR 20.0;
+		LEVEL 0 FOR 20.0;
+		LEVEL 1 FOR 20.0;
+		LEVEL 0 FOR 20.0;
+		LEVEL 1 FOR 20.0;
+		LEVEL 0 FOR 20.0;
+		LEVEL 1 FOR 20.0;
+		LEVEL 0 FOR 20.0;
+		LEVEL 1 FOR 20.0;
+		LEVEL 0 FOR 20.0;
+		LEVEL 1 FOR 20.0;
+		LEVEL 0 FOR 20.0;
+		LEVEL 1 FOR 20.0;
+		LEVEL 0 FOR 20.0;
+		LEVEL 1 FOR 20.0;
+		LEVEL 0 FOR 20.0;
+		LEVEL 1 FOR 20.0;
+		LEVEL 0 FOR 20.0;
+		LEVEL 1 FOR 20.0;
+		LEVEL 0 FOR 20.0;
+		LEVEL 1 FOR 20.0;
+		LEVEL 0 FOR 20.0;
+		LEVEL 1 FOR 20.0;
+		LEVEL 0 FOR 20.0;
+		LEVEL 1 FOR 20.0;
+		LEVEL 0 FOR 20.0;
+		LEVEL 1 FOR 15.0;
 	}
 }
 
@@ -10569,8 +11644,110 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|ctrl|estado[0]")
 		LEVEL 0 FOR 10.0;
 		LEVEL 1 FOR 10.0;
 		LEVEL 0 FOR 10.0;
-		LEVEL 1 FOR 5.0;
-		LEVEL 0 FOR 35.0;
+		LEVEL 1 FOR 10.0;
+		LEVEL 0 FOR 10.0;
+		LEVEL 1 FOR 10.0;
+		LEVEL 0 FOR 10.0;
+		LEVEL 1 FOR 10.0;
+		LEVEL 0 FOR 10.0;
+		LEVEL 1 FOR 10.0;
+		LEVEL 0 FOR 10.0;
+		LEVEL 1 FOR 10.0;
+		LEVEL 0 FOR 10.0;
+		LEVEL 1 FOR 10.0;
+		LEVEL 0 FOR 10.0;
+		LEVEL 1 FOR 10.0;
+		LEVEL 0 FOR 10.0;
+		LEVEL 1 FOR 10.0;
+		LEVEL 0 FOR 10.0;
+		LEVEL 1 FOR 10.0;
+		LEVEL 0 FOR 10.0;
+		LEVEL 1 FOR 10.0;
+		LEVEL 0 FOR 10.0;
+		LEVEL 1 FOR 10.0;
+		LEVEL 0 FOR 10.0;
+		LEVEL 1 FOR 10.0;
+		LEVEL 0 FOR 10.0;
+		LEVEL 1 FOR 10.0;
+		LEVEL 0 FOR 10.0;
+		LEVEL 1 FOR 10.0;
+		LEVEL 0 FOR 10.0;
+		LEVEL 1 FOR 10.0;
+		LEVEL 0 FOR 10.0;
+		LEVEL 1 FOR 10.0;
+		LEVEL 0 FOR 10.0;
+		LEVEL 1 FOR 10.0;
+		LEVEL 0 FOR 10.0;
+		LEVEL 1 FOR 10.0;
+		LEVEL 0 FOR 10.0;
+		LEVEL 1 FOR 10.0;
+		LEVEL 0 FOR 10.0;
+		LEVEL 1 FOR 10.0;
+		LEVEL 0 FOR 10.0;
+		LEVEL 1 FOR 10.0;
+		LEVEL 0 FOR 10.0;
+		LEVEL 1 FOR 10.0;
+		LEVEL 0 FOR 10.0;
+		LEVEL 1 FOR 10.0;
+		LEVEL 0 FOR 10.0;
+		LEVEL 1 FOR 10.0;
+		LEVEL 0 FOR 10.0;
+		LEVEL 1 FOR 10.0;
+		LEVEL 0 FOR 10.0;
+		LEVEL 1 FOR 10.0;
+		LEVEL 0 FOR 10.0;
+		LEVEL 1 FOR 10.0;
+		LEVEL 0 FOR 10.0;
+		LEVEL 1 FOR 10.0;
+		LEVEL 0 FOR 10.0;
+		LEVEL 1 FOR 10.0;
+		LEVEL 0 FOR 10.0;
+		LEVEL 1 FOR 10.0;
+		LEVEL 0 FOR 10.0;
+		LEVEL 1 FOR 10.0;
+		LEVEL 0 FOR 10.0;
+		LEVEL 1 FOR 10.0;
+		LEVEL 0 FOR 10.0;
+		LEVEL 1 FOR 10.0;
+		LEVEL 0 FOR 10.0;
+		LEVEL 1 FOR 10.0;
+		LEVEL 0 FOR 10.0;
+		LEVEL 1 FOR 10.0;
+		LEVEL 0 FOR 10.0;
+		LEVEL 1 FOR 10.0;
+		LEVEL 0 FOR 10.0;
+		LEVEL 1 FOR 10.0;
+		LEVEL 0 FOR 10.0;
+		LEVEL 1 FOR 10.0;
+		LEVEL 0 FOR 10.0;
+		LEVEL 1 FOR 10.0;
+		LEVEL 0 FOR 10.0;
+		LEVEL 1 FOR 10.0;
+		LEVEL 0 FOR 10.0;
+		LEVEL 1 FOR 10.0;
+		LEVEL 0 FOR 10.0;
+		LEVEL 1 FOR 10.0;
+		LEVEL 0 FOR 10.0;
+		LEVEL 1 FOR 10.0;
+		LEVEL 0 FOR 10.0;
+		LEVEL 1 FOR 10.0;
+		LEVEL 0 FOR 10.0;
+		LEVEL 1 FOR 10.0;
+		LEVEL 0 FOR 10.0;
+		LEVEL 1 FOR 10.0;
+		LEVEL 0 FOR 10.0;
+		LEVEL 1 FOR 10.0;
+		LEVEL 0 FOR 10.0;
+		LEVEL 1 FOR 10.0;
+		LEVEL 0 FOR 10.0;
+		LEVEL 1 FOR 10.0;
+		LEVEL 0 FOR 10.0;
+		LEVEL 1 FOR 10.0;
+		LEVEL 0 FOR 10.0;
+		LEVEL 1 FOR 10.0;
+		LEVEL 0 FOR 10.0;
+		LEVEL 1 FOR 10.0;
+		LEVEL 0 FOR 10.0;
 		LEVEL 1 FOR 10.0;
 		LEVEL 0 FOR 10.0;
 		LEVEL 1 FOR 10.0;
@@ -10635,7 +11812,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|ctrl|CmdULA[2]")
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL Z FOR 1000.0;
+		LEVEL Z FOR 2000.0;
 	}
 }
 
@@ -10644,7 +11821,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|ctrl|CmdULA[1]")
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL Z FOR 1000.0;
+		LEVEL Z FOR 2000.0;
 	}
 }
 
@@ -10655,9 +11832,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|ctrl|CmdULA[0]")
 		REPEAT = 1;
 		LEVEL 0 FOR 275.0;
 		LEVEL 1 FOR 20.0;
-		LEVEL 0 FOR 400.0;
-		LEVEL 1 FOR 20.0;
-		LEVEL 0 FOR 285.0;
+		LEVEL 0 FOR 1705.0;
 	}
 }
 
@@ -10666,7 +11841,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|bancoRegistradores|dadoR2[7]")
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 0 FOR 1000.0;
+		LEVEL 0 FOR 2000.0;
 	}
 }
 
@@ -10675,7 +11850,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|bancoRegistradores|dadoR2[6]")
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 0 FOR 1000.0;
+		LEVEL 0 FOR 2000.0;
 	}
 }
 
@@ -10684,7 +11859,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|bancoRegistradores|dadoR2[5]")
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 0 FOR 1000.0;
+		LEVEL 0 FOR 2000.0;
 	}
 }
 
@@ -10693,7 +11868,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|bancoRegistradores|dadoR2[4]")
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 0 FOR 1000.0;
+		LEVEL 0 FOR 2000.0;
 	}
 }
 
@@ -10702,7 +11877,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|bancoRegistradores|dadoR2[3]")
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 0 FOR 1000.0;
+		LEVEL 0 FOR 2000.0;
 	}
 }
 
@@ -10711,7 +11886,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|bancoRegistradores|dadoR2[2]")
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 0 FOR 1000.0;
+		LEVEL 0 FOR 2000.0;
 	}
 }
 
@@ -10722,9 +11897,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|bancoRegistradores|dadoR2[1]")
 		REPEAT = 1;
 		LEVEL 0 FOR 275.0;
 		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 380.0;
-		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 265.0;
+		LEVEL 0 FOR 1685.0;
 	}
 }
 
@@ -10734,7 +11907,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|bancoRegistradores|dadoR2[0]")
 	{
 		REPEAT = 1;
 		LEVEL 0 FOR 25.0;
-		LEVEL 1 FOR 975.0;
+		LEVEL 1 FOR 1975.0;
 	}
 }
 
@@ -10745,9 +11918,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|bancoRegistradores|dadoR1[7]")
 		REPEAT = 1;
 		LEVEL 0 FOR 315.0;
 		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 380.0;
-		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 225.0;
+		LEVEL 0 FOR 1645.0;
 	}
 }
 
@@ -10756,7 +11927,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|bancoRegistradores|dadoR1[6]")
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 0 FOR 1000.0;
+		LEVEL 0 FOR 2000.0;
 	}
 }
 
@@ -10765,7 +11936,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|bancoRegistradores|dadoR1[5]")
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 0 FOR 1000.0;
+		LEVEL 0 FOR 2000.0;
 	}
 }
 
@@ -10776,9 +11947,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|bancoRegistradores|dadoR1[4]")
 		REPEAT = 1;
 		LEVEL 0 FOR 315.0;
 		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 380.0;
-		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 225.0;
+		LEVEL 0 FOR 1645.0;
 	}
 }
 
@@ -10789,9 +11958,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|bancoRegistradores|dadoR1[3]")
 		REPEAT = 1;
 		LEVEL 0 FOR 315.0;
 		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 380.0;
-		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 225.0;
+		LEVEL 0 FOR 1645.0;
 	}
 }
 
@@ -10802,9 +11969,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|bancoRegistradores|dadoR1[2]")
 		REPEAT = 1;
 		LEVEL 0 FOR 155.0;
 		LEVEL 1 FOR 120.0;
-		LEVEL 0 FOR 300.0;
-		LEVEL 1 FOR 120.0;
-		LEVEL 0 FOR 305.0;
+		LEVEL 0 FOR 1725.0;
 	}
 }
 
@@ -10817,11 +11982,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|bancoRegistradores|dadoR1[1]")
 		LEVEL 1 FOR 80.0;
 		LEVEL 0 FOR 80.0;
 		LEVEL 1 FOR 80.0;
-		LEVEL 0 FOR 180.0;
-		LEVEL 1 FOR 80.0;
-		LEVEL 0 FOR 80.0;
-		LEVEL 1 FOR 80.0;
-		LEVEL 0 FOR 265.0;
+		LEVEL 0 FOR 1685.0;
 	}
 }
 
@@ -10837,13 +11998,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|bancoRegistradores|dadoR1[0]")
 		LEVEL 0 FOR 40.0;
 		LEVEL 1 FOR 40.0;
 		LEVEL 0 FOR 120.0;
-		LEVEL 1 FOR 140.0;
-		LEVEL 0 FOR 40.0;
-		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 40.0;
-		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 120.0;
-		LEVEL 1 FOR 225.0;
+		LEVEL 1 FOR 1645.0;
 	}
 }
 
@@ -10852,7 +12007,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|regPC|dadoOut[7]")
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 0 FOR 1000.0;
+		LEVEL 0 FOR 2000.0;
 	}
 }
 
@@ -10861,7 +12016,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|regPC|dadoOut[6]")
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 0 FOR 1000.0;
+		LEVEL 0 FOR 2000.0;
 	}
 }
 
@@ -10870,7 +12025,8 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|regPC|dadoOut[5]")
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 0 FOR 1000.0;
+		LEVEL 0 FOR 1285.0;
+		LEVEL 1 FOR 715.0;
 	}
 }
 
@@ -10879,7 +12035,10 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|regPC|dadoOut[4]")
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 0 FOR 1000.0;
+		LEVEL 0 FOR 645.0;
+		LEVEL 1 FOR 640.0;
+		LEVEL 0 FOR 640.0;
+		LEVEL 1 FOR 75.0;
 	}
 }
 
@@ -10889,9 +12048,12 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|regPC|dadoOut[3]")
 	{
 		REPEAT = 1;
 		LEVEL 0 FOR 325.0;
-		LEVEL 1 FOR 85.0;
-		LEVEL 0 FOR 335.0;
-		LEVEL 1 FOR 255.0;
+		LEVEL 1 FOR 320.0;
+		LEVEL 0 FOR 320.0;
+		LEVEL 1 FOR 320.0;
+		LEVEL 0 FOR 320.0;
+		LEVEL 1 FOR 320.0;
+		LEVEL 0 FOR 75.0;
 	}
 }
 
@@ -10902,10 +12064,17 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|regPC|dadoOut[2]")
 		REPEAT = 1;
 		LEVEL 0 FOR 165.0;
 		LEVEL 1 FOR 160.0;
-		LEVEL 0 FOR 260.0;
+		LEVEL 0 FOR 160.0;
 		LEVEL 1 FOR 160.0;
 		LEVEL 0 FOR 160.0;
-		LEVEL 1 FOR 95.0;
+		LEVEL 1 FOR 160.0;
+		LEVEL 0 FOR 160.0;
+		LEVEL 1 FOR 160.0;
+		LEVEL 0 FOR 160.0;
+		LEVEL 1 FOR 160.0;
+		LEVEL 0 FOR 160.0;
+		LEVEL 1 FOR 160.0;
+		LEVEL 0 FOR 75.0;
 	}
 }
 
@@ -10919,15 +12088,26 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|regPC|dadoOut[1]")
 		LEVEL 0 FOR 80.0;
 		LEVEL 1 FOR 80.0;
 		LEVEL 0 FOR 80.0;
-		LEVEL 1 FOR 5.0;
-		LEVEL 0 FOR 95.0;
 		LEVEL 1 FOR 80.0;
 		LEVEL 0 FOR 80.0;
 		LEVEL 1 FOR 80.0;
 		LEVEL 0 FOR 80.0;
 		LEVEL 1 FOR 80.0;
 		LEVEL 0 FOR 80.0;
-		LEVEL 1 FOR 15.0;
+		LEVEL 1 FOR 80.0;
+		LEVEL 0 FOR 80.0;
+		LEVEL 1 FOR 80.0;
+		LEVEL 0 FOR 80.0;
+		LEVEL 1 FOR 80.0;
+		LEVEL 0 FOR 80.0;
+		LEVEL 1 FOR 80.0;
+		LEVEL 0 FOR 80.0;
+		LEVEL 1 FOR 80.0;
+		LEVEL 0 FOR 80.0;
+		LEVEL 1 FOR 80.0;
+		LEVEL 0 FOR 80.0;
+		LEVEL 1 FOR 80.0;
+		LEVEL 0 FOR 75.0;
 	}
 }
 
@@ -10946,7 +12126,17 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|regPC|dadoOut[0]")
 		LEVEL 1 FOR 40.0;
 		LEVEL 0 FOR 40.0;
 		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 60.0;
+		LEVEL 0 FOR 40.0;
+		LEVEL 1 FOR 40.0;
+		LEVEL 0 FOR 40.0;
+		LEVEL 1 FOR 40.0;
+		LEVEL 0 FOR 40.0;
+		LEVEL 1 FOR 40.0;
+		LEVEL 0 FOR 40.0;
+		LEVEL 1 FOR 40.0;
+		LEVEL 0 FOR 40.0;
+		LEVEL 1 FOR 40.0;
+		LEVEL 0 FOR 40.0;
 		LEVEL 1 FOR 40.0;
 		LEVEL 0 FOR 40.0;
 		LEVEL 1 FOR 40.0;
@@ -10960,7 +12150,22 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|regPC|dadoOut[0]")
 		LEVEL 1 FOR 40.0;
 		LEVEL 0 FOR 40.0;
 		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 15.0;
+		LEVEL 0 FOR 40.0;
+		LEVEL 1 FOR 40.0;
+		LEVEL 0 FOR 40.0;
+		LEVEL 1 FOR 40.0;
+		LEVEL 0 FOR 40.0;
+		LEVEL 1 FOR 40.0;
+		LEVEL 0 FOR 40.0;
+		LEVEL 1 FOR 40.0;
+		LEVEL 0 FOR 40.0;
+		LEVEL 1 FOR 40.0;
+		LEVEL 0 FOR 40.0;
+		LEVEL 1 FOR 40.0;
+		LEVEL 0 FOR 40.0;
+		LEVEL 1 FOR 40.0;
+		LEVEL 0 FOR 40.0;
+		LEVEL 1 FOR 35.0;
 	}
 }
 
@@ -10973,11 +12178,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|rom|altsyncram_component|auto_genera
 		LEVEL 1 FOR 250.0;
 		LEVEL 0 FOR 40.0;
 		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 80.0;
-		LEVEL 1 FOR 260.0;
-		LEVEL 0 FOR 40.0;
-		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 235.0;
+		LEVEL 0 FOR 1655.0;
 	}
 }
 
@@ -10990,11 +12191,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|rom|altsyncram_component|auto_genera
 		LEVEL 1 FOR 250.0;
 		LEVEL 0 FOR 40.0;
 		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 80.0;
-		LEVEL 1 FOR 260.0;
-		LEVEL 0 FOR 40.0;
-		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 235.0;
+		LEVEL 0 FOR 1655.0;
 	}
 }
 
@@ -11007,11 +12204,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|rom|altsyncram_component|auto_genera
 		LEVEL 1 FOR 250.0;
 		LEVEL 0 FOR 40.0;
 		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 80.0;
-		LEVEL 1 FOR 260.0;
-		LEVEL 0 FOR 40.0;
-		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 235.0;
+		LEVEL 0 FOR 1655.0;
 	}
 }
 
@@ -11022,9 +12215,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|rom|altsyncram_component|auto_genera
 		REPEAT = 1;
 		LEVEL 0 FOR 15.0;
 		LEVEL 1 FOR 330.0;
-		LEVEL 0 FOR 80.0;
-		LEVEL 1 FOR 340.0;
-		LEVEL 0 FOR 235.0;
+		LEVEL 0 FOR 1655.0;
 	}
 }
 
@@ -11035,9 +12226,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|rom|altsyncram_component|auto_genera
 		REPEAT = 1;
 		LEVEL 0 FOR 185.0;
 		LEVEL 1 FOR 80.0;
-		LEVEL 0 FOR 340.0;
-		LEVEL 1 FOR 80.0;
-		LEVEL 0 FOR 315.0;
+		LEVEL 0 FOR 1735.0;
 	}
 }
 
@@ -11050,11 +12239,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|rom|altsyncram_component|auto_genera
 		LEVEL 1 FOR 80.0;
 		LEVEL 0 FOR 120.0;
 		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 180.0;
-		LEVEL 1 FOR 80.0;
-		LEVEL 0 FOR 120.0;
-		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 235.0;
+		LEVEL 0 FOR 1655.0;
 	}
 }
 
@@ -11069,13 +12254,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|rom|altsyncram_component|auto_genera
 		LEVEL 1 FOR 40.0;
 		LEVEL 0 FOR 40.0;
 		LEVEL 1 FOR 120.0;
-		LEVEL 0 FOR 140.0;
-		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 40.0;
-		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 40.0;
-		LEVEL 1 FOR 120.0;
-		LEVEL 0 FOR 235.0;
+		LEVEL 0 FOR 1655.0;
 	}
 }
 
@@ -11084,7 +12263,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|rom|altsyncram_component|auto_genera
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 0 FOR 1000.0;
+		LEVEL 0 FOR 2000.0;
 	}
 }
 
@@ -11095,9 +12274,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|rom|altsyncram_component|auto_genera
 		REPEAT = 1;
 		LEVEL 0 FOR 265.0;
 		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 380.0;
-		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 275.0;
+		LEVEL 0 FOR 1695.0;
 	}
 }
 
@@ -11106,7 +12283,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|rom|altsyncram_component|auto_genera
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 0 FOR 1000.0;
+		LEVEL 0 FOR 2000.0;
 	}
 }
 
@@ -11115,7 +12292,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|rom|altsyncram_component|auto_genera
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 0 FOR 1000.0;
+		LEVEL 0 FOR 2000.0;
 	}
 }
 
@@ -11126,9 +12303,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|rom|altsyncram_component|auto_genera
 		REPEAT = 1;
 		LEVEL 0 FOR 265.0;
 		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 380.0;
-		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 275.0;
+		LEVEL 0 FOR 1695.0;
 	}
 }
 
@@ -11139,9 +12314,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|rom|altsyncram_component|auto_genera
 		REPEAT = 1;
 		LEVEL 0 FOR 265.0;
 		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 380.0;
-		LEVEL 1 FOR 40.0;
-		LEVEL 0 FOR 275.0;
+		LEVEL 0 FOR 1695.0;
 	}
 }
 
@@ -11150,7 +12323,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|rom|altsyncram_component|auto_genera
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 0 FOR 1000.0;
+		LEVEL 0 FOR 2000.0;
 	}
 }
 
@@ -11159,7 +12332,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|rom|altsyncram_component|auto_genera
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 0 FOR 1000.0;
+		LEVEL 0 FOR 2000.0;
 	}
 }
 
@@ -11168,7 +12341,7 @@ TRANSITION_LIST("processador_vlg_vec_tst|i1|rom|altsyncram_component|auto_genera
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 0 FOR 1000.0;
+		LEVEL 0 FOR 2000.0;
 	}
 }
 
