@@ -1,5 +1,5 @@
 Analysis & Synthesis report for Top
-Thu Jan 17 19:34:04 2019
+Sun Jan 20 19:59:38 2019
 Quartus II 64-Bit Version 13.0.1 Build 232 06/12/2013 Service Pack 1 SJ Web Edition
 
 
@@ -20,7 +20,7 @@ Quartus II 64-Bit Version 13.0.1 Build 232 06/12/2013 Service Pack 1 SJ Web Edit
  12. General Register Statistics
  13. Inverted Register Statistics
  14. Multiplexer Restructuring Statistics (Restructuring Performed)
- 15. Source assignments for rom:rom|altsyncram:altsyncram_component|altsyncram_l271:auto_generated
+ 15. Source assignments for rom:rom|altsyncram:altsyncram_component|altsyncram_hi71:auto_generated
  16. Parameter Settings for User Entity Instance: rom:rom|altsyncram:altsyncram_component
  17. altsyncram Parameter Settings by Entity Instance
  18. Port Connectivity Checks: "mux2x8:muxSelDSV"
@@ -52,13 +52,13 @@ applicable agreement for further details.
 +--------------------------------------------------------------------------------------+
 ; Analysis & Synthesis Summary                                                         ;
 +------------------------------------+-------------------------------------------------+
-; Analysis & Synthesis Status        ; Successful - Thu Jan 17 19:34:04 2019           ;
+; Analysis & Synthesis Status        ; Successful - Sun Jan 20 19:59:37 2019           ;
 ; Quartus II 64-Bit Version          ; 13.0.1 Build 232 06/12/2013 SP 1 SJ Web Edition ;
 ; Revision Name                      ; Top                                             ;
 ; Top-level Entity Name              ; processador                                     ;
 ; Family                             ; Cyclone II                                      ;
-; Total logic elements               ; 249                                             ;
-;     Total combinational functions  ; 204                                             ;
+; Total logic elements               ; 255                                             ;
+;     Total combinational functions  ; 210                                             ;
 ;     Dedicated logic registers      ; 107                                             ;
 ; Total registers                    ; 107                                             ;
 ; Total pins                         ; 91                                              ;
@@ -165,30 +165,30 @@ Parallel compilation was disabled, but you have multiple processors available. E
 +----------------------------+--------+
 
 
-+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-; Analysis & Synthesis Source Files Read                                                                                                                                                                    ;
-+----------------------------------+-----------------+----------------------------------------+---------------------------------------------------------------------------------------------------+---------+
-; File Name with User-Entered Path ; Used in Netlist ; File Type                              ; File Name with Absolute Path                                                                      ; Library ;
-+----------------------------------+-----------------+----------------------------------------+---------------------------------------------------------------------------------------------------+---------+
-; rom.v                            ; yes             ; User Wizard-Generated File             ; C:/Users/Pipi/Documents/Circuitos digitais/projetoNano-master/Projeto Nano/rom.v                  ;         ;
-; muxes.v                          ; yes             ; User Verilog HDL File                  ; C:/Users/Pipi/Documents/Circuitos digitais/projetoNano-master/Projeto Nano/muxes.v                ;         ;
-; ctrl.v                           ; yes             ; User Verilog HDL File                  ; C:/Users/Pipi/Documents/Circuitos digitais/projetoNano-master/Projeto Nano/ctrl.v                 ;         ;
-; ula.v                            ; yes             ; User Verilog HDL File                  ; C:/Users/Pipi/Documents/Circuitos digitais/projetoNano-master/Projeto Nano/ula.v                  ;         ;
-; bancoRegistradores.v             ; yes             ; User Verilog HDL File                  ; C:/Users/Pipi/Documents/Circuitos digitais/projetoNano-master/Projeto Nano/bancoRegistradores.v   ;         ;
-; registrador.v                    ; yes             ; User Verilog HDL File                  ; C:/Users/Pipi/Documents/Circuitos digitais/projetoNano-master/Projeto Nano/registrador.v          ;         ;
-; processador.v                    ; yes             ; User Verilog HDL File                  ; C:/Users/Pipi/Documents/Circuitos digitais/projetoNano-master/Projeto Nano/processador.v          ;         ;
-; altsyncram.tdf                   ; yes             ; Megafunction                           ; c:/altera/13.0sp1/quartus/libraries/megafunctions/altsyncram.tdf                                  ;         ;
-; stratix_ram_block.inc            ; yes             ; Megafunction                           ; c:/altera/13.0sp1/quartus/libraries/megafunctions/stratix_ram_block.inc                           ;         ;
-; lpm_mux.inc                      ; yes             ; Megafunction                           ; c:/altera/13.0sp1/quartus/libraries/megafunctions/lpm_mux.inc                                     ;         ;
-; lpm_decode.inc                   ; yes             ; Megafunction                           ; c:/altera/13.0sp1/quartus/libraries/megafunctions/lpm_decode.inc                                  ;         ;
-; aglobal130.inc                   ; yes             ; Megafunction                           ; c:/altera/13.0sp1/quartus/libraries/megafunctions/aglobal130.inc                                  ;         ;
-; a_rdenreg.inc                    ; yes             ; Megafunction                           ; c:/altera/13.0sp1/quartus/libraries/megafunctions/a_rdenreg.inc                                   ;         ;
-; altrom.inc                       ; yes             ; Megafunction                           ; c:/altera/13.0sp1/quartus/libraries/megafunctions/altrom.inc                                      ;         ;
-; altram.inc                       ; yes             ; Megafunction                           ; c:/altera/13.0sp1/quartus/libraries/megafunctions/altram.inc                                      ;         ;
-; altdpram.inc                     ; yes             ; Megafunction                           ; c:/altera/13.0sp1/quartus/libraries/megafunctions/altdpram.inc                                    ;         ;
-; db/altsyncram_l271.tdf           ; yes             ; Auto-Generated Megafunction            ; C:/Users/Pipi/Documents/Circuitos digitais/projetoNano-master/Projeto Nano/db/altsyncram_l271.tdf ;         ;
-; instR.mif                        ; yes             ; Auto-Found Memory Initialization File  ; C:/Users/Pipi/Documents/Circuitos digitais/projetoNano-master/Projeto Nano/instR.mif              ;         ;
-+----------------------------------+-----------------+----------------------------------------+---------------------------------------------------------------------------------------------------+---------+
++----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+; Analysis & Synthesis Source Files Read                                                                                                                                                             ;
++----------------------------------+-----------------+----------------------------------------+--------------------------------------------------------------------------------------------+---------+
+; File Name with User-Entered Path ; Used in Netlist ; File Type                              ; File Name with Absolute Path                                                               ; Library ;
++----------------------------------+-----------------+----------------------------------------+--------------------------------------------------------------------------------------------+---------+
+; rom.v                            ; yes             ; User Wizard-Generated File             ; C:/Users/Pipi/Documents/Circuitos digitais/projetoNano/Projeto Nano/rom.v                  ;         ;
+; muxes.v                          ; yes             ; User Verilog HDL File                  ; C:/Users/Pipi/Documents/Circuitos digitais/projetoNano/Projeto Nano/muxes.v                ;         ;
+; ctrl.v                           ; yes             ; User Verilog HDL File                  ; C:/Users/Pipi/Documents/Circuitos digitais/projetoNano/Projeto Nano/ctrl.v                 ;         ;
+; ula.v                            ; yes             ; User Verilog HDL File                  ; C:/Users/Pipi/Documents/Circuitos digitais/projetoNano/Projeto Nano/ula.v                  ;         ;
+; bancoRegistradores.v             ; yes             ; User Verilog HDL File                  ; C:/Users/Pipi/Documents/Circuitos digitais/projetoNano/Projeto Nano/bancoRegistradores.v   ;         ;
+; registrador.v                    ; yes             ; User Verilog HDL File                  ; C:/Users/Pipi/Documents/Circuitos digitais/projetoNano/Projeto Nano/registrador.v          ;         ;
+; processador.v                    ; yes             ; User Verilog HDL File                  ; C:/Users/Pipi/Documents/Circuitos digitais/projetoNano/Projeto Nano/processador.v          ;         ;
+; altsyncram.tdf                   ; yes             ; Megafunction                           ; c:/altera/13.0sp1/quartus/libraries/megafunctions/altsyncram.tdf                           ;         ;
+; stratix_ram_block.inc            ; yes             ; Megafunction                           ; c:/altera/13.0sp1/quartus/libraries/megafunctions/stratix_ram_block.inc                    ;         ;
+; lpm_mux.inc                      ; yes             ; Megafunction                           ; c:/altera/13.0sp1/quartus/libraries/megafunctions/lpm_mux.inc                              ;         ;
+; lpm_decode.inc                   ; yes             ; Megafunction                           ; c:/altera/13.0sp1/quartus/libraries/megafunctions/lpm_decode.inc                           ;         ;
+; aglobal130.inc                   ; yes             ; Megafunction                           ; c:/altera/13.0sp1/quartus/libraries/megafunctions/aglobal130.inc                           ;         ;
+; a_rdenreg.inc                    ; yes             ; Megafunction                           ; c:/altera/13.0sp1/quartus/libraries/megafunctions/a_rdenreg.inc                            ;         ;
+; altrom.inc                       ; yes             ; Megafunction                           ; c:/altera/13.0sp1/quartus/libraries/megafunctions/altrom.inc                               ;         ;
+; altram.inc                       ; yes             ; Megafunction                           ; c:/altera/13.0sp1/quartus/libraries/megafunctions/altram.inc                               ;         ;
+; altdpram.inc                     ; yes             ; Megafunction                           ; c:/altera/13.0sp1/quartus/libraries/megafunctions/altdpram.inc                             ;         ;
+; db/altsyncram_hi71.tdf           ; yes             ; Auto-Generated Megafunction            ; C:/Users/Pipi/Documents/Circuitos digitais/projetoNano/Projeto Nano/db/altsyncram_hi71.tdf ;         ;
+; instbranch.mif                   ; yes             ; Auto-Found Memory Initialization File  ; C:/Users/Pipi/Documents/Circuitos digitais/projetoNano/Projeto Nano/instbranch.mif         ;         ;
++----------------------------------+-----------------+----------------------------------------+--------------------------------------------------------------------------------------------+---------+
 
 
 +-----------------------------------------------------+
@@ -196,16 +196,16 @@ Parallel compilation was disabled, but you have multiple processors available. E
 +---------------------------------------------+-------+
 ; Resource                                    ; Usage ;
 +---------------------------------------------+-------+
-; Estimated Total logic elements              ; 249   ;
+; Estimated Total logic elements              ; 255   ;
 ;                                             ;       ;
-; Total combinational functions               ; 204   ;
+; Total combinational functions               ; 210   ;
 ; Logic element usage by number of LUT inputs ;       ;
-;     -- 4 input functions                    ; 104   ;
+;     -- 4 input functions                    ; 108   ;
 ;     -- 3 input functions                    ; 71    ;
-;     -- <=2 input functions                  ; 29    ;
+;     -- <=2 input functions                  ; 31    ;
 ;                                             ;       ;
 ; Logic elements by mode                      ;       ;
-;     -- normal mode                          ; 188   ;
+;     -- normal mode                          ; 194   ;
 ;     -- arithmetic mode                      ; 16    ;
 ;                                             ;       ;
 ; Total registers                             ; 107   ;
@@ -215,9 +215,9 @@ Parallel compilation was disabled, but you have multiple processors available. E
 ; I/O pins                                    ; 91    ;
 ; Total memory bits                           ; 4096  ;
 ; Embedded Multiplier 9-bit elements          ; 0     ;
-; Maximum fan-out node                        ; rst   ;
-; Maximum fan-out                             ; 108   ;
-; Total fan-out                               ; 1303  ;
+; Maximum fan-out node                        ; clk   ;
+; Maximum fan-out                             ; 107   ;
+; Total fan-out                               ; 1323  ;
 ; Average fan-out                             ; 3.12  ;
 +---------------------------------------------+-------+
 
@@ -227,37 +227,37 @@ Parallel compilation was disabled, but you have multiple processors available. E
 +--------------------------------------------+-------------------+--------------+-------------+--------------+---------+-----------+------+--------------+-------------------------------------------------------------------------------------+--------------+
 ; Compilation Hierarchy Node                 ; LC Combinationals ; LC Registers ; Memory Bits ; DSP Elements ; DSP 9x9 ; DSP 18x18 ; Pins ; Virtual Pins ; Full Hierarchy Name                                                                 ; Library Name ;
 +--------------------------------------------+-------------------+--------------+-------------+--------------+---------+-----------+------+--------------+-------------------------------------------------------------------------------------+--------------+
-; |processador                               ; 204 (8)           ; 107 (0)      ; 4096        ; 0            ; 0       ; 0         ; 91   ; 0            ; |processador                                                                        ; work         ;
+; |processador                               ; 210 (8)           ; 107 (0)      ; 4096        ; 0            ; 0       ; 0         ; 91   ; 0            ; |processador                                                                        ; work         ;
 ;    |bancoRegistradores:bancoRegistradores| ; 100 (100)         ; 80 (80)      ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |processador|bancoRegistradores:bancoRegistradores                                  ; work         ;
-;    |ctrl:ctrl|                             ; 23 (23)           ; 11 (11)      ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |processador|ctrl:ctrl                                                              ; work         ;
+;    |ctrl:ctrl|                             ; 29 (29)           ; 11 (11)      ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |processador|ctrl:ctrl                                                              ; work         ;
 ;    |mux2x3:muxAddRegWr|                    ; 3 (3)             ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |processador|mux2x3:muxAddRegWr                                                     ; work         ;
 ;    |mux2x8:muxDtWr|                        ; 8 (8)             ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |processador|mux2x8:muxDtWr                                                         ; work         ;
 ;    |registrador:regOUTPUT|                 ; 0 (0)             ; 8 (8)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |processador|registrador:regOUTPUT                                                  ; work         ;
 ;    |registrador:regPC|                     ; 9 (9)             ; 8 (8)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |processador|registrador:regPC                                                      ; work         ;
 ;    |rom:rom|                               ; 0 (0)             ; 0 (0)        ; 4096        ; 0            ; 0       ; 0         ; 0    ; 0            ; |processador|rom:rom                                                                ; work         ;
 ;       |altsyncram:altsyncram_component|    ; 0 (0)             ; 0 (0)        ; 4096        ; 0            ; 0       ; 0         ; 0    ; 0            ; |processador|rom:rom|altsyncram:altsyncram_component                                ; work         ;
-;          |altsyncram_l271:auto_generated|  ; 0 (0)             ; 0 (0)        ; 4096        ; 0            ; 0       ; 0         ; 0    ; 0            ; |processador|rom:rom|altsyncram:altsyncram_component|altsyncram_l271:auto_generated ; work         ;
+;          |altsyncram_hi71:auto_generated|  ; 0 (0)             ; 0 (0)        ; 4096        ; 0            ; 0       ; 0         ; 0    ; 0            ; |processador|rom:rom|altsyncram:altsyncram_component|altsyncram_hi71:auto_generated ; work         ;
 ;    |ula:ula|                               ; 53 (53)           ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |processador|ula:ula                                                                ; work         ;
 +--------------------------------------------+-------------------+--------------+-------------+--------------+---------+-----------+------+--------------+-------------------------------------------------------------------------------------+--------------+
 Note: For table entries with two numbers listed, the numbers in parentheses indicate the number of resources of the given type used by the specific entity alone. The numbers listed outside of parentheses indicate the total resources of the given type used by the specific entity and all of its sub-entities in the hierarchy.
 
 
-+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-; Analysis & Synthesis RAM Summary                                                                                                                                               ;
-+-----------------------------------------------------------------------------------+------+------+--------------+--------------+--------------+--------------+------+-----------+
-; Name                                                                              ; Type ; Mode ; Port A Depth ; Port A Width ; Port B Depth ; Port B Width ; Size ; MIF       ;
-+-----------------------------------------------------------------------------------+------+------+--------------+--------------+--------------+--------------+------+-----------+
-; rom:rom|altsyncram:altsyncram_component|altsyncram_l271:auto_generated|ALTSYNCRAM ; AUTO ; ROM  ; 256          ; 16           ; --           ; --           ; 4096 ; instR.mif ;
-+-----------------------------------------------------------------------------------+------+------+--------------+--------------+--------------+--------------+------+-----------+
++-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+; Analysis & Synthesis RAM Summary                                                                                                                                                    ;
++-----------------------------------------------------------------------------------+------+------+--------------+--------------+--------------+--------------+------+----------------+
+; Name                                                                              ; Type ; Mode ; Port A Depth ; Port A Width ; Port B Depth ; Port B Width ; Size ; MIF            ;
++-----------------------------------------------------------------------------------+------+------+--------------+--------------+--------------+--------------+------+----------------+
+; rom:rom|altsyncram:altsyncram_component|altsyncram_hi71:auto_generated|ALTSYNCRAM ; AUTO ; ROM  ; 256          ; 16           ; --           ; --           ; 4096 ; instBranch.mif ;
++-----------------------------------------------------------------------------------+------+------+--------------+--------------+--------------+--------------+------+----------------+
 
 
-+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-; Analysis & Synthesis IP Cores Summary                                                                                                                                   ;
-+--------+--------------+---------+--------------+--------------+----------------------+----------------------------------------------------------------------------------+
-; Vendor ; IP Core Name ; Version ; Release Date ; License Type ; Entity Instance      ; IP Include File                                                                  ;
-+--------+--------------+---------+--------------+--------------+----------------------+----------------------------------------------------------------------------------+
-; Altera ; ROM: 1-PORT  ; N/A     ; N/A          ; N/A          ; |processador|rom:rom ; C:/Users/Pipi/Documents/Circuitos digitais/projetoNano-master/Projeto Nano/rom.v ;
-+--------+--------------+---------+--------------+--------------+----------------------+----------------------------------------------------------------------------------+
++------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+; Analysis & Synthesis IP Cores Summary                                                                                                                            ;
++--------+--------------+---------+--------------+--------------+----------------------+---------------------------------------------------------------------------+
+; Vendor ; IP Core Name ; Version ; Release Date ; License Type ; Entity Instance      ; IP Include File                                                           ;
++--------+--------------+---------+--------------+--------------+----------------------+---------------------------------------------------------------------------+
+; Altera ; ROM: 1-PORT  ; N/A     ; N/A          ; N/A          ; |processador|rom:rom ; C:/Users/Pipi/Documents/Circuitos digitais/projetoNano/Projeto Nano/rom.v ;
++--------+--------------+---------+--------------+--------------+----------------------+---------------------------------------------------------------------------+
 
 
 +---------------------------------------------------------------------------------------------------+
@@ -341,7 +341,7 @@ Note: All latches listed above may not be present at the end of synthesis due to
 
 
 +-----------------------------------------------------------------------------------------------+
-; Source assignments for rom:rom|altsyncram:altsyncram_component|altsyncram_l271:auto_generated ;
+; Source assignments for rom:rom|altsyncram:altsyncram_component|altsyncram_hi71:auto_generated ;
 +---------------------------------+--------------------+------+---------------------------------+
 ; Assignment                      ; Value              ; From ; To                              ;
 +---------------------------------+--------------------+------+---------------------------------+
@@ -392,7 +392,7 @@ Note: All latches listed above may not be present at the end of synthesis due to
 ; READ_DURING_WRITE_MODE_MIXED_PORTS ; DONT_CARE            ; Untyped                  ;
 ; READ_DURING_WRITE_MODE_PORT_A      ; NEW_DATA_NO_NBE_READ ; Untyped                  ;
 ; READ_DURING_WRITE_MODE_PORT_B      ; NEW_DATA_NO_NBE_READ ; Untyped                  ;
-; INIT_FILE                          ; instR.mif            ; Untyped                  ;
+; INIT_FILE                          ; instBranch.mif       ; Untyped                  ;
 ; INIT_FILE_LAYOUT                   ; PORT_A               ; Untyped                  ;
 ; MAXIMUM_DEPTH                      ; 0                    ; Untyped                  ;
 ; CLOCK_ENABLE_INPUT_A               ; BYPASS               ; Untyped                  ;
@@ -405,7 +405,7 @@ Note: All latches listed above may not be present at the end of synthesis due to
 ; ECC_PIPELINE_STAGE_ENABLED         ; FALSE                ; Untyped                  ;
 ; WIDTH_ECCSTATUS                    ; 3                    ; Untyped                  ;
 ; DEVICE_FAMILY                      ; Cyclone II           ; Untyped                  ;
-; CBXI_PARAMETER                     ; altsyncram_l271      ; Untyped                  ;
+; CBXI_PARAMETER                     ; altsyncram_hi71      ; Untyped                  ;
 +------------------------------------+----------------------+--------------------------+
 Note: In order to hide this table in the UI and the text report file, please set the "Show Parameter Settings in Synthesis Report" option in "Analysis and Synthesis Settings -> More Settings" to "Off".
 
@@ -445,7 +445,7 @@ Note: In order to hide this table in the UI and the text report file, please set
 +----------------+--------------+
 ; Partition Name ; Elapsed Time ;
 +----------------+--------------+
-; Top            ; 00:00:00     ;
+; Top            ; 00:00:07     ;
 +----------------+--------------+
 
 
@@ -455,7 +455,7 @@ Note: In order to hide this table in the UI and the text report file, please set
 Info: *******************************************************************
 Info: Running Quartus II 64-Bit Analysis & Synthesis
     Info: Version 13.0.1 Build 232 06/12/2013 Service Pack 1 SJ Web Edition
-    Info: Processing started: Thu Jan 17 19:34:01 2019
+    Info: Processing started: Sun Jan 20 19:58:32 2019
 Info: Command: quartus_map --read_settings_files=on --write_settings_files=off Nano -c Top
 Warning (20028): Parallel compilation is not licensed and has been disabled
 Info (12021): Found 1 design units, including 1 entities, in source file divclk.v
@@ -492,7 +492,7 @@ Info (12130): Elaborated megafunction instantiation "rom:rom|altsyncram:altsyncr
 Info (12133): Instantiated megafunction "rom:rom|altsyncram:altsyncram_component" with the following parameter:
     Info (12134): Parameter "clock_enable_input_a" = "BYPASS"
     Info (12134): Parameter "clock_enable_output_a" = "BYPASS"
-    Info (12134): Parameter "init_file" = "instR.mif"
+    Info (12134): Parameter "init_file" = "instBranch.mif"
     Info (12134): Parameter "intended_device_family" = "Cyclone II"
     Info (12134): Parameter "lpm_hint" = "ENABLE_RUNTIME_MOD=NO"
     Info (12134): Parameter "lpm_type" = "altsyncram"
@@ -503,9 +503,9 @@ Info (12133): Instantiated megafunction "rom:rom|altsyncram:altsyncram_component
     Info (12134): Parameter "widthad_a" = "8"
     Info (12134): Parameter "width_a" = "16"
     Info (12134): Parameter "width_byteena_a" = "1"
-Info (12021): Found 1 design units, including 1 entities, in source file db/altsyncram_l271.tdf
-    Info (12023): Found entity 1: altsyncram_l271
-Info (12128): Elaborating entity "altsyncram_l271" for hierarchy "rom:rom|altsyncram:altsyncram_component|altsyncram_l271:auto_generated"
+Info (12021): Found 1 design units, including 1 entities, in source file db/altsyncram_hi71.tdf
+    Info (12023): Found entity 1: altsyncram_hi71
+Info (12128): Elaborating entity "altsyncram_hi71" for hierarchy "rom:rom|altsyncram:altsyncram_component|altsyncram_hi71:auto_generated"
 Info (12128): Elaborating entity "mux2x3" for hierarchy "mux2x3:muxAddRegWr"
 Info (12128): Elaborating entity "mux2x8" for hierarchy "mux2x8:muxSelDSV"
 Info (12128): Elaborating entity "ctrl" for hierarchy "ctrl:ctrl"
@@ -543,7 +543,7 @@ Info (13000): Registers with preset signals will power-up high
 Info (13003): DEV_CLRn pin will set, and not reset, register with preset signal due to NOT Gate Push-Back
 Warning (13024): Output pins are stuck at VCC or GND
     Warning (13410): Pin "estado[2]" is stuck at GND
-Info (144001): Generated suppressed messages file C:/Users/Pipi/Documents/Circuitos digitais/projetoNano-master/Projeto Nano/output_files/Top.map.smsg
+Info (144001): Generated suppressed messages file C:/Users/Pipi/Documents/Circuitos digitais/projetoNano/Projeto Nano/output_files/Top.map.smsg
 Info (16010): Generating hard_block partition "hard_block:auto_generated_inst"
     Info (16011): Adding 0 node(s), including 0 DDIO, 0 PLL, 0 transceiver and 0 LCELL
 Warning (21074): Design contains 8 input pin(s) that do not drive logic
@@ -555,21 +555,21 @@ Warning (21074): Design contains 8 input pin(s) that do not drive logic
     Warning (15610): No output dependent on input pin "pINPUT[5]"
     Warning (15610): No output dependent on input pin "pINPUT[6]"
     Warning (15610): No output dependent on input pin "pINPUT[7]"
-Info (21057): Implemented 372 device resources after synthesis - the final resource count might be different
+Info (21057): Implemented 378 device resources after synthesis - the final resource count might be different
     Info (21058): Implemented 10 input pins
     Info (21059): Implemented 81 output pins
-    Info (21061): Implemented 265 logic cells
+    Info (21061): Implemented 271 logic cells
     Info (21064): Implemented 16 RAM segments
 Info: Quartus II 64-Bit Analysis & Synthesis was successful. 0 errors, 31 warnings
-    Info: Peak virtual memory: 457 megabytes
-    Info: Processing ended: Thu Jan 17 19:34:04 2019
-    Info: Elapsed time: 00:00:03
-    Info: Total CPU time (on all processors): 00:00:02
+    Info: Peak virtual memory: 475 megabytes
+    Info: Processing ended: Sun Jan 20 19:59:38 2019
+    Info: Elapsed time: 00:01:06
+    Info: Total CPU time (on all processors): 00:00:04
 
 
 +------------------------------------------+
 ; Analysis & Synthesis Suppressed Messages ;
 +------------------------------------------+
-The suppressed messages can be found in C:/Users/Pipi/Documents/Circuitos digitais/projetoNano-master/Projeto Nano/output_files/Top.map.smsg.
+The suppressed messages can be found in C:/Users/Pipi/Documents/Circuitos digitais/projetoNano/Projeto Nano/output_files/Top.map.smsg.
 
 

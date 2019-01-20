@@ -130,9 +130,9 @@ module ctrl ( 	estado,
 //					estado <= 3'd4; 
 					case (OP)
 			        opJMP: SelJMP <= 1'b1;
-					  opBLT:;
-					  opBGT:;
-					  opBNE:;
+					  opBLT: SelDesv <= (ResultULA[7] == 1'b1 ? 1'b1 : 1'b0);
+					  opBGT:	SelDesv <= (ResultULA[7] == 1'b0 ? 1'b1 : 1'b0);
+					  opBNE: SelDesv <= (ResultULA != 8'd0 ? 1'b1 : 1'b0);
 					  opBEQ: SelDesv <= (ResultULA == 8'd0 ? 1'b1 : 1'b0);
 					  opOUTPUT:  LdOUTPUT <= 1'b1; 
 					  default: begin

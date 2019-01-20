@@ -3,35 +3,35 @@ TimeQuest Timing Analyzer Summary
 ------------------------------------------------------------
 
 Type  : Slow Model Setup 'ctrl:ctrl|CmdULA[0]'
-Slack : -4.464
-TNS   : -32.757
+Slack : -4.130
+TNS   : -30.705
 
 Type  : Slow Model Setup 'clk'
-Slack : -2.824
-TNS   : -243.009
+Slack : -2.661
+TNS   : -236.950
 
 Type  : Slow Model Setup 'ctrl:ctrl|LdPC'
-Slack : -1.600
-TNS   : -9.969
+Slack : -1.902
+TNS   : -12.582
 
 Type  : Slow Model Setup 'ctrl:ctrl|LdOUTPUT'
-Slack : -0.326
-TNS   : -0.399
+Slack : -0.545
+TNS   : -2.678
 
 Type  : Slow Model Hold 'clk'
-Slack : -1.734
-TNS   : -1.734
+Slack : -2.767
+TNS   : -2.767
 
 Type  : Slow Model Hold 'ctrl:ctrl|CmdULA[0]'
-Slack : -1.666
-TNS   : -11.902
+Slack : -1.812
+TNS   : -13.178
 
 Type  : Slow Model Hold 'ctrl:ctrl|LdOUTPUT'
-Slack : 0.253
+Slack : 0.478
 TNS   : 0.000
 
 Type  : Slow Model Hold 'ctrl:ctrl|LdPC'
-Slack : 0.737
+Slack : 0.808
 TNS   : 0.000
 
 Type  : Slow Model Minimum Pulse Width 'clk'
@@ -51,35 +51,35 @@ Slack : 0.500
 TNS   : 0.000
 
 Type  : Fast Model Setup 'ctrl:ctrl|CmdULA[0]'
-Slack : -1.441
-TNS   : -10.054
+Slack : -1.283
+TNS   : -9.040
 
 Type  : Fast Model Setup 'clk'
 Slack : -0.979
-TNS   : -67.906
+TNS   : -65.548
 
 Type  : Fast Model Setup 'ctrl:ctrl|LdPC'
-Slack : -0.202
-TNS   : -0.483
+Slack : -0.415
+TNS   : -2.006
 
 Type  : Fast Model Setup 'ctrl:ctrl|LdOUTPUT'
-Slack : 0.500
+Slack : 0.385
 TNS   : 0.000
 
 Type  : Fast Model Hold 'clk'
-Slack : -1.337
-TNS   : -1.337
+Slack : -1.746
+TNS   : -1.746
 
 Type  : Fast Model Hold 'ctrl:ctrl|CmdULA[0]'
-Slack : -1.179
-TNS   : -8.760
+Slack : -1.272
+TNS   : -9.432
 
 Type  : Fast Model Hold 'ctrl:ctrl|LdOUTPUT'
-Slack : -0.007
-TNS   : -0.007
+Slack : 0.110
+TNS   : 0.000
 
 Type  : Fast Model Hold 'ctrl:ctrl|LdPC'
-Slack : 0.360
+Slack : 0.361
 TNS   : 0.000
 
 Type  : Fast Model Minimum Pulse Width 'clk'
